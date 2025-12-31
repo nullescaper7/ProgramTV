@@ -2,21 +2,7 @@
     {
         "id": 1,
         "tv_channel": "DIGI24 HD",
-        "tv_program": [
-            "07:00 - Digimatinal",
-            "09:00 - Știrile dimineții",
-            "12:00 - Știrile amiezii",
-            "15:00 - Studio politic",
-            "16:00 - Știrile zilei",
-            "19:00 - Business Club",
-            "19:50 - Știri sport",
-            "20:00 - Editie speciala - cu Claudiu Pandaru",
-            "23:00 - Știrile serii",
-            "01:00 - Editie speciala (R)",
-            "04:00 - Studio politic (R)",
-            "05:00 - Business Club (R)",
-            "05:50 - Stirile diminetii"
-        ]
+        "tv_program": []
     },
     {
         "id": 2,
@@ -46,18 +32,7 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": [
-            "08:00 - Bună dimineața, România!",
-            "12:00 - Talk B1",
-            "15:00 - Politica zilei",
-            "18:00 - Bună, România!",
-            "20:00 - News Pass",
-            "23:00 - Doctorul",
-            "00:00 - Bună, România! (R)",
-            "01:50 - Politica zilei (R)",
-            "03:40 - News Pass (R)",
-            "06:10 - Doctorul (R)"
-        ]
+        "tv_program": []
     },
     {
         "id": 7,
@@ -271,21 +246,7 @@
     {
         "id": 13,
         "tv_channel": "Digi 24",
-        "tv_program": [
-            "07:00 - Digimatinal",
-            "09:00 - Știrile dimineții",
-            "12:00 - Știrile amiezii",
-            "15:00 - Studio politic",
-            "16:00 - Știrile zilei",
-            "19:00 - Business Club",
-            "19:50 - Știri sport",
-            "20:00 - Editie speciala - cu Claudiu Pandaru",
-            "23:00 - Știrile serii",
-            "01:00 - Editie speciala (R)",
-            "04:00 - Studio politic (R)",
-            "05:00 - Business Club (R)",
-            "05:50 - Stirile diminetii"
-        ]
+        "tv_program": []
     },
     {
         "id": 14,
@@ -476,41 +437,12 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": [
-            "09:00 - 3 Play",
-            "09:15 - Morning Mix",
-            "10:00 - Today's Hitlist - TOP 10",
-            "11:00 - 11 Vids we're loving right now",
-            "12:00 - Versus",
-            "12:30 - Hot + Hits",
-            "13:00 - Clubland - This week's TOP 10",
-            "13:45 - Hot+Hits",
-            "14:00 - .Ro",
-            "14:30 - Hot+Hits",
-            "16:30 - Versus",
-            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
-            "17:30 - Social Media Chart",
-            "18:00 - Today's hot girls",
-            "19:00 - Beats and massive R'N'B Hits",
-            "20:00 - Euro Top 20 (R)",
-            "22:00 - Today's Hitlist (R)",
-            "23:00 - Hip Hop Beats",
-            "00:00 - Streaming Chart (R)",
-            "01:00 - Nightshift"
-        ]
+        "tv_program": []
     },
     {
         "id": 29,
         "tv_channel": "KISS-TV",
-        "tv_program": [
-            "10:00 - Kiss Alert",
-            "13:00 - Kiss After School",
-            "16:00 - Hits For Hours",
-            "19:00 - Kiss Alert",
-            "21:00 - Big Beats",
-            "02:00 - Kiss By Night",
-            "06:00 - Rise & Kiss"
-        ]
+        "tv_program": []
     },
     {
         "id": 30,
@@ -520,23 +452,7 @@
     {
         "id": 80,
         "tv_channel": "ETNO TV",
-        "tv_program": [
-            "07:30 - Cântece pentru cei dragi",
-            "08:30 - Cântece pentru cei dragi",
-            "11:00 - Cântece pentru cei dragi / Teleshopping",
-            "13:00 - Teleshopping",
-            "15:00 - Cantece pentru cei dragi / Teleshopping",
-            "16:00 - Sanatate inainte de toate cu Lacramioara Pralea (R)",
-            "17:00 - Cântece pentru cei dragi",
-            "18:00 - Cântece pentru cei dragi",
-            "19:00 - Seară românească",
-            "22:10 - Petrecere la Han (R)",
-            "22:30 - Cântece pentru cei dragi",
-            "00:00 - Cantece pentru cei dragi",
-            "01:00 - Seară Românească (R)",
-            "05:30 - Cântece pentru cei dragi (R)",
-            "06:30 - Sănătate inainte de toate cu Lacramioara Pralea (R)"
-        ]
+        "tv_program": []
     },
     {
         "id": 31,
@@ -719,41 +635,7 @@
     {
         "id": 36,
         "tv_channel": "CBS-REALITY",
-        "tv_program": [
-            "07:00 - Judecătoarea Judy Sezonul 22 - Episodul 144",
-            "07:25 - Judecătoarea Judy Sezonul 22 - Episodul 145",
-            "07:55 - Judecătoarea Judy Sezonul 21 - Episodul 224",
-            "08:20 - Judecătoarea Judy Sezonul 21 - Episodul 225",
-            "08:45 - Judecătoarea Judy Sezonul 21 - Episodul 226",
-            "09:10 - Judecătoarea Judy Sezonul 21 - Episodul 227",
-            "09:35 - Judecătoarea Judy Sezonul 21 - Episodul 228",
-            "10:00 - Viaţa cu balbism",
-            "11:00 - Dă-mi maşina înapoi! Sezonul 3 - Episodul 12",
-            "12:00 - Judecătoarea Judy Sezonul 22 - Episodul 142",
-            "12:30 - Judecătoarea Judy Sezonul 22 - Episodul 143",
-            "13:00 - Judecătoarea Judy Sezonul 22 - Episodul 144",
-            "13:25 - Judecătoarea Judy Sezonul 22 - Episodul 145",
-            "13:55 - Judecătoarea Judy Sezonul 21 - Episodul 229",
-            "14:20 - Judecătoarea Judy Sezonul 21 - Episodul 230",
-            "14:45 - Judecătoarea Judy Sezonul 21 - Episodul 231",
-            "15:10 - Judecătoarea Judy Sezonul 21 - Episodul 232",
-            "15:35 - Judecătoarea Judy Sezonul 21 - Episodul 233",
-            "16:00 - Cazuri vechi redeschise Sezonul 2 - Episodul 5",
-            "17:00 - Cazuri vechi redeschise Sezonul 2 - Episodul 6",
-            "18:00 - Judecătoarea Judy Sezonul 22 - Episodul 146",
-            "18:30 - Judecătoarea Judy Sezonul 22 - Episodul 147",
-            "19:00 - Judecătoarea Judy Sezonul 22 - Episodul 148",
-            "19:30 - Judecătoarea Judy Sezonul 22 - Episodul 149",
-            "20:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 1",
-            "21:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 2",
-            "22:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 3",
-            "23:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 5",
-            "01:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 7",
-            "02:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 8",
-            "03:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 9",
-            "04:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 10",
-            "05:00 - Crimă: lupta pentru adevăr Sezonul 1 - Episodul 4"
-        ]
+        "tv_program": []
     },
     {
         "id": 38,
