@@ -221,7 +221,7 @@ def scrape_all_channels(channel_urls):
     return all_channels
 
 
-def save_to_json(data, filename="programtv_schedule.json"):
+def save_to_json(data, filename="tv_schedule.json"):
     """Save results to JSON"""
     if not data:
         print("⚠️ No data to save.")
