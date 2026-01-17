@@ -913,36 +913,7 @@
     {
         "id": 44,
         "tv_channel": "DISCOVERY-CHANNEL",
-        "tv_program": [
-            "07:00 - Bogății ascunse în magazii Sezonul 7 - Episodul 7 - Henry",
-            "07:30 - Bogății ascunse în magazii Sezonul 7 - Episodul 8 - Duncan",
-            "08:00 - Bogății ascunse în magazii Sezonul 7 - Episodul 9 - Rob Tilley",
-            "08:30 - Bogății ascunse în magazii Sezonul 7 - Episodul 10 - Stuart Mills",
-            "09:00 - Comori arhitecturale recuperate Sezonul 7 - Episodul 4",
-            "10:00 - Comori arhitecturale recuperate Sezonul 7 - Episodul 5",
-            "11:00 - Comori restaurate Sezonul 6 - Episodul 7 - Împletitură magică",
-            "12:00 - Comori restaurate Sezonul 6 - Episodul 8 - Apasă pedala până la capăt",
-            "13:00 - Comori arhitecturale recuperate Sezonul 17 - Episodul 12",
-            "14:00 - Cum se fabrică diverse lucruri? Sezonul 13 - Episodul 1",
-            "14:30 - Cum se fabrică diverse lucruri? Sezonul 13 - Episodul 2",
-            "15:00 - Maşini pe alese Sezonul 17 - Episodul 6",
-            "16:00 - Maşini pe alese Sezonul 17 - Episodul 7",
-            "17:00 - Bogății ascunse în magazii: Mașini vintage Sezonul 3 - Episodul 3 - Chrysler Imperial Crown",
-            "18:00 - Bogății ascunse în magazii: Mașini vintage Sezonul 3 - Episodul 4 - Austin A40",
-            "19:00 - Bogății ascunse în magazii: Mașini vintage Sezonul 3 - Episodul 5 - Humber Hawk",
-            "20:00 - Goana după aur Sezonul 16 - Episodul 7 - Surprise Fortunes",
-            "21:00 - O pradă mortală Sezonul 20 - Episodul 17 - Între viață și moarte",
-            "22:00 - Expediţii în necunoscut Sezonul 10 - Episodul 1 - Misterul ruinelor din Epoca de Piatră",
-            "23:00 - În inima furtunii Sezonul 2 - Episodul 11 - Infern în LA",
-            "00:00 - Filmări în misiune Sezonul 5 - Episodul 11 - Cine strigă că a văzut lupul",
-            "01:00 - Crime înregistrate Sezonul 1 - Episodul 4",
-            "02:00 - Goana după aur Sezonul 16 - Episodul 7 - Surprise Fortunes",
-            "02:48 - O pradă mortală Sezonul 20 - Episodul 17 - Între viață și moarte",
-            "03:36 - Filmări în misiune Sezonul 5 - Episodul 11 - Cine strigă că a văzut lupul",
-            "04:24 - Comori arhitecturale recuperate Sezonul 15 - Episodul 4",
-            "05:12 - Comori arhitecturale recuperate Sezonul 15 - Episodul 5",
-            "06:00 - Viață de camionagiu Sezonul 3 - Episodul 2"
-        ]
+        "tv_program": []
     },
     {
         "id": 44,
