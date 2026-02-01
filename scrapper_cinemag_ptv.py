@@ -13,7 +13,7 @@ CHANNEL_URLS = {
     "DIGI24 HD": {"url": "https://m.cinemagia.ro/program-tv/digi-24-hd/", "id": 1},
     "ANTENA3": {"url": "https://programtv.ro/canal-tv/antena-3-cnn", "id": 2},
     "B1": {"url": "https://programtv.ro/canal-tv/b1-tv", "id": 3},
-    "PROTV": {"url": "https://m.cinemagia.ro/program-tv/pro-tv-hd/", "id": 7},
+    "PROTV": {"url": "https://programtv.ro/canal-tv/pro-tv", "id": 7},
     "ANTENA1": {"url": "https://m.cinemagia.ro/program-tv/antena-1-hd/", "id": 8},
     "TVR1": {"url": "https://m.cinemagia.ro/program-tv/tvr-1-hd/", "id": 4},
     "TVR2": {"url": "https://m.cinemagia.ro/program-tv/tvr-2-hd/", "id": 5},
