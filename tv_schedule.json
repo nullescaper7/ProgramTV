@@ -1291,12 +1291,52 @@
     {
         "id": 78,
         "tv_channel": "Romania TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştirile România TV",
+            "08:00 - Ştirile România TV",
+            "09:00 - Ştirile România TV",
+            "10:00 - Ştirile România TV",
+            "11:00 - Ştirile Romania TV",
+            "12:00 - Ştirile România TV",
+            "13:00 - Ştirile România TV",
+            "14:00 - Ştirile România TV",
+            "15:00 - Newsline",
+            "16:00 - Ştirile România TV",
+            "17:00 - Newsline",
+            "18:00 - Ştirile România TV",
+            "18:30 - Românii au noroc- Extragere LOTO",
+            "19:00 - Ultima oră",
+            "20:00 - România la raport",
+            "21:00 - Punctul culminant",
+            "23:00 - Ştirile România TV",
+            "23:15 - TV Break",
+            "00:00 - Ştirile România TV",
+            "01:00 - Punctul culminant",
+            "02:00 - Punctul culminant",
+            "03:00 - România la raport",
+            "04:00 - Ultima oră",
+            "05:00 - Ştirile România TV",
+            "06:00 - Ştirile România TV"
+        ]
     },
     {
         "id": 23,
         "tv_channel": "AMC",
-        "tv_program": []
+        "tv_program": [
+            "08:55 - Războiul pământului • Ep.1 2002 - Germania - Western Cu: Luke Perry, Rachel Ward Nota: 7.3 / Imdb 6.7",
+            "10:50 - Războiul pământului • Ep.2 2002 - Germania - Western Cu: Luke Perry, Rachel Ward Nota: 7.3 / Imdb 6.7",
+            "12:50 - Ip Man 4: Ultima luptă 2019 - Hong Kong, China - Acţiune, Biografic, Dramă Cu: Miriam Yeung Chin Wah, Shengyi Huang Nota: 7.7 / Imdb 7.0",
+            "15:05 - Fantoma lui Bruce Lee 1986 - SUA - Acţiune, Dramă Cu: Kurt McKinney, Jean-Claude Van Damme Nota: 6.7 / Imdb 5.6",
+            "17:10 - Poarta Stelară, Univers: Aer 1994 - SUA - Acţiune, Aventuri, Fantastic Cu: Kurt Russell, James Spader Nota: 7.5 / Imdb 7.0",
+            "19:40 - Înfruntarea 1997 - SUA - Dramă Cu: Alec Baldwin, Anthony Hopkins Nota: 7.8 / Imdb 7.0",
+            "22:00 - Rambo II 1985 - SUA - Acţiune, Aventuri Cu: Sylvester Stallone, Charles Napier Nota: 7.6 / Imdb 6.5",
+            "23:55 - Kickboxer 1989 - SUA - Acţiune, Dramă, Sport Cu: Jean-Claude Van Damme, Dennis Alexio Nota: 7.3 / Imdb 6.4",
+            "01:55 - Resident Evil: Capitolul final 2016 - Germania, Australia, Canada, Franta - Acţiune, Horror, SF Cu: Ali Larter, Milla Jovovich Nota: 6.8 / Imdb 5.5",
+            "04:05 - Spânzurătoarea 2017 - Crimă, Mister, Thriller Cu: Al Pacino, Brittany Snow Nota: 6.3 / Imdb 5.2",
+            "06:00 - Zoom In • Ep.196 2008 - SUA - Documentar Cu: Angela Valley, Michelle Blenker Nota: - / Imdb 8.7",
+            "06:10 - Zoom In • Ep.194 2008 - SUA - Documentar Cu: Angela Valley, Michelle Blenker Nota: - / Imdb 8.7",
+            "06:20 - Dansul dragostei 2006 - SUA - Dramă, Muzical, Romantic Cu: Channing Tatum, Jenna Dewan-Tatum Nota: 7.5 / Imdb 6.5"
+        ]
     },
     {
         "id": 91,
