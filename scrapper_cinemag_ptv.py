@@ -125,22 +125,52 @@ def scrape_cinemagia_ro(channel_name, url, soup):
         return []
 
     # Find all list items within the show_list container
-    entries = main_container.find_all("li")
+    entries = main_container.find_all("li", id=re.compile(r"^alarmContainer_"))
 
     for entry in entries:
         # Find time element
-        time_tag = entry.find("div", class_="hour") or entry.find("span", class_="time")
-
-        # Find title element
-        title_tag = entry.find("a") or entry.find("span", class_="title") or entry.find("div", class_="title")
-
-        # Find live indicator if exists
-        live_tag = entry.find("span", class_="live") or entry.find("span", class_="tv-show-live")
-
-        # Extract text
-        time = time_tag.get_text(strip=True) if time_tag else ""
-        title = title_tag.get_text(" ", strip=True) if title_tag else ""
-        live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
+        time_tag = entry.find("span", class_="time")
+        
+        # Try to find title from all_details first
+        all_details = entry.find("div", class_="all_details")
+        
+        if all_details:
+            # Extract detailed information from all_details div
+            title_tag = all_details.find("h2").find("a") if all_details.find("h2") else None
+            info_div = all_details.find("div", class_="info")
+            
+            # Extract time
+            time = time_tag.get_text(strip=True) if time_tag else ""
+            
+            # Extract title
+            title = title_tag.get_text(" ", strip=True) if title_tag else ""
+            
+            # Extract additional info from the info div
+            additional_info = []
+            if info_div:
+                # Get all divs inside info
+                info_texts = info_div.find_all("div", recursive=False)
+                for info in info_texts:
+                    # Skip the buttons (vod_* classes)
+                    if not info.get("class") or not any(cls.startswith("vod_") for cls in info.get("class", [])):
+                        text = info.get_text(" ", strip=True)
+                        if text and not text.startswith("Disney+") and not text.startswith("Rakuten") and not text.startswith("Max"):
+                            additional_info.append(text)
+            
+            # Find live indicator if exists
+            live_tag = entry.find("span", class_="live") or entry.find("span", class_="tv-show-live")
+            live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
+            
+        else:
+            # Fallback to old method if all_details not found
+            time_tag = entry.find("div", class_="hour") or entry.find("span", class_="time")
+            title_tag = entry.find("a") or entry.find("span", class_="title") or entry.find("div", class_="title")
+            live_tag = entry.find("span", class_="live") or entry.find("span", class_="tv-show-live")
+            
+            time = time_tag.get_text(strip=True) if time_tag else ""
+            title = title_tag.get_text(" ", strip=True) if title_tag else ""
+            live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
+            additional_info = []
 
         if title:
             # Remove the time from the beginning of the title if it starts with the same time
@@ -152,6 +182,10 @@ def scrape_cinemagia_ro(channel_name, url, soup):
                 title = title[len(time):].lstrip(" -:")
 
             full_text = f"{time} - {title}{live}".strip()
+            
+            # Add additional info if available
+            if additional_info:
+                full_text += " | " + " | ".join(additional_info)
 
             # Remove unwanted fragments
             full_text = re.sub(r"👉 Vezi detalii", "", full_text, flags=re.IGNORECASE)
