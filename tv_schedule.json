@@ -21,28 +21,7 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": [
-            "07:00 - Ştiri",
-            "08:00 - Știrile dimineții",
-            "10:00 - Stiri cu Ana Iorga",
-            "11:00 - NewsRoom cu Madalina Mihalache",
-            "12:00 - Ştiri",
-            "13:00 - NewsRoom",
-            "14:00 - Ştiri",
-            "15:00 - Decisiv",
-            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
-            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
-            "18:00 - News Hour with CNN",
-            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
-            "21:00 - Sinteza zilei",
-            "23:30 - În gura presei",
-            "00:30 - Ştiri",
-            "01:00 - Ştiri",
-            "02:00 - Sinteza zilei",
-            "04:00 - În gura presei",
-            "05:00 - News Hour with CNN",
-            "06:00 - Ştiri"
-        ]
+        "tv_program": []
     },
     {
         "id": 3,
@@ -1263,7 +1242,7 @@
             "19:00 - Live Tenis: ATP Dubai",
             "19:45 - Live Ferencvaros - Ludogorets Play-off (retur)",
             "21:45 - Liga a 2-a: Rezumatele etapei Etapa 18",
-            "22:00 - Live Europa League Play-off (retur)",
+            "22:00 - Live Conference League: Crystal Palace - Zrinjski Mostar",
             "00:00 - Live Tenis",
             "02:00 - Live Tenis",
             "04:00 - Live Tenis",
