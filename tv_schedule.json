@@ -21,17 +21,69 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştiri",
+            "08:00 - Știrile dimineții",
+            "10:00 - Stiri cu Ana Iorga",
+            "11:00 - NewsRoom cu Madalina Mihalache",
+            "12:00 - Ştiri",
+            "13:00 - NewsRoom",
+            "14:00 - Ştiri",
+            "15:00 - Decisiv",
+            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
+            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
+            "18:00 - News Hour with CNN",
+            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
+            "21:00 - Sinteza zilei",
+            "23:30 - În gura presei",
+            "00:30 - Ştiri",
+            "01:00 - Ştiri",
+            "02:00 - Sinteza zilei",
+            "04:00 - În gura presei",
+            "05:00 - News Hour with CNN",
+            "06:00 - Ştiri"
+        ]
     },
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - News Pass",
+            "23:00 - Doctorul",
+            "00:00 - Bună, România! (R)",
+            "01:50 - Politica zilei (R)",
+            "03:40 - News Pass (R)",
+            "06:10 - Doctorul (R)"
+        ]
     },
     {
         "id": 7,
         "tv_channel": "PROTV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştirile Pro Tv",
+            "10:30 - Vorbeşte lumea AP",
+            "13:00 - Ştirile Pro Tv",
+            "14:00 - La marginea lumii",
+            "15:00 - Leyla",
+            "16:00 - Lecţii de viaţă",
+            "17:00 - Ştirile Pro Tv",
+            "18:00 - Batem palma?",
+            "19:00 - Ştirile Pro Tv",
+            "20:30 - Las fierbinți",
+            "21:30 - Tătuţu'",
+            "22:30 - Jumper: Oriunde, oricând",
+            "00:15 - Atletico Textila",
+            "01:15 - Ştirile Pro Tv",
+            "01:45 - Lecţii de viaţă (R)",
+            "02:30 - I Like IT (R)",
+            "03:00 - Vorbeşte lumea (R) AP",
+            "05:00 - Batem palma? (R)",
+            "06:00 - Ştirile Pro Tv"
+        ]
     },
     {
         "id": 8,
@@ -353,7 +405,42 @@
     {
         "id": 17,
         "tv_channel": "TVR Cultural",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Grădini de vis: geometrie, artă, viaţă (R)",
+            "07:30 - Intrare liberă (R)",
+            "09:00 - Jurnal Cultural (R)",
+            "09:30 - Jurnal cultural în spatele imaginii (R)",
+            "10:00 - Classy Jukebox",
+            "11:55 - Poveştile caselor vechi",
+            "12:00 - Concert de prânz (R)",
+            "12:45 - Momentart (R)",
+            "12:50 - Poet şi poezie (R)",
+            "13:00 - Jurnal Cultural",
+            "13:05 - Documentar 360° Geo - Paznicii Vaticanului – Garda Elveţiană Pontificală",
+            "14:00 - Cultura minorităţilor",
+            "14:30 - Cultart",
+            "15:30 - Mic dejun cu un campion",
+            "16:30 - Concert de prânz",
+            "17:25 - Jurnal Cultural",
+            "17:30 - TVR 70",
+            "18:00 - Un an la Şcoala Juilliard",
+            "18:30 - Intrare liberă",
+            "20:00 - Jurnal Cultural",
+            "20:30 - Jurnal cultural în spatele imaginii",
+            "21:00 - Domnul şi doamna Hitchcock",
+            "22:00 - Grindul șacalilor",
+            "23:45 - Momentart (R)",
+            "23:50 - Poet şi poezie (R)",
+            "00:00 - Omul şi timpul (R)",
+            "01:00 - Jurnal Cultural (R)",
+            "01:30 - Jurnal cultural în spatele imaginii (R)",
+            "02:00 - Cultart (R)",
+            "03:00 - Grindul șacalilor (R)",
+            "04:45 - CVarte",
+            "04:50 - Poveştile caselor vechi (R)",
+            "05:00 - Classy Jukebox (R)",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 20,
@@ -490,7 +577,23 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Zestrea muzicală",
+            "08:50 - Etnografica",
+            "09:00 - Muzica regiunilor",
+            "11:00 - Tezaur folcloric",
+            "12:00 - Scena românilor",
+            "14:00 - Cântec românesc",
+            "15:50 - Etnografica",
+            "16:00 - Mostenirea cantecului",
+            "18:00 - De la sate adunate",
+            "19:00 - Tezaur folcloric",
+            "20:00 - Ora de aur",
+            "21:00 - Scena românilor",
+            "22:55 - Etnografica",
+            "23:00 - Cu lăutarii după mine",
+            "00:00 - Muzică tradiţională"
+        ]
     },
     {
         "id": 80,
@@ -530,12 +633,78 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Proiect De Tara",
+            "09:00 - Head-Uri Live",
+            "09:05 - Proiect De Tara",
+            "10:00 - Head-Uri Live",
+            "10:05 - Maraton Infrastructura Care Leaga Romania",
+            "13:05 - Prima News By Profit.Ro C-Tin Rudnitchi",
+            "14:00 - Head-Uri Live",
+            "14:05 - Profit Live",
+            "15:00 - Sistemul Medikal",
+            "16:00 - Focus 14 Inregistrat",
+            "18:00 - Romania Politica Cu Larisa Bernaschi",
+            "20:00 - Proiect De Tara: Romania! Cu Andrei Gheorghe",
+            "23:00 - Romania Politica",
+            "01:00 - Proiect De Tara :Romania!",
+            "04:00 - Focus 18 Inregistrat",
+            "06:00 - Romania Politica"
+        ]
     },
     {
         "id": 33,
         "tv_channel": "EURO-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Bună dimineața, România!",
+            "07:50 - Euronews Green",
+            "08:00 - Bună dimineața, România!",
+            "08:50 - România frumoasă",
+            "09:00 - Bună dimineața, România!",
+            "09:50 - Hype",
+            "10:00 - Euronews",
+            "10:50 - Euronews travel",
+            "11:00 - Euronews",
+            "11:50 - Euronews Culture",
+            "12:00 - Euronews",
+            "12:30 - Permis de antreprenor",
+            "13:00 - Euronews",
+            "13:50 - Euronews Next",
+            "14:00 - Euronews",
+            "14:50 - Euronews My Europe",
+            "15:00 - Educația ta",
+            "15:30 - Permis de antreprenor",
+            "16:00 - Euronews",
+            "16:50 - Euronews Travel",
+            "17:00 - Euronews",
+            "17:50 - Traiesti bine!",
+            "18:00 - Euronews prime-time",
+            "18:50 - Euronews Culture",
+            "19:00 - Euronews",
+            "19:50 - Euronews My Europe",
+            "20:00 - Euronews",
+            "20:50 - Euronews world",
+            "21:00 - Vocile care conteaza",
+            "21:50 - Meteo",
+            "22:00 - Vocile care conteaza",
+            "22:50 - Euronews Travel",
+            "23:00 - Euronews prime-time",
+            "23:50 - Euronews Green",
+            "00:00 - Euronews (R)",
+            "00:50 - Euronews My Europe",
+            "01:00 - Euronews (R)",
+            "01:50 - Euronews Culture",
+            "02:00 - Euronews prime-time (R)",
+            "02:50 - Euronews Next",
+            "03:00 - Vocile care contează, cu Paula Rusu Nistor (R)",
+            "04:00 - Vocile care contează, cu Paula Rusu Nistor (R)",
+            "04:50 - Euronews Green",
+            "05:00 - Euronews Travel",
+            "05:15 - Traiesti Bine!",
+            "05:30 - Euronews Culture",
+            "06:00 - Euronews prime-time (R)",
+            "06:50 - Euronews World"
+        ]
     },
     {
         "id": 34,
@@ -586,12 +755,38 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Fotbal Uefa Europa League: Fcsb - Bologna",
+            "10:00 - Fotbal Spania: Alaves - Villarreal",
+            "12:00 - Fotbal Uefa Europa League: Fcsb - Feyenoord",
+            "14:00 - Fotbal Spania: Girona - Bilbao",
+            "16:00 - Fotbal Uefa Europa League: Fcsb - Fenerbahce",
+            "18:00 - Fotbal Spania: Atletico - Getafe",
+            "20:00 - Fotbal Liga I: Fcsb - Hermannstadt",
+            "22:00 - Fotbal Spania: Oviedo - Villarreal",
+            "00:00 - Fotbal Liga I: Fcsb - Farul Constanta",
+            "02:00 - Fotbal Spania: Real Madrid - Elche",
+            "04:00 - Fotbal Liga I: Dinamo - Fcsb",
+            "06:00 - Fotbal Spania: Espanyol - Oviedo"
+        ]
     },
     {
         "id": 39,
         "tv_channel": "PRS-2",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Fotbal Uefa Europa League: Fcsb - Bologna",
+            "10:00 - Fotbal Spania: Alaves - Villarreal",
+            "12:00 - Fotbal Uefa Europa League: Fcsb - Feyenoord",
+            "14:00 - Fotbal Spania: Girona - Bilbao",
+            "16:00 - Fotbal Uefa Europa League: Fcsb - Fenerbahce",
+            "18:00 - Fotbal Spania: Atletico - Getafe",
+            "20:00 - Fotbal Liga I: Fcsb - Hermannstadt",
+            "22:00 - Fotbal Spania: Oviedo - Villarreal",
+            "00:00 - Fotbal Liga I: Fcsb - Farul Constanta",
+            "02:00 - Fotbal Spania: Real Madrid - Elche",
+            "04:00 - Fotbal Liga I: Dinamo - Fcsb",
+            "06:00 - Fotbal Spania: Espanyol - Oviedo"
+        ]
     },
     {
         "id": 40,
@@ -762,7 +957,36 @@
     {
         "id": 44,
         "tv_channel": "DISCOVERY-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Mașini nervoase: Un nou garaj Sezonul 1 - Episodul 23 - Fordul din '56 al lui Sue - Partea 1",
+            "08:00 - Cum se fabrică ? Sezonul 21 - Episodul 5 - Ceai, ornamente pentru acoperișuri, flori artificiale, jante de aliaj",
+            "08:30 - Cum se fabrică ? Sezonul 21 - Episodul 6 - Capsule cu gel, leagăne cu arc, clătite congelate, cauciuc natural",
+            "09:00 - Test de supravieţuire în doi Sezonul 11 - Episodul 12 - Intră în scenă regina",
+            "11:00 - Comori arhitecturale recuperate Sezonul 16 - Episodul 12",
+            "12:00 - Maşini pe alese Sezonul 17 - Episodul 10",
+            "13:00 - Visul american pe roți Sezonul 1 - Episodul 6 - Impala",
+            "14:00 - Test de supravieţuire în doi Sezonul 4 - Episodul 6",
+            "15:00 - Test de supravieţuire în doi Sezonul 4 - Episodul 7",
+            "16:00 - Comori arhitecturale recuperate Sezonul 20 - Episodul 2 - Cumpără ce-ți place",
+            "17:00 - Bogății ascunse în magazii Sezonul 5 - Episodul 8",
+            "17:30 - Bogății ascunse în magazii Sezonul 5 - Episodul 9",
+            "18:00 - Maşini pe alese Sezonul 14 - Episodul 5",
+            "19:00 - Cum se fabrică ? Sezonul 15 - Episodul 12 - Episod 12",
+            "19:30 - Cum se fabrică ? Sezonul 15 - Episodul 13 - Episod 13",
+            "20:00 - Bogății ascunse în magazii Sezonul 7 - Episodul 15 - Rick Kenway",
+            "20:30 - Bogății ascunse în magazii Sezonul 7 - Episodul 16 - Dave McNicholas",
+            "21:00 - Comori arhitecturale recuperate Sezonul 19 - Episodul 5 - Noi începuturi",
+            "22:00 - Test de supravieţuire în doi Sezonul 7 - Episodul 12",
+            "00:00 - Grănicerii Suediei Sezonul 2 - Episodul 13",
+            "01:00 - Grănicerii Suediei Sezonul 2 - Episodul 14",
+            "02:00 - Bogății ascunse în magazii Sezonul 7 - Episodul 15 - Rick Kenway",
+            "02:24 - Bogății ascunse în magazii Sezonul 7 - Episodul 16 - Dave McNicholas",
+            "02:48 - Comori arhitecturale recuperate Sezonul 19 - Episodul 5 - Noi începuturi",
+            "03:36 - Test de supravieţuire - Naufragiați pe o insulă",
+            "04:24 - Maşini pe alese Sezonul 16 - Episodul 10 - Un model rar",
+            "05:12 - Comori arhitecturale recuperate Sezonul 16 - Episodul 3 - Șoricelul din masă",
+            "06:00 - Maşini pe alese Sezonul 10 - Episodul 11 - Lotus Elise"
+        ]
     },
     {
         "id": 44,
