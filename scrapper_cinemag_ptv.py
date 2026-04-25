@@ -64,7 +64,9 @@ CHANNEL_URLS = {
     "CineMax2": {"url": "https://m.cinemagia.ro/program-tv/cinemax-2/", "id": 322},
     "Viasat-Nature": {"url": "https://m.cinemagia.ro/program-tv/viasat-nature/", "id": 99935},
     "HBO3": {"url": "https://m.cinemagia.ro/program-tv/hbo-3-hd/", "id": 538722},
-    "CineMaraton": {"url": "https://m.cinemagia.ro/program-tv/cinemaraton/", "id": 26563}
+    "CineMaraton": {"url": "https://m.cinemagia.ro/program-tv/cinemaraton/", "id": 26563},
+    "CineMaraton": {"url": "https://m.cinemagia.ro/program-tv/nostalgia-tv/", "id": 354725},
+    
 }
 
 
