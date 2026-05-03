@@ -345,7 +345,7 @@
         "id": 14,
         "tv_channel": "PROCINEMA",
         "tv_program": [
-            "07:45 - Aventură în natură 2 2022 - (R) - Animaţie, Aventuri, Comedie Cu: Bernard Jacobsen, Stephen Thomas Ochsner Nota: 6.9 / Imdb 5.0",
+            "07:45 - Aventură în natură 2 2022 - (R) - Animaţie, Aventuri, Comedie Cu: Bernard Jacobsen, Stephen Thomas Ochsner Nota: 6.8 / Imdb 5.0",
             "09:45 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
             "12:00 - Moromeții 2 2018 - (R) - Romania - Dramă Cu: Horațiu Mălăele, Dana Dogaru Nota: 7.5 / Imdb 7.6",
             "14:15 - In pas cu familia Stein 2006 - SUA - Comedie Cu: Garry Marshall, Jeremy Piven Nota: 6.2 / Imdb 5.4",
@@ -573,27 +573,7 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": [
-            "07:00 - Zestrea muzicală",
-            "08:00 - Simplu si rural cu Ana Maria Andrei",
-            "08:50 - Etnografica",
-            "09:00 - Ora satului",
-            "10:00 - Din arhiva TVR",
-            "11:00 - Tezaur folcloric",
-            "12:00 - Scena românilor",
-            "14:00 - Cântec românesc",
-            "15:50 - Etnografica",
-            "16:00 - PODCAST",
-            "17:00 - Romania veritabila",
-            "17:30 - Frati de vita",
-            "18:00 - Nestemate populare",
-            "19:00 - Tezaur folcloric",
-            "20:00 - Ora de aur",
-            "21:00 - Scena românilor",
-            "22:50 - Etnografica",
-            "23:00 - Cu lăutarii după mine",
-            "00:00 - Muzică tradiţională"
-        ]
+        "tv_program": []
     },
     {
         "id": 80,
@@ -637,31 +617,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "07:00 - Focus 18",
-            "09:00 - Connect",
-            "09:30 - Sanatate Cu Stil",
-            "10:05 - Iosif Pe Coclauri",
-            "12:00 - Legile Afacerilor",
-            "12:30 - Drumul Spre Succes",
-            "13:00 - Sistemul Medikal",
-            "14:00 - Viitor Pt Romania",
-            "16:00 - Life & Style",
-            "16:30 - Viata Are Gust",
-            "17:00 - Zona De Conflict Cu Marius Saizu",
-            "18:00 - Insider Politic",
-            "19:00 - Medika Antidrog",
-            "20:00 - Focus 18",
-            "20:30 - Inregistrat",
-            "21:00 - Povesti Sanatoase",
-            "22:00 - Zona De Conflict",
-            "23:00 - Ministrul Sanatatii Raspunde",
-            "00:00 - Focus 18",
-            "01:00 - Agronews",
-            "03:00 - Zona De Conflict",
-            "04:00 - Podcast Cu Livia Graur",
-            "05:00 - Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1319,7 +1275,7 @@
             "11:05 - Identitatea lui Bourne 2002 - SUA - Acţiune, Mister, Thriller Cu: Matt Damon, Clive Owen Nota: 8.1 / Imdb 7.8",
             "13:00 - Ce rămâne după",
             "13:20 - Când primăvara se simte în aer 2024 - Olanda, Germania, Belgia - Dramă Cu: Ada Szczepaniak, Cezary Lukaszewicz Nota: - / Imdb 6.1",
-            "15:20 - Ministrul francez 2013 - Franta - Comedie Cu: Thierry Lhermitte, Raphaël Personnaz Nota: 6.9 / Imdb 6.4",
+            "15:20 - Ministrul francez 2013 - Franta - Comedie Cu: Thierry Lhermitte, Raphaël Personnaz Nota: 7.0 / Imdb 6.4",
             "17:15 - O americancă la Bolșoi 2023 - SUA, Noua Zeelanda - Dramă Cu: Talia Ryder, Diane Kruger Nota: 7.2 / Imdb 7.2",
             "19:05 - Köln 75 2025 - Belgia, Germania, Polonia - Biografic, Dramă, Muzică Cu: Mala Emde, Susanne Wolff Nota: - / Imdb 7.1",
             "21:00 - Clubul de noapte | 2024 - SUA - Acţiune, Thriller | Cu: Billy Magnussen, Jake Gyllenhaal | Nota: 6.7 / Imdb 6.2",
@@ -1413,7 +1369,7 @@
         ]
     },
     {
-        "id": 26563,
+        "id": 1468,
         "tv_channel": "CineMaraton",
         "tv_program": [
             "07:24 - Medalion / Scurtmetraj / Jurnal / Pastilă",
@@ -1463,6 +1419,25 @@
             "18:00 - Fantoma de la operă",
             "20:00 - Unchiul meu din America",
             "22:00 - Numele meu este Trinita"
+        ]
+    },
+    {
+        "id": 26563,
+        "tv_channel": "Cinewow",
+        "tv_program": [
+            "07:35 - Pistruiatul 2 - Ascunzișuri 1986 - Romania - Aventuri Cu: Costel Băloiu, Sergiu Nicolaescu Nota: 8.4 / Imdb -",
+            "09:35 - Pistruiatul 3 - Insurectia 1986 - Romania - Aventuri Cu: Costel Băloiu, Sergiu Nicolaescu Nota: 8.3 / Imdb -",
+            "11:30 - Ecaterina Teodoroiu 1978 - Romania - Dramă, Război Cu: Stela Furcovici, Ion Lupu Nota: 7.8 / Imdb 7.1",
+            "13:50 - Afacerea Protar 1956 - Romania - Comedie Cu: Radu Beligan, Ioana Zlotescu Nota: 7.8 / Imdb 7.4",
+            "15:40 - Bariera 1972 - Romania - Dramă Cu: Octavian Cotescu, Toma Caragiu Nota: 7.4 / Imdb 7.2",
+            "18:00 - 1cu1tras1",
+            "19:05 - Casa neterminată 1964 - Romania - Dramă Cu: Alexandru Repan, Valeria Seciu Nota: 7.2 / Imdb 6.4",
+            "20:50 - Între La naiba și Sf. Sisoe",
+            "21:15 - Vânătoarea de vulpi 1980 - Romania - Dramă Cu: Mitică Popescu, Valeria Seciu Nota: 6.9 / Imdb 6.8",
+            "23:30 - Aurora 2010 - Romania, Franta, Elvetia, Germania - Crimă, Dramă Cu: Cristi Puiu, Catrinel Dumitrescu Nota: 6.6 / Imdb 6.5",
+            "03:45 - Déjà Vu 2013 - Romania - Dramă Cu: Ioana Flora, Mirela Oprişor Nota: 5.7 / Imdb 5.9",
+            "05:30 - Un cartuș de Kent și un pachet de cafea 2004 - Romania - Scurt metraj Cu: Mimi Brănescu, Victor Rebengiuc Nota: 8.0 / Imdb 7.4",
+            "06:00 - Strada Speranţei 2016 - Romania - Animaţie Cu: Alex Bordeanu, Ionuț Grama Nota: 7.7 / Imdb 7.4"
         ]
     }
 ]
