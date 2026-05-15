@@ -2,9 +2,12 @@ name: Daily ProgramTV Scraper
 
 on:
   schedule:
-    - cron: '30 6 * * *'   # 08:30 Bucharest (05:30 UTC)
-    - cron: '0 9 * * *'    # 11:00 Bucharest (08:00 UTC)
-  workflow_dispatch:       # Allow manual run
+    - cron: '30 3 * * *'   # 06:30 Bucharest
+    - cron: '30 4 * * *'   # 07:30 Bucharest
+    - cron: '30 5 * * *'   # 08:30 Bucharest
+    - cron: '30 6 * * *'   # 09:30 Bucharest
+  workflow_dispatch:
+ run
 
 jobs:
   scrape:
