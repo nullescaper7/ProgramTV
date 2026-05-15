@@ -6,8 +6,7 @@ on:
     - cron: '30 4 * * *'   # 07:30 Bucharest
     - cron: '30 5 * * *'   # 08:30 Bucharest
     - cron: '30 6 * * *'   # 09:30 Bucharest
-  workflow_dispatch:
- run
+  workflow_dispatch:    # Allow manual run
 
 jobs:
   scrape:
