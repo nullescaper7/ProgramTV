@@ -23,29 +23,7 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": [
-            "07:00 - Ştiri",
-            "08:00 - Știrile dimineții",
-            "10:00 - Stiri cu Ana Iorga",
-            "11:00 - NewsRoom cu Madalina Mihalache",
-            "12:00 - Ştiri",
-            "13:00 - NewsRoom",
-            "14:00 - Ştiri",
-            "15:00 - Decisiv",
-            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
-            "16:30 - Romania Inteligenta cu Adrian Ursu",
-            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
-            "18:00 - News Hour with CNN",
-            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
-            "21:00 - Exces de putere",
-            "23:00 - Ştiri",
-            "00:00 - Ştiri",
-            "01:00 - Decisiv cu Catalina Porumbel , reluare",
-            "02:30 - Exces de putere",
-            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
-            "05:00 - News Hour with CNN",
-            "06:00 - Știrile dimineții"
-        ]
+        "tv_program": []
     },
     {
         "id": 3,
