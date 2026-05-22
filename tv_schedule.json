@@ -23,7 +23,29 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştiri",
+            "08:00 - Știrile dimineții",
+            "10:00 - Stiri cu Ana Iorga",
+            "11:00 - NewsRoom cu Madalina Mihalache",
+            "12:00 - Ştiri",
+            "13:00 - NewsRoom",
+            "14:00 - Ştiri",
+            "15:00 - Decisiv",
+            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
+            "16:30 - Romania Inteligenta cu Adrian Ursu",
+            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
+            "18:00 - News Hour with CNN",
+            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
+            "21:00 - Exces de putere",
+            "23:00 - Ştiri",
+            "00:00 - Ştiri",
+            "01:00 - Decisiv cu Catalina Porumbel , reluare",
+            "02:30 - Exces de putere",
+            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
+            "05:00 - News Hour with CNN",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 3,
@@ -316,7 +338,7 @@
             "10:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
             "12:15 - Dulce răzbunare: Un mister Hannah Swensen",
             "14:00 - Scoala vietii 2005 - Canada - Comedie, Dramă, Familie Cu: Ryan Reynolds, David Paymer Nota: 7.6 / Imdb 6.4",
-            "16:15 - După cum ți-e norocul 2021 - Comedie, Dramă, Romantic Cu: JoAnna Garcia Swisher, Allen Leech Nota: 7.5 / Imdb 6.9",
+            "16:15 - După cum ți-e norocul 2021 - Comedie, Dramă, Romantic Cu: JoAnna Garcia Swisher, Allen Leech Nota: 7.4 / Imdb 6.9",
             "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
             "20:30 - 22 Jump Street - O altă adresă de pomină | 2014 - SUA - Acţiune, Comedie, Crimă | Cu: Channing Tatum, Jonah Hill | Nota: 7.3 / Imdb 7.0",
             "22:45 - Jocul asasinilor 2011 - SUA - Acţiune, Thriller Cu: Jean-Claude Van Damme, Scott Adkins Nota: 7.2 / Imdb 6.1",
@@ -1408,7 +1430,7 @@
         "tv_channel": "Cinewow",
         "tv_program": [
             "08:05 - Misterul lui Herodot 1976 - Romania - Aventuri Cu: Mihai Mereuță, Ovidiu Iuliu Moldovan Nota: 7.0 / Imdb 6.8",
-            "10:10 - Arhitectură și putere 1993 - Romania - Documentar Nota: - / Imdb 8.0",
+            "10:10 - Arhitectură și putere 1993 - Romania - Documentar Nota: 7.2 / Imdb 8.0",
             "11:30 - 1cu1tras1",
             "12:30 - Parașutiștii 1972 - SUA - Acţiune Cu: Ileana Buhaci-Gurgulescu, Silviu Stănculescu Nota: 7.2 / Imdb 6.8",
             "14:45 - Răscoala 1965 - Romania - Dramă Cu: Ilarion Ciobanu, Emil Botta Nota: 8.0 / Imdb 7.2",
