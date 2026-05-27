@@ -28,7 +28,7 @@ CHANNEL_URLS = {
     "TVR Cultural": {"url": "https://programtv.ro/canal-tv/tvr-cultural", "id": 17},
     "HBO": {"url": "https://m.cinemagia.ro/program-tv/hbo/", "id": 20},
     "HBO_2": {"url": "https://m.cinemagia.ro/program-tv/hbo-2/", "id": 21},
-    "FilmNow": {"url": "https://m.cinemagia.ro/program-tv/film-now-hd/", "id": 25},
+    "FilmNow": {"url": "https://m.cinemagia.ro/program-tv/film-now-hd/", "id": 356663382},
     "Atomic-TV": {"url": "https://programtv.ro/canal-tv/atomic-tv", "id": 26},
     "ZU-TV": {"url": "https://m.cinemagia.ro/program-tv/zu-tv/", "id": 27},
     "MUSIC-CHANNEL": {"url": "https://m.cinemagia.ro/program-tv/music-channel/", "id": 28},
