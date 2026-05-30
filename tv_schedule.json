@@ -773,21 +773,7 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": [
-            "08:00 - Fotbal Liga I: Fcsb-Dinamo",
-            "10:00 - Fotbal Spania: Barcelona-Sevilla",
-            "12:00 - Fotbal Liga I: Dinamo-Metaloglobus",
-            "14:00 - Fotbal Spania: Atletico-Barcelona",
-            "16:00 - Fotbal Liga I: Fcsb-Rapid",
-            "18:00 - Boat Show",
-            "19:00 - Direct Uefa Champions League: Psg-Arsenal",
-            "21:00 - Boat Show",
-            "22:00 - Fotbal Spania: Barcelona-Espanyol",
-            "00:00 - Fotbal Liga I: Dinamo-U Cluj",
-            "02:00 - Fotbal Spania: Barcelona-Celta Vigo",
-            "04:00 - Fotbal Liga I: Fcsb-Cfr Cluj",
-            "06:00 - Fotbal Spania: Bilbao-Barcelona"
-        ]
+        "tv_program": []
     },
     {
         "id": 39,
@@ -972,34 +958,7 @@
     {
         "id": 44,
         "tv_channel": "DISCOVERY-CHANNEL",
-        "tv_program": [
-            "07:00 - Bagaje la licitaţie Sezonul 1 - Episodul 3",
-            "07:30 - Bagaje la licitaţie Sezonul 1 - Episodul 4",
-            "08:00 - Bagaje la licitaţie Sezonul 1 - Episodul 5",
-            "08:30 - Bagaje la licitaţie Sezonul 1 - Episodul 6",
-            "09:00 - Comori arhitecturale recuperate Sezonul 11 - Episodul 7 - Căutări minuţioase",
-            "10:00 - Comori arhitecturale recuperate Sezonul 11 - Episodul 8 - De familie",
-            "11:00 - Comori restaurate Sezonul 2 - Episodul 4",
-            "12:00 - Atelierul lui Richard Hammond Sezonul 2 - Episodul 5 - Un pariu serios",
-            "13:00 - Cum se fabrică diverse lucruri? Sezonul 14 - Episodul 19",
-            "13:30 - Cum se fabrică diverse lucruri? Sezonul 14 - Episodul 20",
-            "14:00 - Expediţii în necunoscut Sezonul 1 - Episodul 5 - Orașul de Aur",
-            "15:00 - Expediţii în necunoscut Sezonul 1 - Episodul 10 - Secretele liniilor de la Nazca",
-            "16:00 - Expediţii în necunoscut Sezonul 4 - Episodul 3 - Piramidele din legende",
-            "17:00 - Expediţii în necunoscut Sezonul 4 - Episodul 13 - Orașul pierdut El Mirador",
-            "18:00 - Expediţii în necunoscut Sezonul 1 - Episodul 9 - Apocalipsa mayașă",
-            "19:00 - Expediţii în necunoscut Sezonul 2 - Episodul 17 - Mumia regelui incaș",
-            "20:00 - Goana după aur Sezonul 16 - Episodul 23 - Episode 23",
-            "22:00 - Goana după aur: Freddy Dodge, salvatorul minelor Sezonul 4 - Episodul 8 - Un moment de criză",
-            "23:00 - Grănicerii Poloniei Sezonul 1 - Episodul 2",
-            "00:00 - Conspirații și mușamalizări Sezonul 1 - Episodul 2 - Jersey Drone Panic",
-            "01:00 - Aur, minciuni și casete video Sezonul 1 - Episodul 3 - Adevăr și consecințe",
-            "02:00 - Goana după aur Sezonul 16 - Episodul 23 - Episode 23",
-            "03:36 - Expediţii în necunoscut Sezonul 1 - Episodul 10 - Secretele liniilor de la Nazca",
-            "04:24 - Expediţii în necunoscut Sezonul 1 - Episodul 9 - Apocalipsa mayașă",
-            "05:12 - Expediţii în necunoscut Sezonul 2 - Episodul 17 - Mumia regelui incaș",
-            "06:00 - Constructorii de hambare Sezonul 11 - Episodul 9 - Clădim un viitor mai bun"
-        ]
+        "tv_program": []
     },
     {
         "id": 44,
