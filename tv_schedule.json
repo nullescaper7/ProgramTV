@@ -132,7 +132,33 @@
     {
         "id": 4,
         "tv_channel": "TVR1",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Universul credinţei",
+            "08:00 - Bucuria credinţei",
+            "08:30 - Pro patria",
+            "09:30 - M.A.I. aproape de tine",
+            "10:00 - Viaţa satului",
+            "13:00 - Tezaur folcloric",
+            "13:55 - Zi de zi cu părintele Constantin Necula",
+            "14:00 - Telejurnal",
+            "15:00 - Starea naţiei",
+            "15:50 - Un zâmbet 16:9",
+            "16:00 - Misterele Bucureștilor 1983 - Romania - Documentar Cu: Florin Piersic, Marga Barbu Nota: 7.8 / Imdb 7.2",
+            "18:00 - Exclusiv în România",
+            "19:00 - Telejurnal",
+            "20:00 - Vedeta familiei",
+            "21:30 - \"Glasuri mici, tradiții mari\"",
+            "23:30 - Garantat 100%",
+            "00:30 - Exclusiv în România",
+            "01:30 - Misterele Bucureștilor 1983 - (R) - Romania - Documentar Cu: Florin Piersic, Marga Barbu Nota: 7.8 / Imdb 7.2",
+            "03:20 - Tranzit 2012 - (R) - SUA - Crimă, Dramă, Thriller Cu: Jim Caviezel, Diora Baird Nota: 6.6 / Imdb 5.8",
+            "04:50 - Un zâmbet 16:9",
+            "05:00 - Zi de zi cu părintele Constantin Necula",
+            "05:05 - Universul credinţei",
+            "05:55 - Imnul României",
+            "06:00 - Bucuria credinţei",
+            "06:30 - Alchimia banilor"
+        ]
     },
     {
         "id": 5,
@@ -217,7 +243,40 @@
     {
         "id": 11,
         "tv_channel": "TVR3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Satul meu",
+            "07:55 - Povestea zilei",
+            "08:00 - Biruitorii",
+            "08:30 - Lumină din lumină",
+            "09:55 - Memoria tiparului",
+            "10:00 - Liturghia de Duminică",
+            "11:30 - Locuri, oameni şi comori",
+            "12:00 - Cântec şi poveste",
+            "12:50 - Povestea zilei",
+            "13:00 - Nutri Info",
+            "13:30 - Vine Cluju’ pe la noi",
+            "14:55 - Art pass",
+            "15:00 - TV Retro",
+            "16:50 - Memoria tiparului",
+            "17:00 - Povesti la ceai",
+            "17:30 - Caravana TVR 3",
+            "18:55 - Povestea zilei",
+            "19:00 - TVRetro",
+            "20:30 - Vedere cu olteni",
+            "21:00 - Documentar",
+            "21:50 - Memoria tiparului",
+            "22:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiatilor",
+            "00:00 - Vine Cluju’ pe la noi",
+            "01:25 - Memoria tiparului",
+            "01:30 - Vedere cu olteni",
+            "02:00 - TV Retro",
+            "03:30 - Documentar",
+            "04:25 - Art pass",
+            "04:30 - Caravana TVR 3",
+            "05:55 - Art pass",
+            "06:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 12,
@@ -435,7 +494,20 @@
     {
         "id": 356663382,
         "tv_channel": "FilmNow",
-        "tv_program": []
+        "tv_program": [
+            "08:35 - Hotel Transilvania 2012 - SUA - Animaţie, Aventuri, Comedie Cu: Adam Sandler, Andy Samberg Nota: 8.0 / Imdb 7.0",
+            "10:00 - Femeia Fantastică 1984 2020 - SUA - Acţiune, Aventuri, Fantastic Cu: Gal Gadot, Chris Pine Nota: 6.5 / Imdb 5.3",
+            "12:25 - Shazam! 2019 - SUA - Acţiune, Aventuri, Fantastic Cu: Zachary Levi, Djimon Hounsou Nota: 7.0 / Imdb 7.0",
+            "14:30 - Locotenentul otoman 2016 - Turcia, SUA - Dramă, Război Cu: Josh Hartnett, Ben Kingsley Nota: 6.9 / Imdb 6.4",
+            "16:15 - Unde vei fi poimâine? 2004 - SUA - Acţiune, Aventuri, SF Cu: Dennis Quaid, Jake Gyllenhaal Nota: 7.3 / Imdb 6.5",
+            "18:10 - Mărită-te cu mine 2022 - SUA - Comedie, Romantic, Dragoste Cu: Owen Wilson, Jennifer Lopez Nota: 6.8 / Imdb 6.1",
+            "20:00 - Kraven vânătorul | 2024 - SUA - Acţiune, Aventuri, SF | Cu: Aaron Taylor-Johnson, Russell Crowe | Nota: 6.9 / Imdb 5.5",
+            "22:05 - Toată lumea știe 2019 - Spania, Franta, Italia - Dramă Cu: Penélope Cruz, Javier Bardem Nota: 7.2 / Imdb 6.9",
+            "00:15 - Societatea Vigilance 2004 - Franta - Acţiune, Dramă, Thriller Cu: Albert Dupontel, Jean Dujardin Nota: 6.4 / Imdb 6.5",
+            "01:45 - Și mai greu de ucis 2013 - SUA - Acţiune, Crimă, Thriller Cu: Bruce Willis, Jai Courtney Nota: 6.6 / Imdb 5.2",
+            "03:20 - Trăind printre demoni 2 2016 - SUA - Horror Cu: Vera Farmiga, Patrick Wilson Nota: 8.2 / Imdb 7.3",
+            "05:30 - CHIPs: Poliţişti de belea 2017 - SUA - Acţiune, Comedie, Dramă Cu: Adam Brody, Dax Shepard Nota: 6.8 / Imdb 6.0"
+        ]
     },
     {
         "id": 26,
@@ -704,20 +776,7 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": [
-            "08:00 - Fotbal Uefa Champions League: Psg-Bayern Munchen",
-            "10:00 - Fotbal Spania: Osasuna-Barcelona",
-            "12:00 - Fotbal Uefa Champions League: Arsenal-Atletico",
-            "14:00 - Fotbal Spania: Barcelona-Real Madrid",
-            "16:00 - Fotbal Uefa Champions League: Bayern Munchen-Psg",
-            "18:00 - Fotbal Spania: Alaves-Barcelona",
-            "20:00 - Fotbal Uefa Champions League: Psg-Arsenal",
-            "22:00 - Fotbal Spania: Barcelona-Betis",
-            "00:00 - Fotbal Uefa Champions League: Psg-Arsenal",
-            "02:00 - Fotbal Spania: Valencia-Barcelona",
-            "04:00 - Fotbal Uefa Champions League: Psg-Arsenal",
-            "06:00 - Fotbal Spania: Getafe-Barcelona"
-        ]
+        "tv_program": []
     },
     {
         "id": 39,
