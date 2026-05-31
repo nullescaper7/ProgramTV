@@ -776,7 +776,20 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Fotbal Uefa Champions League: Psg-Bayern Munchen",
+            "10:00 - Fotbal Spania: Osasuna-Barcelona",
+            "12:00 - Fotbal Uefa Champions League: Arsenal-Atletico",
+            "14:00 - Fotbal Spania: Barcelona-Real Madrid",
+            "16:00 - Fotbal Uefa Champions League: Bayern Munchen-Psg",
+            "18:00 - Fotbal Spania: Alaves-Barcelona",
+            "20:00 - Fotbal Uefa Champions League: Psg-Arsenal",
+            "22:00 - Fotbal Spania: Barcelona-Betis",
+            "00:00 - Fotbal Uefa Champions League: Psg-Arsenal",
+            "02:00 - Fotbal Spania: Valencia-Barcelona",
+            "04:00 - Fotbal Uefa Champions League: Psg-Arsenal",
+            "06:00 - Fotbal Spania: Getafe-Barcelona"
+        ]
     },
     {
         "id": 39,
