@@ -205,7 +205,7 @@
             "17:50 - Focus sport",
             "18:00 - Focus 18",
             "19:15 - 50/50",
-            "20:00 - Dragonul verde | 2010 - Hong Kong, China - Acţiune, Dramă, Istoric | Cu: Wei Zhao, Donnie Yen | Nota: 7.2 / Imdb 6.3",
+            "20:00 - Dragonul verde | 2010 - Hong Kong, China - Acţiune, Dramă, Istoric | Cu: Wei Zhao, Donnie Yen | Nota: 7.3 / Imdb 6.3",
             "22:00 - Focus",
             "23:00 - 50/50",
             "23:30 - Exclusiv VIP",
@@ -451,7 +451,7 @@
             "18:55 - Happy Feet 2: Mumble dansează din nou 2011 - SUA - Animaţie, Comedie, Familie Cu: Elijah Wood, Pink Nota: 7.7 / Imdb 5.8",
             "20:30 - Finding Harry: The Craft Behind the Magic | 2026 - SUA - Documentar | Cu: Cornelius Brandreth, Oliver Croft | Nota: - / Imdb 7.2",
             "20:55 - Jumanji: Aventură în junglă 2017 - SUA - Acţiune, Aventuri, Comedie Cu: Karen Gillan, Dwayne Johnson Nota: 7.4 / Imdb 6.9",
-            "22:50 - Genie 2023 - SUA - Comedie, Fantastic Cu: Melissa McCarthy, Alan Cumming Nota: 6.5 / Imdb 5.9",
+            "22:50 - Genie 2023 - SUA - Comedie, Fantastic Cu: Melissa McCarthy, Alan Cumming Nota: 6.6 / Imdb 5.9",
             "00:20 - Steaua de argint 2024 - SUA - Crimă, Dramă, Istoric Cu: Grace Van Dien, Troy Leigh-Anne Johnson Nota: - / Imdb 6.6",
             "02:00 - P.S. Te iubesc 2007 - SUA - Comedie, Dramă, Romantic Cu: Hilary Swank, Gerard Butler Nota: 8.3 / Imdb 7.0",
             "04:00 - Leu pentru o zi 2023 - SUA - Acţiune, Comedie, Thriller Cu: Scott Caan, Frank Grillo Nota: - / Imdb 5.2",
@@ -554,9 +554,7 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": [
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 80,
@@ -1401,7 +1399,7 @@
         ]
     },
     {
-        "id": 1468,
+        "id": 26563,
         "tv_channel": "CineMaraton",
         "tv_program": [
             "07:56 - Medalion / Scurtmetraj / Jurnal / Pastilă",
@@ -1425,7 +1423,7 @@
             "19:49 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "20:05 - Italiencele 2004 - Romania - Comedie Cu: Mara Nicolescu, Ana Ularu Nota: 7.5 / Imdb 6.4",
             "21:32 - Medalion / Scurtmetraj / Jurnal / Pastilă",
-            "21:50 - Fabulosul destin al lui Toma Cuzin | 2009 - Romania - Comedie, Scurt metraj | Cu: Toma Cuzin, Laurentiu Dumitrescu | Nota: 7.6 / Imdb 7.1",
+            "21:50 - Fabulosul destin al lui Toma Cuzin | 2009 - Romania - Comedie, Scurt metraj | Cu: Toma Cuzin, Laurentiu Dumitrescu | Nota: 7.2 / Imdb 7.1",
             "22:01 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "22:05 - Aferim! 2015 - Romania, Bulgaria, Cehia - Dramă, Istoric Cu: Teodor Corban, Mihai Comanoiu Nota: 7.5 / Imdb 7.6",
             "00:03 - Medalion / Scurtmetraj / Jurnal / Pastilă",
@@ -1461,7 +1459,7 @@
         ]
     },
     {
-        "id": 26563,
+        "id": 1468,
         "tv_channel": "Cinewow",
         "tv_program": [
             "07:40 - Valea regilor 2024 - Romania - Animaţie Nota: - / Imdb -",
