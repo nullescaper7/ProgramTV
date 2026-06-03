@@ -47,18 +47,7 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": [
-            "08:00 - Bună dimineața, România!",
-            "12:00 - Talk B1",
-            "15:00 - Politica zilei",
-            "18:00 - Bună, România!",
-            "20:00 - News Pass",
-            "23:00 - Doctorul",
-            "00:00 - Bună, România! (R)",
-            "01:50 - Politica zilei (R)",
-            "03:40 - News Pass (R)",
-            "06:10 - Doctorul (R)"
-        ]
+        "tv_program": []
     },
     {
         "id": 7,
@@ -211,7 +200,47 @@
     {
         "id": 11,
         "tv_channel": "TVR3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Telematinal",
+            "07:55 - Povestea zilei",
+            "08:00 - Telematinal",
+            "08:55 - Teleshopping",
+            "09:00 - Telematinal",
+            "09:55 - Teleshopping",
+            "10:00 - Dimineti perfecte",
+            "10:55 - Memoria tiparului",
+            "11:00 - Toţi împreună",
+            "12:50 - Teleshopping",
+            "13:05 - Toţi împreună",
+            "13:30 - Doza de IT",
+            "13:55 - Teleshopping",
+            "14:00 - Tableta de sănătate",
+            "14:55 - Art pass",
+            "15:00 - Telescoala in limba maghiara",
+            "15:55 - Povestea zilei",
+            "16:00 - Forum economic",
+            "16:55 - Teleshopping",
+            "17:00 - Telejurnal regional",
+            "17:30 - Lumea de aproape",
+            "17:55 - Teleshopping",
+            "18:00 - Natură şi aventură",
+            "18:30 - Cu tigaia-n spate",
+            "19:00 - TVRetro",
+            "19:55 - Art pass",
+            "20:00 - TV Retro",
+            "21:50 - Memoria tiparului",
+            "22:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+            "00:00 - Natură şi aventură",
+            "00:30 - Cu tigaia-n spate",
+            "01:00 - Tableta de sănătate",
+            "01:55 - Art pass",
+            "02:00 - TV Retro",
+            "03:50 - Memoria tiparului",
+            "04:00 - Toţi împreună",
+            "05:55 - Art pass",
+            "06:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 12,
@@ -257,57 +286,17 @@
     {
         "id": 13,
         "tv_channel": "Digi 24",
-        "tv_program": [
-            "07:00 - Știrile dimineții",
-            "12:00 - Știrile amiezii",
-            "16:00 - Știrile zilei",
-            "18:00 - Ediție specială",
-            "18:30 - Business Club",
-            "19:00 - Ediție specială",
-            "20:00 - Jurnalul de seară",
-            "23:00 - Audiență națională",
-            "00:00 - Știrile serii",
-            "01:00 - Jurnalul de seară",
-            "04:00 - Studio politic",
-            "05:00 - Ediție specială",
-            "06:00 - Știrile dimineții"
-        ]
+        "tv_program": []
     },
     {
         "id": 14,
         "tv_channel": "PROCINEMA",
-        "tv_program": [
-            "08:00 - A doua şansă 2018 - (R) - SUA - Comedie, Romantic, Dragoste Cu: Milo Ventimiglia, Vanessa Hudgens Nota: 6.9 / Imdb 5.8",
-            "10:15 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "12:30 - Cursa spre Witch Mountain 2009 - (R) - SUA - Aventuri, Comedie, SF Cu: Dwayne Johnson, Carla Gugino Nota: 7.2 / Imdb 5.7",
-            "14:30 - Bernie, un delfin special 2018 - Canada - Aventuri, Comedie, Familie Cu: Kevin Sorbo, Lola Sultan Nota: - / Imdb 4.8",
-            "16:15 - Ocolul Pământului în 80 de zile • Ep.1 1989 - SUA - Acţiune, Aventuri, Comedie Cu: Pierce Brosnan, Peter Ustinov Nota: 7.8 / Imdb 7.1",
-            "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "20:30 - Foc sângeros 2006 - Canada - Acţiune, Crimă, Thriller Cu: Jessica Steen, Brendan Fletcher Nota: 6.4 / Imdb 5.2",
-            "22:15 - Bărbatul perfect | 2015 - SUA - Dramă, Thriller | Cu: Sanaa Lathan, Morris Chestnut | Nota: 6.9 / Imdb 5.6",
-            "00:15 - Foc sângeros 2006 - (R) - Canada - Acţiune, Crimă, Thriller Cu: Jessica Steen, Brendan Fletcher Nota: 6.4 / Imdb 5.2",
-            "02:00 - Vorbeşte lumea",
-            "04:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "06:00 - Bernie, un delfin special 2018 - (R) - Canada - Aventuri, Comedie, Familie Cu: Kevin Sorbo, Lola Sultan Nota: - / Imdb 4.8"
-        ]
+        "tv_program": []
     },
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": [
-            "08:00 - Meniu de vedetă",
-            "08:30 - Mireasa - Capriciile Iubirii",
-            "11:00 - Știrile Antena Stars",
-            "12:30 - Mireasa",
-            "13:30 - Viaţa Fără Filtru",
-            "16:00 - Acces direct",
-            "19:00 - Mireasa - Capriciile Iubirii",
-            "21:30 - Spynews Tv Live",
-            "00:00 - Acces direct",
-            "02:45 - Spynews Tv Live",
-            "04:30 - Știrile Antena Stars",
-            "06:00 - Viaţa Fără Filtru"
-        ]
+        "tv_program": []
     },
     {
         "id": 16,
@@ -386,11 +375,11 @@
             "14:30 - Un cântec străbate lumea 2007 - SUA - Dramă, Muzical, Romantic Cu: Evan Rachel Wood, Jim Sturgess Nota: 7.7 / Imdb 7.3",
             "16:40 - Trolii descoperă lumea 2020 - SUA - Animaţie, Aventuri, Comedie Cu: Sam Rockwell, Anna Kendrick Nota: 7.8 / Imdb 6.1",
             "18:10 - Patru scrisori de dragoste 2024 - Marea Britanie, Irlanda - Dramă Cu: Pierce Brosnan, Helena Bonham Carter Nota: 6.8 / Imdb 6.1",
-            "20:00 - Mireasa! | 2026 - SUA - Dramă, Horror, Romantic | Cu: Jake Gyllenhaal, Christian Bale | Nota: 6.0 / Imdb 5.9",
+            "20:00 - Mireasa! | 2026 - SUA - Dramă, Horror, Romantic | Cu: Jake Gyllenhaal, Christian Bale | Nota: 5.9 / Imdb 5.9",
             "22:05 - Euforia • Sez.3, Ep.8 2019 - SUA - Dramă Cu: Zendaya, Maude Apatow Nota: 8.0 / Imdb 8.2",
             "23:35 - Pariu în trei 2024 - SUA - Dramă Cu: Daisy Edgar-Jones, Jacob Elordi Nota: 6.3 / Imdb 6.0",
             "01:30 - De-a lungul nopții 2023 - Belgia, Franta, Canada - Dramă, Thriller Cu: Selma Alaoui, Veerle Baetens Nota: 6.7 / Imdb 6.2",
-            "03:15 - Mireasa! 2026 - SUA - Dramă, Horror, Romantic Cu: Jake Gyllenhaal, Christian Bale Nota: 6.0 / Imdb 5.9",
+            "03:15 - Mireasa! 2026 - SUA - Dramă, Horror, Romantic Cu: Jake Gyllenhaal, Christian Bale Nota: 5.9 / Imdb 5.9",
             "05:20 - Știrile săptămânii cu John Oliver • Sez.13, Ep.3 2014 - SUA - Comedie, Talk show Cu: John Oliver, David Kaye Nota: 7.5 / Imdb 8.8",
             "06:00 - Trolii descoperă lumea 2020 - SUA - Animaţie, Aventuri, Comedie Cu: Sam Rockwell, Anna Kendrick Nota: 7.8 / Imdb 6.1"
         ]
@@ -1035,43 +1024,12 @@
     {
         "id": 47,
         "tv_channel": "BBC-EARTH",
-        "tv_program": [
-            "07:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.8, Ep.4",
-            "08:00 - Sub zero grade • Sez.5, Ep.2",
-            "09:00 - Secretele super-vârstnicilor • Sez.1, Ep.6",
-            "10:10 - Regatul rivalilor • Sez.1, Ep.2",
-            "11:15 - Viața la fermă • Sez.8, Ep.1",
-            "12:35 - În interiorul fabricii • Sez.8, Ep.8",
-            "13:45 - Secretele mâncării • Sez.1, Ep.1",
-            "14:55 - Sub zero grade • Sez.9, Ep.16",
-            "15:55 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.11, Ep.15",
-            "16:55 - Regatul rivalilor • Sez.1, Ep.3",
-            "17:55 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.1",
-            "19:00 - Sub zero grade • Sez.1, Ep.4",
-            "20:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.8, Ep.5",
-            "21:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.2, Ep.4",
-            "22:00 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.2",
-            "23:10 - Cele mai periculoase drumuri din lume • Sez.5, Ep.7",
-            "00:10 - Sub zero grade • Sez.11, Ep.13",
-            "01:10 - Sub zero grade • Sez.1, Ep.4",
-            "02:05 - Sub zero grade • Sez.9, Ep.16",
-            "03:05 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.2, Ep.4",
-            "03:50 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.2",
-            "04:45 - Cele mai periculoase drumuri din lume • Sez.5, Ep.7",
-            "05:30 - Sub zero grade • Sez.1, Ep.4",
-            "06:15 - Sub zero grade • Sez.11, Ep.13"
-        ]
+        "tv_program": []
     },
     {
         "id": 50,
         "tv_channel": "Rock TV",
-        "tv_program": [
-            "07:00 - We Will Rock You",
-            "10:00 - Rockaholic",
-            "19:00 - Rock This Way",
-            "00:00 - Hard Nights",
-            "06:00 - We Will Rock You"
-        ]
+        "tv_program": []
     },
     {
         "id": 51,
@@ -1081,15 +1039,7 @@
     {
         "id": 52,
         "tv_channel": "Magic TV",
-        "tv_program": [
-            "07:00 - MAGIC START",
-            "10:00 - Magic Music at Work",
-            "13:00 - Magic Afternoon Coffee",
-            "16:00 - Magic Drive Music",
-            "19:00 - Magic Music - The Best Music Variety!",
-            "22:00 - Magic Night Hits",
-            "06:00 - MAGIC START"
-        ]
+        "tv_program": []
     },
     {
         "id": 55,
@@ -1251,31 +1201,7 @@
     {
         "id": 78,
         "tv_channel": "Romania TV",
-        "tv_program": [
-            "07:00 - Ştirile România TV",
-            "08:00 - Ştirile România TV",
-            "09:00 - Ştirile România TV",
-            "10:00 - Ştirile România TV",
-            "11:00 - Ştirile Romania TV",
-            "12:00 - Ştirile România TV",
-            "13:00 - Ştirile România TV",
-            "14:00 - Ştirile România TV",
-            "15:00 - Ştirile România TV",
-            "16:00 - Ştirile România TV",
-            "17:00 - Cheia zilei",
-            "18:00 - Ştirile România TV",
-            "19:00 - Ultima oră",
-            "20:00 - România la raport",
-            "21:00 - Punctul culminant",
-            "23:00 - Ştirile România TV",
-            "00:00 - Ştirile România TV",
-            "01:00 - Punctul culminant",
-            "02:00 - Punctul culminant",
-            "03:00 - Ultima ora",
-            "04:00 - România la raport",
-            "05:00 - Ştirile România TV",
-            "06:00 - Ştirile România TV"
-        ]
+        "tv_program": []
     },
     {
         "id": 23,
@@ -1287,7 +1213,7 @@
             "13:40 - Răfuială dincolo de moarte 1994 - SUA - Acţiune, SF Cu: Jean-Claude Van Damme, Mia Sara Nota: 6.8 / Imdb 5.9",
             "15:40 - Un gentleman în vestul salbatic 1972 - Italia - Acţiune, Comedie, Western Cu: Terence Hill, Gregory Walcott Nota: 7.7 / Imdb 6.5",
             "18:20 - Monstrul din Lake Placid 1999 - Canada - Comedie, Horror Cu: Bill Pullman, Oliver Platt Nota: 6.1 / Imdb 5.8",
-            "19:55 - Infernul 1999 - SUA - Acţiune, Dramă Cu: Jean-Claude Van Damme, Pat Morita Nota: 6.8 / Imdb 5.2",
+            "19:55 - Infernul 1999 - SUA - Acţiune, Dramă Cu: Jean-Claude Van Damme, Pat Morita Nota: 6.7 / Imdb 5.2",
             "22:00 - Legenda călărețului fără cap | 1999 - SUA - Fantastic, Horror, Mister | Cu: Johnny Depp, Christina Ricci | Nota: 8.2 / Imdb 7.3",
             "00:10 - Jaful de pe Baker Street 2008 - SUA - Crimă, Dramă, Thriller Cu: Jason Statham, Saffron Burrows Nota: 8.0 / Imdb 7.2",
             "02:30 - Cei 8 odioși 2015 - SUA - Comedie, Dramă, Mister Cu: Walton Goggins, Tim Roth Nota: 7.7 / Imdb 7.8",
@@ -1350,7 +1276,7 @@
             "13:25 - Când primăvara se simte în aer 2024 - Olanda, Germania, Belgia - Dramă Cu: Ada Szczepaniak, Cezary Lukaszewicz Nota: - / Imdb 6.1",
             "15:20 - Tot ceea ce ești 2024 - Germania - Dramă, Romantic Cu: Aenne Schwarz, Carlo Ljubek Nota: - / Imdb 6.4",
             "17:10 - Germania 2023 - Argentina - Dramă Cu: Miranda de la Serna, María Ucedo Nota: - / Imdb 6.8",
-            "18:40 - Tess 1979 - Franta - Dramă, Romantic, Dragoste Cu: John Collin, Nastassja Kinski Nota: 8.1 / Imdb 7.3",
+            "18:40 - Tess 1979 - Franta - Dramă, Romantic, Dragoste Cu: John Collin, Nastassja Kinski Nota: 8.2 / Imdb 7.3",
             "21:30 - Locul meu este aici 2024 - Italia - Dramă Cu: Ludovica Martino, Marco Leonardi Nota: - / Imdb 6.8",
             "23:20 - Povestea Lui Souleymane 2024 - Franta - Dramă Cu: Yaya Diallo, Abou Sangare Nota: 7.3 / Imdb 7.6",
             "00:55 - Alergând pe nisip 2023 - Israel - Comedie, Dramă, Sport Cu: Sean Mongoza, Kim Or Azulay Nota: - / Imdb 6.7",
@@ -1443,7 +1369,7 @@
             "15:47 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "16:05 - De ce are vulpea coadă? 1988 - Romania - Comedie Cu: Rodica Mandache, Geo Costiniu Nota: 8.3 / Imdb 7.5",
             "17:26 - Medalion / Scurtmetraj / Jurnal / Pastilă",
-            "17:45 - Rămânerea 1992 - Romania - Dramă Cu: Mircea Albulescu, George Alexandru Nota: 6.7 / Imdb 6.8",
+            "17:45 - Rămânerea 1992 - Romania - Dramă Cu: Mircea Albulescu, George Alexandru Nota: 6.8 / Imdb 6.8",
             "19:25 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "19:40 - Noi, cei din linia întâi 1986 - Romania - Război Cu: Anda Onesa, George Alexandru Nota: 8.1 / Imdb 7.6",
             "22:27 - Medalion / Scurtmetraj / Jurnal / Pastilă",
