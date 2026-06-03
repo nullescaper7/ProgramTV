@@ -87,20 +87,7 @@
     {
         "id": 8,
         "tv_channel": "ANTENA1",
-        "tv_program": [
-            "08:00 - Neatza cu Răzvan şi Dani",
-            "12:00 - Observator",
-            "14:00 - Mireasa",
-            "16:00 - Observator",
-            "17:00 - Furnicuțele",
-            "19:00 - Observator",
-            "20:30 - Chefi la cutite – Viitorul are gust",
-            "00:00 - Observator",
-            "00:45 - Orasele World Cup",
-            "01:15 - Survivor",
-            "04:00 - Furnicuțele",
-            "06:00 - Observator"
-        ]
+        "tv_program": []
     },
     {
         "id": 4,
@@ -224,47 +211,7 @@
     {
         "id": 11,
         "tv_channel": "TVR3",
-        "tv_program": [
-            "07:00 - Telematinal",
-            "07:55 - Povestea zilei",
-            "08:00 - Telematinal",
-            "08:55 - Teleshopping",
-            "09:00 - Telematinal",
-            "09:55 - Teleshopping",
-            "10:00 - Dimineti perfecte",
-            "10:55 - Memoria tiparului",
-            "11:00 - Toţi împreună",
-            "12:50 - Teleshopping",
-            "13:05 - Toţi împreună",
-            "13:30 - Doza de IT",
-            "13:55 - Teleshopping",
-            "14:00 - Tableta de sănătate",
-            "14:55 - Art pass",
-            "15:00 - Telescoala in limba maghiara",
-            "15:55 - Povestea zilei",
-            "16:00 - Forum economic",
-            "16:55 - Teleshopping",
-            "17:00 - Telejurnal regional",
-            "17:30 - Lumea de aproape",
-            "17:55 - Teleshopping",
-            "18:00 - Natură şi aventură",
-            "18:30 - Cu tigaia-n spate",
-            "19:00 - TVRetro",
-            "19:55 - Art pass",
-            "20:00 - TV Retro",
-            "21:50 - Memoria tiparului",
-            "22:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
-            "00:00 - Natură şi aventură",
-            "00:30 - Cu tigaia-n spate",
-            "01:00 - Tableta de sănătate",
-            "01:55 - Art pass",
-            "02:00 - TV Retro",
-            "03:50 - Memoria tiparului",
-            "04:00 - Toţi împreună",
-            "05:55 - Art pass",
-            "06:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 12,
