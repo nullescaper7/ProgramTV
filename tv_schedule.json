@@ -76,7 +76,20 @@
     {
         "id": 8,
         "tv_channel": "ANTENA1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Neatza cu Răzvan şi Dani",
+            "12:00 - Observator",
+            "14:00 - Mireasa",
+            "16:00 - Observator",
+            "17:00 - Furnicuțele",
+            "19:00 - Observator",
+            "20:30 - Chefi la cutite – Viitorul are gust",
+            "00:00 - Observator",
+            "00:45 - Orasele World Cup",
+            "01:15 - Survivor",
+            "04:00 - Furnicuțele",
+            "06:00 - Observator"
+        ]
     },
     {
         "id": 4,
@@ -286,17 +299,57 @@
     {
         "id": 13,
         "tv_channel": "Digi 24",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Știrile dimineții",
+            "12:00 - Știrile amiezii",
+            "16:00 - Știrile zilei",
+            "18:00 - Ediție specială",
+            "18:30 - Business Club",
+            "19:00 - Ediție specială",
+            "20:00 - Jurnalul de seară",
+            "23:00 - Audiență națională",
+            "00:00 - Știrile serii",
+            "01:00 - Jurnalul de seară",
+            "04:00 - Studio politic",
+            "05:00 - Ediție specială",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 14,
         "tv_channel": "PROCINEMA",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - A doua şansă 2018 - (R) - SUA - Comedie, Romantic, Dragoste Cu: Milo Ventimiglia, Vanessa Hudgens Nota: 6.9 / Imdb 5.8",
+            "10:15 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
+            "12:30 - Cursa spre Witch Mountain 2009 - (R) - SUA - Aventuri, Comedie, SF Cu: Dwayne Johnson, Carla Gugino Nota: 7.2 / Imdb 5.7",
+            "14:30 - Bernie, un delfin special 2018 - Canada - Aventuri, Comedie, Familie Cu: Kevin Sorbo, Lola Sultan Nota: - / Imdb 4.8",
+            "16:15 - Ocolul Pământului în 80 de zile • Ep.1 1989 - SUA - Acţiune, Aventuri, Comedie Cu: Pierce Brosnan, Peter Ustinov Nota: 7.8 / Imdb 7.1",
+            "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
+            "20:30 - Foc sângeros 2006 - Canada - Acţiune, Crimă, Thriller Cu: Jessica Steen, Brendan Fletcher Nota: 6.3 / Imdb 5.2",
+            "22:15 - Bărbatul perfect | 2015 - SUA - Dramă, Thriller | Cu: Sanaa Lathan, Morris Chestnut | Nota: 6.9 / Imdb 5.6",
+            "00:15 - Foc sângeros 2006 - (R) - Canada - Acţiune, Crimă, Thriller Cu: Jessica Steen, Brendan Fletcher Nota: 6.3 / Imdb 5.2",
+            "02:00 - Vorbeşte lumea",
+            "04:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
+            "06:00 - Bernie, un delfin special 2018 - (R) - Canada - Aventuri, Comedie, Familie Cu: Kevin Sorbo, Lola Sultan Nota: - / Imdb 4.8"
+        ]
     },
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Meniu de vedetă",
+            "08:30 - Mireasa - Capriciile Iubirii",
+            "11:00 - Știrile Antena Stars",
+            "12:30 - Mireasa",
+            "13:30 - Viaţa Fără Filtru",
+            "16:00 - Acces direct",
+            "19:00 - Mireasa - Capriciile Iubirii",
+            "21:30 - Spynews Tv Live",
+            "00:00 - Acces direct",
+            "02:45 - Spynews Tv Live",
+            "04:30 - Știrile Antena Stars",
+            "06:00 - Viaţa Fără Filtru"
+        ]
     },
     {
         "id": 16,
@@ -436,30 +489,7 @@
     {
         "id": 27,
         "tv_channel": "ZU-TV",
-        "tv_program": [
-            "07:00 - ZUnrise",
-            "08:00 - ZU News",
-            "08:02 - ZUnrise",
-            "10:00 - Hitman Hot 10",
-            "11:00 - BIG IN",
-            "12:00 - Torpedoul lui Morar + Eat, Sleep, ZU, Repeat",
-            "13:00 - Eat, Sleep, ZU, Repeat",
-            "14:00 - Gen ‘90",
-            "15:00 - Eat, Sleep, ZU, Repeat",
-            "16:00 - ZU News",
-            "16:02 - Torpedoul lui Morar + Eat, Sleep, ZU, Repeat",
-            "17:00 - Face 2 Face",
-            "18:00 - Torpedoul lui Morar + Eat, Sleep, ZU, Repeat",
-            "19:00 - Eat, Sleep, ZU, Repeat",
-            "20:00 - BIG IN",
-            "21:00 - K-POP",
-            "22:00 - Torpedoul lui Morar + Eat, Sleep, ZU, Repeat",
-            "23:00 - Face 2 Face",
-            "00:00 - ZU News",
-            "00:02 - ZUeet Dreams",
-            "02:00 - Revizie tehnica",
-            "06:00 - Eat, Sleep, ZU, Repeat"
-        ]
+        "tv_program": []
     },
     {
         "id": 28,
@@ -1024,12 +1054,43 @@
     {
         "id": 47,
         "tv_channel": "BBC-EARTH",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.8, Ep.4",
+            "08:00 - Sub zero grade • Sez.5, Ep.2",
+            "09:00 - Secretele super-vârstnicilor • Sez.1, Ep.6",
+            "10:10 - Regatul rivalilor • Sez.1, Ep.2",
+            "11:15 - Viața la fermă • Sez.8, Ep.1",
+            "12:35 - În interiorul fabricii • Sez.8, Ep.8",
+            "13:45 - Secretele mâncării • Sez.1, Ep.1",
+            "14:55 - Sub zero grade • Sez.9, Ep.16",
+            "15:55 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.11, Ep.15",
+            "16:55 - Regatul rivalilor • Sez.1, Ep.3",
+            "17:55 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.1",
+            "19:00 - Sub zero grade • Sez.1, Ep.4",
+            "20:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.8, Ep.5",
+            "21:00 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.2, Ep.4",
+            "22:00 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.2",
+            "23:10 - Cele mai periculoase drumuri din lume • Sez.5, Ep.7",
+            "00:10 - Sub zero grade • Sez.11, Ep.13",
+            "01:10 - Sub zero grade • Sez.1, Ep.4",
+            "02:05 - Sub zero grade • Sez.9, Ep.16",
+            "03:05 - Unde se află oamenii sălbatici cu Ben Fogle • Sez.2, Ep.4",
+            "03:50 - Călătorii incredibile cu Simon Reeve • Sez.1, Ep.2",
+            "04:45 - Cele mai periculoase drumuri din lume • Sez.5, Ep.7",
+            "05:30 - Sub zero grade • Sez.1, Ep.4",
+            "06:15 - Sub zero grade • Sez.11, Ep.13"
+        ]
     },
     {
         "id": 50,
         "tv_channel": "Rock TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - We Will Rock You",
+            "10:00 - Rockaholic",
+            "19:00 - Rock This Way",
+            "00:00 - Hard Nights",
+            "06:00 - We Will Rock You"
+        ]
     },
     {
         "id": 51,
@@ -1039,7 +1100,15 @@
     {
         "id": 52,
         "tv_channel": "Magic TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - MAGIC START",
+            "10:00 - Magic Music at Work",
+            "13:00 - Magic Afternoon Coffee",
+            "16:00 - Magic Drive Music",
+            "19:00 - Magic Music - The Best Music Variety!",
+            "22:00 - Magic Night Hits",
+            "06:00 - MAGIC START"
+        ]
     },
     {
         "id": 55,
@@ -1201,7 +1270,31 @@
     {
         "id": 78,
         "tv_channel": "Romania TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştirile România TV",
+            "08:00 - Ştirile România TV",
+            "09:00 - Ştirile România TV",
+            "10:00 - Ştirile România TV",
+            "11:00 - Ştirile Romania TV",
+            "12:00 - Ştirile România TV",
+            "13:00 - Ştirile România TV",
+            "14:00 - Ştirile România TV",
+            "15:00 - Ştirile România TV",
+            "16:00 - Ştirile România TV",
+            "17:00 - Cheia zilei",
+            "18:00 - Ştirile România TV",
+            "19:00 - Ultima oră",
+            "20:00 - România la raport",
+            "21:00 - Punctul culminant",
+            "23:00 - Ştirile România TV",
+            "00:00 - Ştirile România TV",
+            "01:00 - Punctul culminant",
+            "02:00 - Punctul culminant",
+            "03:00 - Ultima ora",
+            "04:00 - România la raport",
+            "05:00 - Ştirile România TV",
+            "06:00 - Ştirile România TV"
+        ]
     },
     {
         "id": 23,
