@@ -222,7 +222,7 @@
             "20:00 - Schimb de mame",
             "22:00 - Papiland: prieteni pe viata",
             "22:30 - 50/50",
-            "00:45 - Bătălia celor blestemați 2013 - (R) - SUA, Singapore - Acţiune, Aventuri, SF Cu: David Field, Dolph Lundgren Nota: 5.6 / Imdb 4.5",
+            "00:45 - Bătălia celor blestemați 2013 - (R) - SUA, Singapore - Acţiune, Aventuri, SF Cu: David Field, Dolph Lundgren Nota: 5.5 / Imdb 4.5",
             "03:00 - Romania, cine esti?",
             "04:00 - Super Cireașa de pe tort",
             "06:00 - Focus"
@@ -465,7 +465,7 @@
             "07:00 - Bohemian Rhapsody 2018 - Marea Britanie, SUA - Biografic, Dramă, Muzical Cu: Mike Myers, Lucy Boynton Nota: 8.8 / Imdb 7.9",
             "09:10 - Harry Potter și prizonierul din Azkaban 2004 - SUA - Aventuri, Familie, Fantastic Cu: Daniel Radcliffe, Emma Watson Nota: 8.1 / Imdb 7.9",
             "11:26 - Paddington în Peru 2024 - Marea Britanie, Franta - Aventuri, Comedie, Familie Cu: Olivia Colman, Emily Mortimer Nota: 7.4 / Imdb 6.6",
-            "13:09 - Another Simple Favor 2025 - SUA - Comedie, Crimă, Mister Cu: Blake Lively, Anna Kendrick Nota: 6.4 / Imdb 5.3",
+            "13:09 - Another Simple Favor 2025 - SUA - Comedie, Crimă, Mister Cu: Blake Lively, Anna Kendrick Nota: 6.3 / Imdb 5.3",
             "15:05 - Bulevardul giganților 2023 - SUA - Dramă Cu: Stephen Lang, Elsie Fisher Nota: - / Imdb 6.5",
             "16:44 - Welcome to Marwen 2018 - SUA - Animaţie, Biografic, Comedie Cu: Eiza González, Diane Kruger Nota: 6.1 / Imdb 6.2",
             "18:36 - Materialiștii 2025 - SUA, Finlanda - Comedie, Romantic Cu: Pedro Pascal, Chris Evans Nota: 6.7 / Imdb 6.3",
@@ -632,30 +632,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "07:00 - Focus 18",
-            "09:00 - Connect",
-            "09:30 - Sanatate Cu Stil",
-            "10:05 - Iosif Pe Coclauri",
-            "12:00 - Legile Afacerilor",
-            "12:30 - Drumul Spre Succes",
-            "13:00 - Sistemul Medikal",
-            "14:00 - Viitor Pt Romania",
-            "16:00 - Life & Style",
-            "16:30 - Viata Are Gust",
-            "17:00 - Zona De Conflict Cu Marius Saizu",
-            "18:00 - Agronews",
-            "20:00 - Focus 18 Inregistrat",
-            "21:00 - Povesti",
-            "21:30 - Sanatoase",
-            "22:00 - Zona De Conflict",
-            "23:00 - Medika Antidrog",
-            "00:00 - Focus 18",
-            "01:00 - Agronews",
-            "03:00 - Zona De Conflict",
-            "04:00 - Podcast Cu Livia Graur",
-            "05:00 - Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1393,7 +1370,7 @@
             "14:00 - Superman 2025 - SUA - Acţiune, Aventuri, Fantastic Cu: Nicholas Hoult, Isabela Merced Nota: 6.2 / Imdb 7.0",
             "16:07 - Casa Dragonului • Sez.2, Ep.6 2022 - SUA - Acţiune, Aventuri, Dramă Cu: Paddy Considine, Olivia Cooke Nota: 7.8 / Imdb 8.3",
             "17:13 - Primul om pe Lună 2018 - SUA - Biografic, Dramă, Istoric Cu: Claire Foy, Ryan Gosling Nota: 7.4 / Imdb 7.3",
-            "19:31 - Împăratul muștelor • Sez.1, Ep.3 | 2026 - Marea Britanie - Dramă | Cu: Lox Pratt, Ike Talbut | Nota: 7.3 / Imdb -",
+            "19:31 - Împăratul muștelor • Sez.1, Ep.3 | 2026 - Marea Britanie - Dramă | Cu: Lox Pratt, Ike Talbut | Nota: 7.2 / Imdb -",
             "20:32 - Euforia • Sez.3, Ep.8 2019 - SUA - Dramă Cu: Zendaya, Maude Apatow Nota: 8.0 / Imdb 8.2",
             "22:03 - Dope Girls • Sez.1, Ep.3 20025 - SUA - Crimă, Dramă Cu: Julianne Nicholson, Sebastian Croft Nota: - / Imdb 6.3",
             "22:57 - Un scandal regal • Sez.1, Ep.1 2024 - Marea Britanie - Dramă Cu: Michael Sheen, Ruth Wilson Nota: 7.2 / Imdb 7.2",
