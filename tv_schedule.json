@@ -482,7 +482,7 @@
             "09:30 - Tom și Jerry 2021 - SUA - Animaţie, Aventuri, Comedie Cu: Chloë Grace Moretz, Michael Peña Nota: 7.1 / Imdb 5.3",
             "11:10 - Toți cei care mă vor mort 2021 - Canada, SUA - Acţiune, Dramă, Thriller Cu: Angelina Jolie, Nicholas Hoult Nota: 6.4 / Imdb 6.0",
             "12:50 - Kong: Insula Craniilor 2017 - SUA - Acţiune, Aventuri, Fantastic Cu: Samuel L. Jackson, Brie Larson Nota: 7.4 / Imdb 6.7",
-            "14:40 - Jerry și Marge câștigă la loterie 2022 - SUA - Biografic, Comedie, Dramă Cu: Bryan Cranston, Annette Bening Nota: 7.2 / Imdb 6.9",
+            "14:40 - Jerry și Marge câștigă la loterie 2022 - SUA - Biografic, Comedie, Dramă Cu: Bryan Cranston, Annette Bening Nota: 7.1 / Imdb 6.9",
             "16:10 - Match Point 2005 - SUA - Dramă, Thriller Cu: Scarlett Johansson, Jonathan Rhys Meyers Nota: 7.7 / Imdb 7.6",
             "18:10 - U-571 2000 - SUA - Dramă Cu: Matthew McConaughey, Bill Paxton Nota: 7.4 / Imdb 6.6",
             "20:00 - Frost/Nixon | 2008 - SUA - Dramă | Cu: Michael Sheen, Frank Langella | Nota: 8.0 / Imdb 7.6",
@@ -570,9 +570,7 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": [
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 80,
@@ -1475,11 +1473,11 @@
             "13:10 - Ecaterina Teodoroiu 1978 - Romania - Dramă, Război Cu: Stela Furcovici, Ion Lupu Nota: 7.8 / Imdb 7.1",
             "15:40 - Răscoala 1965 - Romania - Dramă Cu: Ilarion Ciobanu, Emil Botta Nota: 8.0 / Imdb 7.2",
             "18:00 - La porțile Pământului 1965 - Romania - Comedie Cu: Mitzura Arghezi, Marga Barbu Nota: 7.4 / Imdb 7.2",
-            "19:45 - Memento 1918 | 2023 - Romania - Dramă | Cu: Alexandru Potocean, Nicolae Stoica | Nota: 6.7 / Imdb 7.0",
+            "19:45 - Memento 1918 | 2023 - Romania - Dramă | Cu: Alexandru Potocean, Nicolae Stoica | Nota: 6.4 / Imdb 7.0",
             "22:05 - Mirajul Dragostei • Ep.1 2006 Nota: - / Imdb -",
             "23:05 - Mirajul Dragostei • Ep.2 2006 Nota: - / Imdb -",
             "00:10 - București Non-Stop 2015 - Romania - Comedie, Dramă Cu: Toma Cuzin, Olimpia Melinte Nota: 7.2 / Imdb 7.4",
-            "02:15 - Memento 1918 2023 - Romania - Dramă Cu: Alexandru Potocean, Nicolae Stoica Nota: 6.7 / Imdb 7.0",
+            "02:15 - Memento 1918 2023 - Romania - Dramă Cu: Alexandru Potocean, Nicolae Stoica Nota: 6.4 / Imdb 7.0",
             "03:55 - Mirajul Dragostei • Ep.1 2006 Nota: - / Imdb -",
             "05:00 - Mirajul Dragostei • Ep.2 2006 Nota: - / Imdb -",
             "05:45 - Un cartuș de Kent și un pachet de cafea 2004 - Romania - Scurt metraj Cu: Mimi Brănescu, Victor Rebengiuc Nota: 8.0 / Imdb 7.4",
