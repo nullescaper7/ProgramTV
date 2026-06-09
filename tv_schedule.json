@@ -403,7 +403,34 @@
     {
         "id": 17,
         "tv_channel": "TVR Cultural",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Comori uitate din bazinul Mediteranei",
+            "07:30 - Intrare liberă (R)",
+            "09:00 - Jurnal Cultural (R)",
+            "09:30 - Jurnal cultural în spatele imaginii (R)",
+            "10:00 - Classy Jukebox",
+            "11:55 - Poet şi poezie",
+            "12:00 - Concert de prânz (R)",
+            "13:00 - Jurnal Cultural",
+            "13:05 - Documentar 360° Geo - Tribunalul plutitor de pe Amazon",
+            "14:00 - Cultura minorităţilor",
+            "14:30 - Cultart",
+            "15:30 - Garantat 100%",
+            "16:30 - Concert de prânz",
+            "17:25 - Jurnal Cultural",
+            "17:30 - TVR 70",
+            "18:00 - Comori uitate din bazinul Mediteranei",
+            "18:30 - Intrare liberă",
+            "20:00 - Jurnal Cultural",
+            "20:30 - Jurnal cultural în spatele imaginii",
+            "21:00 - Opera",
+            "00:00 - Omul şi timpul (R)",
+            "01:00 - Jurnal Cultural (R)",
+            "01:30 - Jurnal cultural în spatele imaginii (R)",
+            "02:00 - Opera (R)",
+            "05:00 - Classy Jukebox (R)",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 20,
