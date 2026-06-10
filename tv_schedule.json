@@ -753,7 +753,38 @@
     {
         "id": 39,
         "tv_channel": "PRS-2",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştirile Prima Sport - Cele mai importante informații din lumea sportului.",
+            "07:15 - CS U Craiova – FC U Cluj (R) - MECI FOTBAL SUPERLIGA 1",
+            "09:15 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "09:30 - Barcelona – Newcastle (R) - MECI FOTBAL UEFA CHAMPIONS LEAGUE",
+            "11:30 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "11:45 - Fotbal Show (R)",
+            "12:45 - Teleshopping",
+            "13:15 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "13:30 - Teleshopping",
+            "14:00 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "14:15 - Teleshopping",
+            "14:45 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "15:00 - Teleshopping",
+            "15:30 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "15:45 - GT WORLD CHALLENGE (R)",
+            "16:30 - Legendele Brazilei – Legendele SUA (R) - MECI FOTBAL AMICAL",
+            "18:30 - Ştirile Prima Sport - Cele mai importante informații din lumea sportului.",
+            "18:45 - Ungaria – Kazakhstan (R) - MECI FOTBAL AMICAL",
+            "20:45 - Bayern Munchen – Real Madrid (R) - MECI FOTBAL UEFA CHAMPIONS LEAGUE",
+            "22:45 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "23:00 - Anglia – Costa Rica - MECI FOTBAL AMICAL",
+            "01:00 - Bundesliga- Harry Kane (R)",
+            "01:30 - GOALITOS: Kylian Mbappé (R)",
+            "01:45 - Portugalia – Nigeria (R) - MECI FOTBAL AMICAL",
+            "03:45 - Malaga – Las Palmas (R) - MECI FOTBAL LA LIGA",
+            "05:45 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "06:00 - GOALITOS: Kylian Mbappé (R)",
+            "06:15 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului.",
+            "06:30 - GOALITOS: Kylian Mbappé (R)",
+            "06:45 - Ştirile Prima Sport (R) - Cele mai importante informații din lumea sportului."
+        ]
     },
     {
         "id": 40,
@@ -1265,7 +1296,7 @@
         "id": 23,
         "tv_channel": "AMC",
         "tv_program": [
-            "07:55 - Supernova 2005 - SUA - Aventuri, Dramă, SF Cu: Luke Perry, Tia Carrere Nota: 5.5 / Imdb 3.8",
+            "07:55 - Supernova 2005 - SUA - Aventuri, Dramă, SF Cu: Luke Perry, Tia Carrere Nota: 5.7 / Imdb 3.8",
             "09:50 - Bibliotecarii • Ep.8 2014 - SUA - Aventuri Cu: John Larroquette, Noah Wyle Nota: 8.2 / Imdb 7.3",
             "10:45 - Memoriile unei Gheișe 2005 - SUA - Dramă, Romantic, Dragoste Cu: Ziyi Zhang, Ken Watanabe Nota: 8.3 / Imdb 7.3",
             "13:45 - Greu de pensionat 2010 - SUA - Acţiune, Comedie Cu: Bruce Willis, Morgan Freeman Nota: 7.7 / Imdb 7.0",
