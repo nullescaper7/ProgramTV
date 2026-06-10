@@ -47,7 +47,18 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - News Pass",
+            "23:00 - Doctorul",
+            "00:00 - Bună, România! (R)",
+            "01:50 - Politica zilei (R)",
+            "03:40 - News Pass (R)",
+            "06:10 - Doctorul (R)"
+        ]
     },
     {
         "id": 7,
@@ -327,9 +338,9 @@
             "14:15 - Bernie, un delfin special 2 2019 - Canada, SUA - Acţiune, Comedie, Familie Cu: Logan Allen, Kevin Sorbo Nota: - / Imdb 4.6",
             "16:15 - Dragostea trece prin Londra",
             "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "20:30 - 7 Secunde | 2005 - SUA, Elvetia, Marea Britanie - Acţiune, Crimă, Thriller | Cu: Wesley Snipes, Tamzin Outhwaite | Nota: 5.9 / Imdb 4.8",
+            "20:30 - 7 Secunde | 2005 - SUA, Elvetia, Marea Britanie - Acţiune, Crimă, Thriller | Cu: Wesley Snipes, Tamzin Outhwaite | Nota: 5.8 / Imdb 4.8",
             "22:30 - Nicio faptă bună 2014 - SUA - Thriller Cu: Idris Elba, Taraji P. Henson Nota: 6.7 / Imdb 5.6",
-            "00:15 - 7 Secunde 2005 - (R) - SUA, Elvetia, Marea Britanie - Acţiune, Crimă, Thriller Cu: Wesley Snipes, Tamzin Outhwaite Nota: 5.9 / Imdb 4.8",
+            "00:15 - 7 Secunde 2005 - (R) - SUA, Elvetia, Marea Britanie - Acţiune, Crimă, Thriller Cu: Wesley Snipes, Tamzin Outhwaite Nota: 5.8 / Imdb 4.8",
             "02:15 - Vorbeşte lumea",
             "04:15 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
             "06:15 - Bernie, un delfin special 2 2019 - (R) - Canada, SUA - Acţiune, Comedie, Familie Cu: Logan Allen, Kevin Sorbo Nota: - / Imdb 4.6"
@@ -1451,9 +1462,9 @@
             "20:10 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "20:25 - Acasă la tata | 2015 - Romania - Comedie, Dramă | Cu: Alexandru Papadopol, Ioana Flora | Nota: 6.1 / Imdb 6.6",
             "21:56 - Medalion / Scurtmetraj / Jurnal / Pastilă",
-            "22:10 - Săptămâna Mare 2024 - Romania, Franta, Elvetia, Turcia - Dramă Cu: Doru Bem, Nicoleta Lefter Nota: 6.9 / Imdb 6.2",
+            "22:10 - Săptămâna Mare 2024 - Romania, Franta, Elvetia, Turcia - Dramă Cu: Doru Bem, Nicoleta Lefter Nota: 6.7 / Imdb 6.2",
             "00:23 - Medalion / Scurtmetraj / Jurnal / Pastilă",
-            "00:40 - Arest 2019 - Romania - Dramă Cu: Alexandru Papadopol, Iulian Postelnicu Nota: 6.8 / Imdb 7.4",
+            "00:40 - Arest 2019 - Romania - Dramă Cu: Alexandru Papadopol, Iulian Postelnicu Nota: 6.9 / Imdb 7.4",
             "02:46 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "03:00 - Săgeata căpitanului Ion 1972 - Romania - Acţiune, Istoric Cu: Ion Besoiu, Amza Pellea Nota: 7.8 / Imdb 7.2",
             "04:27 - Medalion / Scurtmetraj / Jurnal / Pastilă",
