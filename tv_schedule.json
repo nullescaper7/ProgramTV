@@ -61,7 +61,25 @@
     {
         "id": 7,
         "tv_channel": "PROTV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştirile Pro Tv",
+            "10:30 - Vorbeşte lumea AP",
+            "13:00 - Ştirile Pro Tv",
+            "14:00 - La marginea lumii",
+            "15:00 - Leyla",
+            "16:00 - Lecţii de viaţă",
+            "17:00 - Ştirile Pro Tv",
+            "18:00 - Batem palma?",
+            "19:00 - Ştirile Pro Tv",
+            "20:30 - Las fierbinți",
+            "21:30 - Curierul",
+            "23:30 - Ştirile Pro Tv",
+            "00:00 - Întunericul din om",
+            "02:00 - Lecţii de viaţă (R)",
+            "03:00 - Vorbeşte lumea (R) AP",
+            "05:00 - Batem palma? (R)",
+            "06:00 - Ştirile Pro Tv"
+        ]
     },
     {
         "id": 8,
@@ -1307,7 +1325,7 @@
             "07:00 - Tenis",
             "09:00 - Tenis",
             "11:00 - Tenis",
-            "12:00 - Live Tenis",
+            "12:00 - Live WTA \\'s-Hertogenbosch (ziua 4) Elena-Gabriela Ruse - Elise Mertens",
             "13:30 - Live WTA Londra (ziua 4) Sorana Cirstea - Emma Raducanu",
             "16:00 - Live Tenis",
             "17:30 - live WTA Londra (ziua 4) Jaqueline Cristian - Katie Boulter",
