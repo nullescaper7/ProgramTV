@@ -211,7 +211,7 @@
             "17:50 - Focus sport",
             "18:00 - Focus",
             "19:15 - 50/50",
-            "20:00 - Twist | 2021 - Marea Britanie - Acţiune, Dramă | Cu: Michael Caine, Lena Headey | Nota: 6.4 / Imdb 4.2",
+            "20:00 - Twist | 2021 - Marea Britanie - Acţiune, Dramă | Cu: Michael Caine, Lena Headey | Nota: 6.5 / Imdb 4.2",
             "22:00 - Focus",
             "23:00 - 50/50",
             "23:30 - Exclusiv VIP",
@@ -962,7 +962,33 @@
     {
         "id": 44,
         "tv_channel": "DISCOVERY-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Bogății murdare Sezonul 2 - Episodul 7 - Călătorii în timp și bani grei",
+            "08:00 - Cum se fabrică ? Sezonul 26 - Episodul 22",
+            "08:30 - Cum se fabrică ? Sezonul 26 - Episodul 23",
+            "09:00 - Goana după aur Sezonul 16 - Episodul 6 - Nevăstuica",
+            "10:00 - Test de supravieţuire în doi Sezonul 2 - Episodul 28 - Putere din durere",
+            "11:00 - Comori restaurate Sezonul 1 - Episodul 9",
+            "12:00 - Maşini pe alese Sezonul 7 - Episodul 10 - Subaru Impreza WRX",
+            "13:00 - Garajul lui Kindig Sezonul 11 - Episodul 4 - Salon auto în Australia",
+            "14:00 - Test de supravieţuire în doi Sezonul 8 - Episodul 10 - Bătălia sexelor",
+            "16:00 - Comori arhitecturale recuperate Sezonul 14 - Episodul 20",
+            "17:00 - Comori arhitecturale recuperate Sezonul 14 - Episodul 21",
+            "18:00 - Maşini pe alese Sezonul 17 - Episodul 4",
+            "19:00 - Cum se fabrică ? Sezonul 13 - Episodul 15 - Sârmă pentru taloane de anvelope auto, pepperoni, aspersoare şi mănuşi de piele",
+            "19:30 - Cum se fabrică ? Sezonul 13 - Episodul 16 - Sticlă suflată pentru geamuri, pompe de apă, sake şi pensete",
+            "20:00 - Comori arhitecturale recuperate Sezonul 20 - Episodul 12 - Proaspăt aduse pe piață",
+            "21:00 - Comori arhitecturale recuperate - Eleganța georgiană",
+            "22:00 - Test de supravieţuire în doi Sezonul 1 - Episodul 5 - Aventură în Borneo",
+            "23:00 - Test de supravieţuire: Până la ultimul om Sezonul 1 - Episodul 5 - Mai multă miere, mai multe probleme",
+            "01:00 - Ed Stafford: Proba maturității Sezonul 1 - Episodul 6 - Shaolin",
+            "02:00 - Comori arhitecturale recuperate Sezonul 20 - Episodul 12 - Proaspăt aduse pe piață",
+            "02:48 - Comori arhitecturale recuperate - Eleganța georgiană",
+            "03:36 - Test de supravieţuire în doi Sezonul 1 - Episodul 5 - Aventură în Borneo",
+            "04:24 - Maşini pe alese Sezonul 8 - Episodul 5 - Saab 9-3",
+            "05:12 - Comori arhitecturale recuperate Sezonul 20 - Episodul 3 - Noi începuturi",
+            "06:00 - Maşini pe alese Sezonul 14 - Episodul 6"
+        ]
     },
     {
         "id": 44,
