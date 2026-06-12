@@ -775,7 +775,20 @@
     {
         "id": 39,
         "tv_channel": "PRS-2",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Fotbal Uefa Champions League: Bayern Munchen-Real Madrid",
+            "10:00 - Fotbal Spania: Levante-Celta Vigo",
+            "12:00 - Fotbal Uefa Champions League: Psg-Bayern Munchen",
+            "14:00 - Fotbal Spania: Betis-Atletico",
+            "16:00 - Fotbal Uefa Champions League: Bayern Munchen-Real Madrid",
+            "18:00 - Fotbal Spania: Villarreal-Rayo Vallecano",
+            "20:00 - Fotbal Uefa Champions League: Psg-Bayern Munchen",
+            "22:00 - Fotbal Spania: Atletico-Sevilla",
+            "00:00 - Fotbal Uefa Champions League: Bayern Munchen-Real Madrid",
+            "02:00 - Fotbal Spania: Betis-Real Sociedad",
+            "04:00 - Fotbal Uefa Champions League: Psg-Bayern Munchen",
+            "06:00 - Fotbal Spania: Real Madrid-Valencia"
+        ]
     },
     {
         "id": 40,
