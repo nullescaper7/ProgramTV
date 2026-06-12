@@ -628,7 +628,31 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Sistemul Medikal",
+            "08:00 - Proiect De Tara",
+            "09:00 - Head-Uri Live",
+            "09:05 - Proiect De Tara",
+            "10:00 - Head-Uri Live",
+            "10:05 - Proiect De Tara",
+            "11:00 - Head-Uri Live",
+            "11:05 - Zona De Conflict",
+            "12:00 - Head-Uri Live",
+            "12:05 - Educatie Cu Profit",
+            "13:00 - Head-Uri Live",
+            "13:05 - Viitor Pt Romania Nicoleta Calugareanu",
+            "14:00 - Head-Uri Live",
+            "14:05 - Viitor Pt Romania Nicoleta Calugareanu",
+            "15:00 - Sistemul Medikal",
+            "16:00 - Focus 14 Inregistrat",
+            "18:00 - Prima News Debate",
+            "20:00 - Focus 18 Inregistrat",
+            "22:00 - Cu Iosif Pe Coclauri",
+            "00:00 - Viitor Pt Romania",
+            "02:00 - Prima News Debate",
+            "04:00 - Focus 18",
+            "05:00 - Cu Iosif Pe Coclauri"
+        ]
     },
     {
         "id": 33,
