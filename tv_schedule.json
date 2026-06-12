@@ -571,7 +571,23 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Zestrea muzicală",
+            "08:50 - Etnografica",
+            "09:00 - Muzica regiunilor",
+            "11:00 - Tezaur folcloric",
+            "12:00 - Scena românilor",
+            "14:00 - Cântec românesc",
+            "15:50 - Etnografica",
+            "16:00 - Mostenirea cantecului",
+            "18:00 - De la sate adunate",
+            "19:00 - Tezaur folcloric",
+            "20:00 - Ora de aur",
+            "21:00 - Scena românilor",
+            "22:50 - Etnografica",
+            "23:00 - Cu lăutarii după mine",
+            "00:00 - Muzică tradiţională"
+        ]
     },
     {
         "id": 80,
