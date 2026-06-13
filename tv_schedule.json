@@ -71,7 +71,25 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "- Bună dimineața, România!",
+            "- Ritmul sănătăţii",
+            "- Bună dimineața, România!",
+            "- Schimbă-ți viața, informează-te",
+            "- Bună dimineața, România!",
+            "- Talk B1",
+            "- Travel and Fun",
+            "- Talk B1",
+            "- 360 de grade",
+            "- Special B1",
+            "- Special B1",
+            "- Condamnaţii AP",
+            "- Special B1 (R)",
+            "- Travel and fun (R)",
+            "- Special B1 (R)",
+            "- 360 de grade (R)",
+            "- Condamnaţii (R)"
+        ]
     },
     {
         "id": 7,
