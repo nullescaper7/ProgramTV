@@ -212,7 +212,7 @@
             "01:30 - Casa iubirii",
             "04:15 - ROventura",
             "05:15 - Știrile Kanal D",
-            "06:00 - Totul pentru familia mea 2021 - Turcia - Dramă Cu: Celil Nalcakan, Cüneyt Mete Nota: 9.0 / Imdb 5.7"
+            "06:00 - Totul pentru familia mea 2021 - Turcia - Dramă Cu: Celil Nalcakan, Cüneyt Mete Nota: 8.9 / Imdb 5.7"
         ]
     },
     {
@@ -414,7 +414,38 @@
     {
         "id": 17,
         "tv_channel": "TVR Cultural",
-        "tv_program": []
+        "tv_program": [
+            "- Comori uitate din bazinul Mediteranei (R)",
+            "- Ediţie limitată (R)",
+            "- Duh & culoare",
+            "- Jurnal Cultural (R)",
+            "- Jurnal cultural în spatele imaginii (R)",
+            "- Jurnal cultural în spatele imaginii (R)",
+            "- Arta la vedere (R)",
+            "- EduArte",
+            "- Lectia de istorie",
+            "- Concert Jazz: Ode to a Master – The Spirit of Garbis Dedeian (R)",
+            "- Călătorii iniţiatice (R)",
+            "- Omul şi timpul",
+            "- Comori uitate din bazinul Mediteranei",
+            "- Eveniment TVR Cultural: Bucharest Design Week",
+            "- Interviurile Filit 2025",
+            "- Jurnal Cultural",
+            "- Jurnal cultural în spatele imaginii",
+            "- Afinitati elective",
+            "- Arte performative",
+            "- Dr Jack şi Mr Nicholson (R)",
+            "- La pas prin ţară (R)",
+            "- Jurnal Cultural (R)",
+            "- Jurnal cultural în spatele imaginii (R)",
+            "- TVR 70 (R)",
+            "- Interviurile Filit 2025 (R)",
+            "- Arte performative (R)",
+            "- Afinitati elective (R)",
+            "- Duh & culoare (R)",
+            "- Mic dejun cu un campion (R)",
+            "- Imnul României"
+        ]
     },
     {
         "id": 20,
