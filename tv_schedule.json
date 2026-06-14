@@ -489,7 +489,22 @@
     {
         "id": 356663382,
         "tv_channel": "FilmNow",
-        "tv_program": []
+        "tv_program": [
+            "07:30 - Rocky II 1979 - SUA - Dramă, Sport Cu: Talia Shire, Sylvester Stallone Nota: 8.1 / Imdb 7.3",
+            "09:25 - Patrula cățelușilor: Filmul 2021 - SUA, Canada - Animaţie, Aventuri, Comedie Cu: Iain Armitage, Will Brisbin Nota: 7.0 / Imdb 6.1",
+            "10:45 - Tornade 2024 - SUA - Acţiune, Aventuri, Thriller Cu: Glen Powell, Maura Tierney Nota: 6.7 / Imdb 6.5",
+            "12:40 - Ziua îndrăgostiților 2010 - SUA - Comedie, Romantic, Dragoste Cu: Jessica Alba, Jessica Biel Nota: 7.2 / Imdb 5.8",
+            "14:40 - Inima de campion 2021 - SUA - Dramă, Sport Cu: Michael Shannon, Alexander Ludwig Nota: 6.7 / Imdb 6.1",
+            "16:35 - Taxi 5 2018 - Franta - Acţiune, Aventuri, Comedie Cu: Franck Gastambide, Sabrina Ouazani Nota: 6.8 / Imdb 4.6",
+            "18:15 - Admis pe pile 2013 - SUA - Comedie, Dramă, Romantic Cu: Paul Rudd, Tina Fey Nota: 6.2 / Imdb 5.7",
+            "20:00 - Paza din cartier | 2025 - SUA - Crimă, Thriller | Cu: Jack Quaid, Jeffrey Dean Morgan | Nota: 6.3 / Imdb 6.2",
+            "21:35 - Ziua Z: Apocalipsa 2013 - SUA, Malta - Acţiune, Dramă, Horror Cu: Brad Pitt, Mireille Enos Nota: 7.6 / Imdb 7.0",
+            "23:25 - Urma scapă turma 2014 - SUA - Comedie, Western Cu: Amanda Seyfried, Charlize Theron Nota: 6.6 / Imdb 6.1",
+            "01:15 - Blade 1998 - SUA - Acţiune, Horror, Thriller Cu: Wesley Snipes, Eric Edwards Nota: 7.6 / Imdb 7.1",
+            "03:10 - Simpatie pentru diavol 2023 - SUA - Acţiune, Horror, Thriller Cu: Nicolas Cage, Joel Kinnaman Nota: 6.1 / Imdb 5.5",
+            "04:35 - Edge of Winter 2016 - Canada, SUA - Dramă, Thriller Cu: Tom Holland, Shiloh Fernandez Nota: 5.9 / Imdb 5.4",
+            "06:00 - Ingrid pleacă în vest 2017 - SUA - Comedie, Dramă Cu: Elizabeth Olsen, Aubrey Plaza Nota: 6.3 / Imdb 6.6"
+        ]
     },
     {
         "id": 26,
@@ -499,12 +514,48 @@
     {
         "id": 27,
         "tv_channel": "ZU-TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - ZUnrise",
+            "08:00 - ZU News",
+            "08:02 - ZUnrise",
+            "10:00 - Hitman Hot 10",
+            "11:00 - BIG IN",
+            "12:00 - Most Wanted",
+            "14:00 - Gen ‘90",
+            "15:00 - Eat, Sleep, ZU, Repeat",
+            "16:00 - ZU News",
+            "16:02 - Eat, Sleep, ZU, Repeat",
+            "17:00 - Face 2 Face",
+            "18:00 - Eat, Sleep, ZU, Repeat",
+            "20:00 - BIG IN",
+            "21:00 - K-POP",
+            "22:00 - Most Wanted",
+            "00:00 - ZU News",
+            "00:02 - ZUeet Dreams",
+            "06:00 - Eat, Sleep, ZU, Repeat"
+        ]
     },
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Hitlist Romania",
+            "12:00 - POWER Play's this week's top 10",
+            "13:00 - Hot + Hits",
+            "13:30 - Themed Weekend",
+            "18:30 - Versus",
+            "19:00 - Hot + Hits",
+            "19:30 - 3 Play",
+            "19:45 - Hot+Hits",
+            "20:00 - Dance Chart",
+            "21:00 - Beats and Massive R'N'B Hits",
+            "22:00 - Today's hot girls",
+            "00:00 - Clubland",
+            "01:00 - Nightshift",
+            "06:00 - Morning Mix"
+        ]
     },
     {
         "id": 29,
