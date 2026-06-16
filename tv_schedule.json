@@ -23,41 +23,7 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": [
-            "07:00 - Știrile Diminetii cu Andrei Tomescu și Madalina Tanasa",
-            "07:45 - Teleshopping",
-            "08:00 - Știrile Diminetii cu Andrei Tomescu și Madalina Tanasa",
-            "08:45 - Teleshopping",
-            "09:00 - Editie Specială cu Madalina Mihalache si Lorena Burlacu",
-            "09:45 - Teleshopping",
-            "10:00 - Editie Specială cu Madalina Mihalache si Lorena Burlacu",
-            "11:00 - Editie Specială cu Ana Roman si Radu Tudor",
-            "12:00 - Editie Specială cu Ana Roman si Radu Tudor",
-            "13:00 - Editie Specială cu Andreea Dumitrache, Sabina Iosub si Adrian Ursu",
-            "14:00 - Editie Specială cu Andreea Dumitrache, Sabina Iosub si Adrian Ursu",
-            "15:00 - Ediție Specială",
-            "16:00 - Ediție Specială",
-            "17:00 - Editie Specială cu Sergiu Cora, Sabrina Preda, Mircea Badea si Mugur Ciuvica",
-            "18:00 - Editie Specială cu Sergiu Cora, Sabrina Preda, Mircea Badea si Mugur Ciuvica",
-            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
-            "20:00 - Decisiv Prime Time cu Catalina Porumbel",
-            "21:00 - Sinteza zilei",
-            "22:00 - Sinteza zilei",
-            "22:30 - Ştiri",
-            "23:00 - Sinteza zilei",
-            "23:30 - În gura presei",
-            "00:00 - În gura presei",
-            "00:30 - Ştiri",
-            "01:00 - Ştiri",
-            "02:00 - Sinteza zilei",
-            "02:30 - Top News cu Sabina Iosub, reluare",
-            "03:00 - Sinteza zilei",
-            "03:30 - Decisiv Prime Time cu Catalina Porumbel, reluare",
-            "04:00 - În gura presei",
-            "05:00 - News Hour with CNN",
-            "06:00 - Ştiri",
-            "06:45 - Teleshopping"
-        ]
+        "tv_program": []
     },
     {
         "id": 3,
@@ -370,20 +336,7 @@
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": [
-            "08:00 - Meniu de vedetă",
-            "08:30 - Mireasa - Capriciile Iubirii",
-            "11:00 - Știrile Antena Stars",
-            "12:30 - Mireasa",
-            "13:30 - Viaţa Fără Filtru",
-            "16:00 - Acces direct",
-            "19:00 - Mireasa - Capriciile Iubirii",
-            "21:30 - Spynews Tv Live",
-            "00:00 - Acces direct",
-            "02:45 - Spynews Tv Live",
-            "04:30 - Știrile Antena Stars",
-            "06:00 - Viaţa Fără Filtru"
-        ]
+        "tv_program": []
     },
     {
         "id": 16,
@@ -523,31 +476,7 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": [
-            "09:00 - 3 Play",
-            "09:15 - Morning Mix",
-            "10:00 - Today’s Hitlist",
-            "11:00 - 11 Vids we're loving right now",
-            "12:00 - Versus",
-            "12:30 - Hot + Hits",
-            "13:00 - Dance Chart - This week's TOP 10",
-            "13:45 - Hot+Hits",
-            "14:00 - .Ro",
-            "14:30 - Hot+Hits",
-            "16:30 - Versus",
-            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
-            "17:30 - Social Media Chart",
-            "18:00 - Today's hot boys",
-            "19:00 - Balkan & oriental express",
-            "20:00 - Hot + Hits",
-            "20:30 - 3 Play",
-            "20:45 - Hot+Hits",
-            "21:00 - H!T COLLECTION",
-            "22:00 - Today's Hitlist",
-            "23:00 - Today's hot girls",
-            "00:00 - Clubland - This week's TOP 10",
-            "01:00 - Nightshift"
-        ]
+        "tv_program": []
     },
     {
         "id": 29,
