@@ -286,7 +286,44 @@
     {
         "id": 12,
         "tv_channel": "TVR International",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Telejurnal matinal",
+            "07:50 - România face bine",
+            "08:00 - Telejurnal matinal",
+            "08:50 - Vorbeşte corect!",
+            "09:00 - Telejurnal matinal",
+            "09:50 - TVRetro",
+            "11:30 - Cap compas",
+            "12:00 - Investiţi în România!",
+            "13:00 - Europa, printre rânduri",
+            "14:00 - Telejurnal",
+            "14:50 - Discover Romania",
+            "15:00 - Anchete",
+            "15:30 - Dialoguri colorate",
+            "16:00 - Banii, azi",
+            "17:00 - Gala Umorului",
+            "17:50 - Discover Romania",
+            "18:00 - Profesioniştii... cu Eugenia Vodă",
+            "19:00 - Telejurnal",
+            "19:55 - Zi de zi cu părintele Constantin Necula",
+            "20:00 - Articolul VII",
+            "21:00 - Jurnal Cultural",
+            "21:30 - Jurnal Cultural",
+            "22:00 - Dezacorduri de pace",
+            "23:00 - Ediţie limitată",
+            "00:00 - Telejurnal Moldova",
+            "00:45 - Fake News Alert",
+            "01:00 - Gala Umorului",
+            "01:50 - Discover Romania",
+            "02:00 - Cap compas",
+            "02:30 - Natură şi aventură",
+            "03:00 - Telejurnal",
+            "03:55 - Zi de zi cu părintele Constantin Necula",
+            "04:00 - Articolul VII",
+            "05:00 - Dezacorduri de pace",
+            "06:00 - Reţeaua de idoli",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 13,
@@ -328,7 +365,20 @@
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Meniu de vedetă",
+            "08:30 - Mireasa - Capriciile Iubirii",
+            "11:00 - Știrile Antena Stars",
+            "12:30 - Mireasa",
+            "13:30 - Viaţa Fără Filtru",
+            "16:00 - Acces direct",
+            "19:00 - Mireasa - Capriciile Iubirii",
+            "21:30 - Spynews Tv Live",
+            "00:00 - Acces direct",
+            "02:45 - Spynews Tv Live",
+            "04:30 - Știrile Antena Stars",
+            "06:00 - Viaţa Fără Filtru"
+        ]
     },
     {
         "id": 16,
@@ -364,12 +414,58 @@
     {
         "id": 17,
         "tv_channel": "TVR Cultural",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Comori uitate din bazinul Mediteranei",
+            "07:30 - Intrare liberă",
+            "09:00 - Jurnal Cultural",
+            "09:30 - Jurnal cultural în spatele imaginii",
+            "10:00 - Classy Jukebox",
+            "12:00 - Concert de prânz",
+            "13:00 - Jurnal Cultural",
+            "13:05 - Documentar 360° Geo",
+            "14:00 - Cultura minorităţilor",
+            "14:30 - Cultart",
+            "15:30 - Nocturne",
+            "16:15 - Poveştile caselor vechi",
+            "16:20 - CVarte",
+            "16:30 - Concert de prânz",
+            "17:15 - Poet şi poezie",
+            "17:25 - Jurnal Cultural",
+            "17:30 - TVR 70",
+            "18:30 - Intrare liberă",
+            "20:00 - Jurnal Cultural",
+            "20:30 - Jurnal cultural în spatele imaginii",
+            "21:00 - Teatru TV",
+            "23:00 - Duh & culoare",
+            "23:30 - EduArte",
+            "00:20 - Nocturne",
+            "01:00 - Jurnal Cultural",
+            "01:30 - Jurnal cultural în spatele imaginii",
+            "02:00 - Cultart",
+            "03:00 - Teatru TV",
+            "05:00 - Classy Jukebox",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 20,
         "tv_channel": "HBO",
-        "tv_program": []
+        "tv_program": [
+            "07:50 - Totul pe jumătate 2024 - Germania - Comedie Cu: Laura Tonke, Moritz Bleibtreu Nota: 6.8 / Imdb 6.3",
+            "09:45 - Așteptându-l pe Dalí 2023 - Spania - Comedie, Dramă, Romantic Cu: Gal Soler, José Garcia Nota: 7.3 / Imdb 6.8",
+            "11:40 - Cartea vieții 2014 - SUA - Animaţie, Aventuri, Comedie Cu: Channing Tatum, Ron Perlman Nota: 7.9 / Imdb 7.2",
+            "13:15 - Materialiștii 2025 - SUA, Finlanda - Comedie, Romantic Cu: Pedro Pascal, Chris Evans Nota: 6.7 / Imdb 6.3",
+            "15:10 - Păzea la minge! 2004 - SUA - Comedie Cu: Vince Vaughn, Ben Stiller Nota: 6.7 / Imdb 6.7",
+            "16:40 - Secretul aurarului 2025 - Spania - Dramă, Romantic Cu: Mario Casas, Michelle Jenner Nota: 7.0 / Imdb 6.1",
+            "18:20 - Cel mai frumos spectacol de Crăciun 2024 - Canada - Aventuri, Dramă, Fantastic Cu: Judy Greer, Lauren Graham Nota: 7.0 / Imdb 6.8",
+            "20:00 - Durere profundă | 2024 - SUA - Comedie, Dramă | Cu: Kieran Culkin, Jesse Eisenberg | Nota: 6.7 / Imdb 7.0",
+            "21:30 - Știu ce-ai făcut astă-vară 1997 - SUA - Crimă, Horror, Mister Cu: Jennifer Love Hewitt, Freddie Prinze Jr. Nota: 6.9 / Imdb 5.8",
+            "23:20 - Abigail 2024 - SUA - Horror, Thriller Cu: Kathryn Newton, Dan Stevens Nota: 6.8 / Imdb 6.5",
+            "01:10 - Manodrome 2023 - Marea Britanie, SUA - Dramă, Thriller Cu: Jesse Eisenberg, Adrien Brody Nota: 5.7 / Imdb 4.8",
+            "02:45 - Joe Baby 2024 - SUA - Acţiune, Thriller Cu: Willa Fitzgerald, Dichen Lachman Nota: - / Imdb 4.5",
+            "04:10 - Baby Driver: Calc-o şi fugi! 2017 - Marea Britanie, SUA - Acţiune, Crimă, Muzical Cu: Ansel Elgort, Jon Bernthal Nota: 7.5 / Imdb 7.5",
+            "06:00 - Secretul aurarului 2025 - Spania - Dramă, Romantic Cu: Mario Casas, Michelle Jenner Nota: 7.0 / Imdb 6.1"
+        ]
     },
     {
         "id": 21,
