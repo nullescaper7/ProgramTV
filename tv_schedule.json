@@ -23,57 +23,12 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": [
-            "07:00 - Ştiri",
-            "07:45 - Teleshopping",
-            "08:00 - Știrile Diminetii cu Andrei Tomescu și Madalina Tanasa",
-            "08:45 - Teleshopping",
-            "09:00 - Știrile Diminetii cu Andrei Tomescu și Madalina Tanasa",
-            "09:45 - Teleshopping",
-            "10:00 - Stiri cu Ana Iorga",
-            "11:00 - NewsRoom cu Madalina Mihalache",
-            "12:00 - Stiri cu Ana Iorga",
-            "13:00 - NewsRoom",
-            "14:00 - Stiri cu Ana Iorga",
-            "15:00 - Decisiv",
-            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
-            "16:30 - Romania Inteligenta cu Adrian Ursu",
-            "17:00 - Romania 360 cu Robert Kiss si Ana Roman",
-            "18:00 - News Hour with CNN",
-            "19:00 - Editie Specială Andreea Sava",
-            "20:00 - Editie Specială Andreea Sava",
-            "21:00 - Exces de putere",
-            "21:58 - Filler BeEU",
-            "22:00 - Exces de putere",
-            "22:58 - Filler BeEU",
-            "23:00 - Ştiri",
-            "23:20 - Sfat de Sanatate, Editie Speciala, cu Andreea Cigolea, inregistrare",
-            "00:00 - Ştiri",
-            "00:15 - Ştiri",
-            "01:00 - Editie Specială Andreea Sava, reluare",
-            "02:00 - Editie Specială Andreea Sava, reluare",
-            "03:30 - Exces de putere",
-            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
-            "05:00 - News Hour with CNN",
-            "06:00 - Știrile dimineții",
-            "06:45 - Teleshopping"
-        ]
+        "tv_program": []
     },
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": [
-            "08:00 - Bună dimineața, România!",
-            "12:00 - Talk B1",
-            "15:00 - Politica zilei",
-            "18:00 - Bună, România!",
-            "20:00 - Special B1",
-            "23:00 - Fărădelege",
-            "00:00 - Bună, România!",
-            "01:50 - Politica zilei",
-            "03:30 - Fărădelege",
-            "04:10 - Special B1"
-        ]
+        "tv_program": []
     },
     {
         "id": 7,
