@@ -2,23 +2,7 @@
     {
         "id": 1,
         "tv_channel": "DIGI24 HD",
-        "tv_program": [
-            "07:00 - Știrile dimineții",
-            "12:00 - Știrile amiezii",
-            "14:00 - Studio politic",
-            "15:00 - Știrile amiezii",
-            "16:00 - Știrile zilei",
-            "18:00 - Ediție specială",
-            "18:30 - Business Club",
-            "19:00 - Ediție specială",
-            "20:00 - Jurnalul de seară",
-            "23:00 - Audiență națională",
-            "00:00 - Știrile serii",
-            "01:00 - Jurnalul de seară",
-            "04:00 - Studio politic",
-            "05:00 - Ediție specială",
-            "06:00 - Știrile dimineții"
-        ]
+        "tv_program": []
     },
     {
         "id": 2,
@@ -353,21 +337,7 @@
     {
         "id": 14,
         "tv_channel": "PROCINEMA",
-        "tv_program": [
-            "07:00 - Pierduți în junglă 2016 - (R) - Aventuri Cu: Jeri Ryan, John Paul Ruttan Nota: 5.7 / Imdb 4.6",
-            "09:00 - Prinţesa lebădă: Mai mult decât totdeauna",
-            "10:45 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "13:00 - Casper 1995 - (R) - SUA - Comedie, Familie, Fantastic Cu: Bill Pullman, Christina Ricci Nota: 7.4 / Imdb 6.2",
-            "15:00 - Dennis pericol public 2 1998 - (R) - SUA - Comedie, Familie Cu: Don Rickles, Justin Cooper Nota: 6.5 / Imdb 4.4",
-            "16:30 - Dragoste în Parcul Naţional",
-            "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "20:30 - Lista 2011 - SUA - Acţiune, Thriller Cu: Christian Slater, Cuba Gooding Jr. Nota: 6.5 / Imdb 5.4",
-            "22:15 - Un ținut al crimelor | 2014 - SUA - Acţiune, Crimă, Dramă | Cu: Amy Smart, Matt Dillon | Nota: 6.5 / Imdb 5.8",
-            "00:15 - Lista 2011 - (R) - SUA - Acţiune, Thriller Cu: Christian Slater, Cuba Gooding Jr. Nota: 6.5 / Imdb 5.4",
-            "02:00 - Vorbeşte lumea",
-            "04:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "06:30 - Prinţesa lebădă: Mai mult decât totdeauna"
-        ]
+        "tv_program": []
     },
     {
         "id": 15,
@@ -499,21 +469,7 @@
     {
         "id": 356663382,
         "tv_channel": "FilmNow",
-        "tv_program": [
-            "07:25 - New York Melody 2013 - SUA - Dramă, Muzical Cu: Keira Knightley, Mark Ruffalo Nota: 7.6 / Imdb 7.4",
-            "09:10 - Cazul lui Richard Jewell 2019 - SUA - Dramă Cu: Olivia Wilde, Sam Rockwell Nota: 7.7 / Imdb 7.5",
-            "11:15 - Maiorul Payne 1995 - SUA - Comedie Cu: Damon Wayans, Ross Bickell Nota: 7.1 / Imdb 6.3",
-            "12:50 - Godzilla vs. Kong 2021 - SUA - Acţiune, Dramă, SF Cu: Millie Bobby Brown, Eiza González Nota: 7.3 / Imdb 6.3",
-            "14:35 - Și dragostea unde e? 2022 - Marea Britanie - Comedie, Romantic, Dragoste Cu: Lily James, Emma Thompson Nota: 6.8 / Imdb 6.3",
-            "16:20 - Shazam! 2019 - SUA - Acţiune, Aventuri, Fantastic Cu: Zachary Levi, Djimon Hounsou Nota: 7.0 / Imdb 7.0",
-            "18:25 - Spioni deghizați 2019 - SUA - Acţiune, Animaţie, Aventuri Cu: Karen Gillan, Will Smith Nota: 7.4 / Imdb 6.8",
-            "20:00 - Erin Brockovich | 2000 - SUA - Dramă | Cu: Julia Roberts, Marg Helgenberger | Nota: 8.1 / Imdb 7.5",
-            "22:10 - Resident Evil: Dispariția 2007 - SUA - Acţiune, Horror, SF Cu: Milla Jovovich, Oded Fehr Nota: 7.1 / Imdb 6.2",
-            "23:40 - Elysium 2013 - SUA - Acţiune, Dramă, SF Cu: Jodie Foster, Matt Damon Nota: 7.3 / Imdb 6.6",
-            "01:25 - Educație siberiană 2013 - Italia - Biografic, Crimă, Dramă Cu: John Malkovich, Peter Stormare Nota: 6.7 / Imdb 6.3",
-            "03:05 - Ultimul duel 2021 - SUA, Marea Britanie - Acţiune, Dramă, Istoric Cu: Matt Damon, Jodie Comer Nota: 7.5 / Imdb 7.3",
-            "05:30 - Erin Brockovich 2000 - SUA - Dramă Cu: Julia Roberts, Marg Helgenberger Nota: 8.1 / Imdb 7.5"
-        ]
+        "tv_program": []
     },
     {
         "id": 27,
@@ -688,37 +644,7 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": [
-            "07:00 - Ştirile Prima Sport",
-            "07:15 - Fotbal Show",
-            "08:15 - Ştirile Prima Sport",
-            "08:30 - Fotbal Show",
-            "09:30 - Teleshopping",
-            "10:00 - Ştirile Prima Sport",
-            "10:15 - Fotbal Show",
-            "11:15 - Ştirile Prima Sport",
-            "11:30 - Teleshopping",
-            "12:00 - Fotbal Show",
-            "13:00 - Ştirile Prima Sport",
-            "13:15 - Top goluri",
-            "13:30 - Teleshopping",
-            "14:00 - Ştirile Prima Sport",
-            "14:15 - Teleshopping",
-            "14:45 - Ştirile Prima Sport",
-            "15:00 - Fotbal Show",
-            "16:00 - UTA Arad – Botoșani",
-            "18:00 - Fotbal Show",
-            "19:00 - FCSB – Oțelul Galați",
-            "21:00 - Fotbal Show",
-            "22:00 - Fotbal Show",
-            "23:00 - CFR Cluj – Dinamo",
-            "01:00 - Fotbal Show",
-            "02:00 - Top goluri",
-            "02:15 - Fotbal Show",
-            "03:15 - Rapid București – Argeș",
-            "05:15 - Rezumate Superliga",
-            "06:00 - Fotbal Show"
-        ]
+        "tv_program": []
     },
     {
         "id": 39,
