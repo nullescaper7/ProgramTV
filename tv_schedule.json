@@ -465,7 +465,7 @@
             "10:40 - Pirații! O bandă de neisprăviți 2012 - Marea Britanie, SUA - Animaţie, Aventuri, Familie Cu: Salma Hayek, Martin Freeman Nota: 6.8 / Imdb 6.7",
             "12:05 - O zi lungă de joi 2024 - Finlanda - Comedie, Dramă Cu: Heikki Kinnunen, Jaana Saarinen Nota: - / Imdb 6.4",
             "13:45 - Țestoasele Ninja 2007 - SUA - Acţiune, Animaţie, Aventuri Cu: James Arnold Taylor, Mikey Kelley Nota: 7.3 / Imdb 6.2",
-            "15:10 - Another Simple Favor 2025 - SUA - Comedie, Crimă, Mister Cu: Blake Lively, Anna Kendrick Nota: 6.3 / Imdb 5.3",
+            "15:10 - Another Simple Favor 2025 - SUA - Comedie, Crimă, Mister Cu: Blake Lively, Anna Kendrick Nota: 6.2 / Imdb 5.3",
             "17:10 - Ultima dansatoare de cabaret 2024 - SUA - Dramă Cu: Pamela Anderson, Kiernan Shipka Nota: 6.5 / Imdb 6.5",
             "18:40 - Nostalgie 2024 - Canada - Comedie, Dramă Cu: Diane Kruger, Richard Gere Nota: 6.4 / Imdb 4.8",
             "20:30 - 30 de zile de noapte | 2007 - Noua Zeelanda - Acţiune, Crimă, Dramă | Cu: Melissa George, Josh Hartnett | Nota: 7.2 / Imdb 6.6",
@@ -608,29 +608,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Focus 18",
-            "- Connect",
-            "- Sanatate Cu Stil",
-            "- Iosif Pe Coclauri",
-            "- Legile Afacerilor",
-            "- Drumul Spre Succes",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania Vineri",
-            "- Life & Style",
-            "- Viata Are Gust",
-            "- Zona De Conflict Cu Marius Saizu",
-            "- Agronews",
-            "- Podcast Cotidianul",
-            "- Povesti Sanatoase",
-            "- Zona De Conflict",
-            "- Focus 18",
-            "- Medika Antidrog",
-            "- Agronews",
-            "- Zona De Conflict",
-            "- Podcast Cu Livia Graur",
-            "- Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1228,7 +1206,7 @@
             "08:30 - Taxi 1998 - Franta - Comedie Cu: Samy Naceri, Frédéric Diefenthal Nota: 7.8 / Imdb 7.0",
             "10:20 - Prietenul la nevoie se cunoaște 1981 - Italia - Acţiune, Aventuri, Comedie Cu: Terence Hill, Bud Spencer Nota: 7.4 / Imdb 7.1",
             "12:40 - Departe, departe 1992 - SUA - Dramă, Romantic, Dragoste Cu: Nicole Kidman, Tom Cruise Nota: 7.7 / Imdb 6.6",
-            "15:45 - Fiica regelui 2022 - SUA - Acţiune, Aventuri, Fantastic Cu: William Hurt, Pierce Brosnan Nota: 7.1 / Imdb 5.2",
+            "15:45 - Fiica regelui 2022 - SUA - Acţiune, Aventuri, Fantastic Cu: William Hurt, Pierce Brosnan Nota: 7.0 / Imdb 5.2",
             "17:45 - Jumanji: Nivelul următor 2019 - SUA - Acţiune, Aventuri, Comedie Cu: Karen Gillan, Dwayne Johnson Nota: 7.2 / Imdb 6.6",
             "20:00 - Rambo II 1985 - SUA - Acţiune, Aventuri Cu: Sylvester Stallone, Charles Napier Nota: 7.6 / Imdb 6.5",
             "22:10 - Total Recall | 1990 - SUA - Acţiune, SF, Thriller | Cu: Arnold Schwarzenegger, Sharon Stone | Nota: 7.8 / Imdb 7.5",
