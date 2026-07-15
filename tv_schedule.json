@@ -47,7 +47,18 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - News Pass",
+            "23:00 - Doctorul",
+            "00:00 - Bună, România!",
+            "01:50 - Politica zilei",
+            "03:40 - News Pass",
+            "06:10 - Doctorul"
+        ]
     },
     {
         "id": 7,
