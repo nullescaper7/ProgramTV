@@ -2,21 +2,7 @@
     {
         "id": 1,
         "tv_channel": "DIGI24 HD",
-        "tv_program": [
-            "07:00 - Știrile dimineții",
-            "12:00 - Știrile amiezii",
-            "16:00 - Știrile zilei",
-            "18:00 - Ediție specială",
-            "18:30 - Business Club",
-            "19:00 - Ediție specială",
-            "20:00 - Jurnalul de seară",
-            "23:00 - Audiență națională",
-            "00:00 - Știrile serii",
-            "01:00 - Jurnalul de seară",
-            "04:00 - Studio politic",
-            "05:00 - Ediție specială",
-            "06:00 - Știrile dimineții"
-        ]
+        "tv_program": []
     },
     {
         "id": 2,
@@ -47,18 +33,7 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": [
-            "08:00 - Bună dimineața, România!",
-            "12:00 - Talk B1",
-            "15:00 - Politica zilei",
-            "18:00 - Bună, România!",
-            "20:00 - News Pass",
-            "23:00 - Doctorul",
-            "00:00 - Bună, România!",
-            "01:50 - Politica zilei",
-            "03:40 - News Pass",
-            "06:10 - Doctorul"
-        ]
+        "tv_program": []
     },
     {
         "id": 7,
