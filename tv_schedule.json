@@ -2,32 +2,137 @@
     {
         "id": 1,
         "tv_channel": "DIGI24 HD",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Știrile dimineții",
+            "11:30 - Paşaport diplomatic",
+            "12:00 - Știrile amiezii",
+            "16:00 - Știrile zilei",
+            "18:00 - Ediție specială",
+            "20:00 - Ediție specială",
+            "21:30 - Focus Europa",
+            "23:00 - Știrile serii",
+            "23:30 - NextGen",
+            "00:00 - Știrile serii",
+            "01:00 - Ediție specială",
+            "03:00 - La Volan",
+            "03:30 - NextGen",
+            "04:00 - Ediție specială",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştiri",
+            "08:00 - Știrile dimineții",
+            "10:00 - Stiri cu Ana Iorga",
+            "11:00 - NewsRoom cu Madalina Mihalache",
+            "12:00 - Ştiri",
+            "13:00 - NewsRoom",
+            "14:00 - Ştiri",
+            "15:00 - Decisiv",
+            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
+            "16:30 - Romania Inteligenta cu Adrian Ursu",
+            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
+            "18:00 - News Hour with CNN",
+            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
+            "21:00 - Exces de putere",
+            "23:00 - Ştiri",
+            "00:00 - Ştiri",
+            "01:00 - Decisiv cu Catalina Porumbel , reluare",
+            "02:30 - Exces de putere",
+            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
+            "05:00 - News Hour with CNN",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - Special B1",
+            "23:00 - Fărădelege",
+            "00:00 - Bună, România!",
+            "01:50 - Politica zilei",
+            "03:30 - Fărădelege",
+            "04:10 - Special B1"
+        ]
     },
     {
         "id": 7,
         "tv_channel": "PROTV",
-        "tv_program": []
+        "tv_program": [
+            "10:30 - Vorbeşte lumea",
+            "13:00 - Ştirile Pro Tv",
+            "14:00 - La marginea lumii 2024 - Turcia - Dramă Cu: Ozan Akbaba, Sinem Ünsal Nota: 8.6 / Imdb 6.7",
+            "15:00 - Leyla 2024 - Turcia - Dramă, Romantic Cu: Cemre Baysel, Gonca Vuslateri Nota: 7.7 / Imdb 6.0",
+            "16:00 - Lecţii de viaţă",
+            "17:00 - Ştirile Pro Tv",
+            "18:00 - Ce spun românii",
+            "19:00 - Ştirile Pro Tv",
+            "20:30 - Las fierbinți 2012 - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
+            "21:30 - Need for Speed: Începuturi | 2014 - SUA - Acţiune, Crimă, Dramă | Cu: Imogen Poots, Dominic Cooper | Nota: 8.0 / Imdb 6.4",
+            "00:00 - Cursă mortală 2 2010 - SUA - Acţiune Cu: Danny Trejo, Sean Bean Nota: 7.0 / Imdb 5.6",
+            "02:00 - Las fierbinți 2012 - (R) - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
+            "04:00 - Vorbeşte lumea",
+            "06:00 - Lecţii de viaţă"
+        ]
     },
     {
         "id": 8,
         "tv_channel": "ANTENA1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Neatza cu Răzvan şi Dani",
+            "12:00 - Observator",
+            "14:00 - Mireasa",
+            "16:00 - Observator",
+            "17:00 - Furnicuțele",
+            "19:00 - Observator",
+            "21:00 - Povestea Mondialului",
+            "23:00 - Power Couple - La bine si la greu",
+            "02:30 - Băieţi de oraş",
+            "04:00 - Furnicuțele",
+            "06:00 - Observator"
+        ]
     },
     {
         "id": 4,
         "tv_channel": "TVR1",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Gala Umorului",
+            "07:55 - Vorbeşte corect!",
+            "08:00 - Teleshopping",
+            "08:15 - Viaţa pe un portavion",
+            "09:15 - Rock Maniac",
+            "10:15 - Teleshopping",
+            "10:30 - Dezacorduri de pace",
+            "11:30 - Zi de zi cu părintele Constantin Necula",
+            "11:40 - Tezaur folcloric",
+            "12:40 - Prinţesa Ja-Myung • Ep.27 2009 - (R) - Coreea de Sud - Dramă, Istoric, Romantic Cu: Ryeowon Jung, Min-Young Park Nota: 8.4 / Imdb 7.1",
+            "14:00 - Telejurnal",
+            "15:00 - Opre Roma",
+            "15:50 - Etnicity",
+            "16:40 - Gala Umorului",
+            "17:40 - Prinţesa Ja-Myung • Ep.28 2009 - Coreea de Sud - Dramă, Istoric, Romantic Cu: Ryeowon Jung, Min-Young Park Nota: 8.4 / Imdb 7.1",
+            "19:00 - Telejurnal",
+            "20:00 - Ragnarok 2013 - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.8 / Imdb 5.8",
+            "22:00 - Anul Nadia",
+            "23:00 - Telejurnal",
+            "00:00 - Ragnarok 2013 - (R) - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.8 / Imdb 5.8",
+            "02:00 - Anul Nadia",
+            "03:00 - Zi de zi cu părintele Constantin Necula",
+            "03:05 - Telejurnal",
+            "04:00 - Rock Maniac",
+            "04:55 - Vorbeşte corect!",
+            "05:00 - Tezaur folcloric",
+            "05:55 - Imnul României",
+            "06:00 - Telejurnal"
+        ]
     },
     {
         "id": 5,
