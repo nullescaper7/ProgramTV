@@ -589,7 +589,17 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Proiect De Tara",
+            "- Viitor Pt Romania Live Cu Nicoleta Calugareanu",
+            "- Prima News Special Cu Denisa Marin",
+            "- Focus 18 Inregistrat",
+            "- Cu Iosif Pe Coclauri",
+            "- Viitor Pt Romania",
+            "- Prima News Debate",
+            "- Focus 18",
+            "- Cu Iosif Pe Coclauri"
+        ]
     },
     {
         "id": 33,
