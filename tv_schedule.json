@@ -23,7 +23,29 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Ştiri",
+            "08:00 - Știrile dimineții",
+            "10:00 - Stiri cu Ana Iorga",
+            "11:00 - NewsRoom cu Madalina Mihalache",
+            "12:00 - Ştiri",
+            "13:00 - NewsRoom",
+            "14:00 - Ştiri",
+            "15:00 - Decisiv",
+            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
+            "16:30 - Romania Inteligenta cu Adrian Ursu",
+            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
+            "18:00 - News Hour with CNN",
+            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
+            "21:00 - Exces de putere",
+            "23:00 - Ştiri",
+            "00:00 - Ştiri",
+            "01:00 - Decisiv cu Catalina Porumbel , reluare",
+            "02:30 - Exces de putere",
+            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
+            "05:00 - News Hour with CNN",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 3,
@@ -44,7 +66,22 @@
     {
         "id": 7,
         "tv_channel": "PROTV",
-        "tv_program": []
+        "tv_program": [
+            "10:30 - Vorbeşte lumea",
+            "13:00 - Ştirile Pro Tv",
+            "14:00 - La marginea lumii 2024 - Turcia - Dramă Cu: Ozan Akbaba, Sinem Ünsal Nota: 8.6 / Imdb 6.7",
+            "15:00 - Leyla 2024 - Turcia - Dramă, Romantic Cu: Cemre Baysel, Gonca Vuslateri Nota: 7.7 / Imdb 6.0",
+            "16:00 - Lecţii de viaţă",
+            "17:00 - Ştirile Pro Tv",
+            "18:00 - Ce spun românii",
+            "19:00 - Ştirile Pro Tv",
+            "20:30 - Las fierbinți 2012 - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
+            "21:30 - Need for Speed: Începuturi | 2014 - SUA - Acţiune, Crimă, Dramă | Cu: Imogen Poots, Dominic Cooper | Nota: 8.0 / Imdb 6.4",
+            "00:00 - Cursă mortală 2 2010 - SUA - Acţiune Cu: Danny Trejo, Sean Bean Nota: 7.0 / Imdb 5.6",
+            "02:00 - Las fierbinți 2012 - (R) - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
+            "04:00 - Vorbeşte lumea",
+            "06:00 - Lecţii de viaţă"
+        ]
     },
     {
         "id": 8,
@@ -84,10 +121,10 @@
             "16:40 - Gala Umorului",
             "17:40 - Prinţesa Ja-Myung • Ep.28 2009 - Coreea de Sud - Dramă, Istoric, Romantic Cu: Ryeowon Jung, Min-Young Park Nota: 8.4 / Imdb 7.1",
             "19:00 - Telejurnal",
-            "20:00 - Ragnarok 2013 - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.8 / Imdb 5.8",
+            "20:00 - Ragnarok 2013 - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.7 / Imdb 5.8",
             "22:00 - Anul Nadia",
             "23:00 - Telejurnal",
-            "00:00 - Ragnarok 2013 - (R) - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.8 / Imdb 5.8",
+            "00:00 - Ragnarok 2013 - (R) - Norvegia - Aventuri Cu: Nicolai Cleve Broch, Pål Sverre Hagen Nota: 5.7 / Imdb 5.8",
             "02:00 - Anul Nadia",
             "03:00 - Zi de zi cu părintele Constantin Necula",
             "03:05 - Telejurnal",
@@ -294,7 +331,7 @@
         "tv_program": [
             "08:45 - Misterul lui Hailey Dean: Crimă la prima întâlnire 2017 - (R) - SUA - Crimă, Dramă, Mister Cu: Kellie Martin, Giacomo Baessato Nota: - / Imdb 6.8",
             "10:30 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "12:45 - Josie și Pisicile 2001 - (R) - SUA - Comedie, Muzică Cu: Rachael Leigh Cook, Rosario Dawson Nota: 5.7 / Imdb 5.7",
+            "12:45 - Josie și Pisicile 2001 - (R) - SUA - Comedie, Muzică Cu: Rachael Leigh Cook, Rosario Dawson Nota: 5.8 / Imdb 5.7",
             "14:45 - Extratereștrii din mansardă 2009 - SUA, Canada - Aventuri, Familie, Fantastic Cu: Ashley Tisdale, Robert Hoffman Nota: 6.8 / Imdb 5.4",
             "16:30 - Frank și robotul 2012 - SUA - Comedie, Crimă, Dramă Cu: Peter Sarsgaard, Frank Langella Nota: 7.2 / Imdb 7.0",
             "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
