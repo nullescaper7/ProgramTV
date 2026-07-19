@@ -93,7 +93,7 @@
             "16:45 - Burlaci întârziați 2013 - SUA - Comedie Cu: Morgan Freeman, Robert De Niro Nota: 7.7 / Imdb 6.6",
             "19:00 - Ştirile Pro Tv",
             "20:00 - Sărutul Dragonului | 2001 - SUA - Acţiune | Cu: Jet Li, Bridget Fonda | Nota: 7.5 / Imdb 6.6",
-            "22:00 - Alertă „Copil dispărut” 2024 - SUA - Thriller Cu: Hayden Panettiere, Kevin Dunn Nota: 7.2 / Imdb 6.1",
+            "22:00 - Alertă „Copil dispărut” 2024 - SUA - Thriller Cu: Hayden Panettiere, Kevin Dunn Nota: 7.0 / Imdb 6.1",
             "23:45 - Alice: Inteligenţă letală 2024 - Bulgaria, SUA - SF, Thriller Cu: Megan Fox, Madeline Zima Nota: 6.2 / Imdb 5.4",
             "01:45 - Matinal cu scandal 2010 - (R) - SUA - Comedie, Dramă, Romantic Cu: Rachel McAdams, Harrison Ford Nota: 6.9 / Imdb 6.5",
             "03:45 - Las fierbinți 2012 - (R) - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
@@ -471,12 +471,12 @@
             "15:55 - Bani pentru aur 2024 - SUA - Dramă Cu: Deborah Puette, Farshad Farahat Nota: - / Imdb 7.4",
             "17:25 - Horton 2008 - SUA - Animaţie, Aventuri, Comedie Cu: Jim Carrey, Steve Carell Nota: 7.7 / Imdb 6.8",
             "18:50 - A trăi 2022 - Marea Britanie, Japonia, Suedia - Dramă Cu: Alex Sharp, Adrian Rawlins Nota: 7.3 / Imdb 7.2",
-            "20:30 - O călătorie însemnată, îndrăzneață, încântătoare | 2025 - SUA, Irlanda - Aventuri, Dramă, Fantastic | Cu: Colin Farrell, Margot Robbie | Nota: 6.1 / Imdb 6.0",
+            "20:30 - O călătorie însemnată, îndrăzneață, încântătoare | 2025 - SUA, Irlanda - Aventuri, Dramă, Fantastic | Cu: Colin Farrell, Margot Robbie | Nota: 6.2 / Imdb 6.0",
             "22:15 - The Accountant 2: Cifre periculoase 2025 - SUA - Acţiune, Crimă, Dramă Cu: Cynthia Addai-Robinson, Ben Affleck Nota: 7.1 / Imdb 6.6",
             "00:25 - Drive-Away Dolls 2023 - Marea Britanie, SUA - Acţiune, Comedie, Thriller Cu: Pedro Pascal, Margaret Qualley Nota: 5.5 / Imdb 5.4",
             "01:45 - Clika 2026 - SUA - Dramă, Muzică Cu: Jay Dee, Pao Villalobos Nota: - / Imdb 7.1",
             "03:05 - Trenul asasinilor 2022 - SUA - Acţiune, Thriller Cu: Brad Pitt, Joey King Nota: 7.0 / Imdb 7.3",
-            "05:10 - O călătorie însemnată, îndrăzneață, încântătoare 2025 - SUA, Irlanda - Aventuri, Dramă, Fantastic Cu: Colin Farrell, Margot Robbie Nota: 6.1 / Imdb 6.0"
+            "05:10 - O călătorie însemnată, îndrăzneață, încântătoare 2025 - SUA, Irlanda - Aventuri, Dramă, Fantastic Cu: Colin Farrell, Margot Robbie Nota: 6.2 / Imdb 6.0"
         ]
     },
     {
@@ -613,29 +613,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Focus 18",
-            "- Connect",
-            "- Sanatate Cu Stil",
-            "- Iosif Pe Coclauri",
-            "- Legile Afacerilor",
-            "- Drumul Spre Succes",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania Vineri",
-            "- Life & Style",
-            "- Viata Are Gust",
-            "- Zona De Conflict Cu Marius Saizu",
-            "- Agronews",
-            "- Podcast Cotidianul",
-            "- Povesti Sanatoase",
-            "- Zona De Conflict",
-            "- Focus 18",
-            "- Medika Antidrog",
-            "- Agronews",
-            "- Zona De Conflict",
-            "- Podcast Cu Livia Graur",
-            "- Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
