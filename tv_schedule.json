@@ -1275,8 +1275,8 @@
         "tv_channel": "DigiSport 2",
         "tv_program": [
             "07:00 - Tenis",
-            "10:00 - Tenis: WTA Iasi Finala",
-            "12:00 - Live Tenis Ziua 1",
+            "10:00 - Tenis",
+            "11:00 - Tenis WTA Iasi: Mayar Sherif - Paula Badosa",
             "14:00 - Live Tenis Ziua 1",
             "16:00 - Live Tenis Ziua 1",
             "18:00 - Live Tenis Ziua 1",
@@ -1400,7 +1400,22 @@
         "tv_program": [
             "07:45 - Medalion / Scurtmetraj / Jurnal / Pastilă",
             "08:00 - Restituiri Din Arhiva",
-            "08:12 - Medalion / Scurtmetraj / Jurnal / Pastilă"
+            "08:12 - Medalion / Scurtmetraj / Jurnal / Pastilă",
+            "08:20 - Cireșarii 1984 - Romania - Aventuri Cu: Ernest Maftei, Ion Marinescu Nota: 7.8 / Imdb 6.2",
+            "10:05 - Tusea și junghiul 1992 - Romania - Comedie Cu: Ernest Maftei, Olga Tudorache Nota: 6.8 / Imdb 7.5",
+            "12:00 - Magicianul 2025 - Romania - Animaţie, Scurt metraj Cu: Ionuț Achivoaie, Ioana Flora Nota: - / Imdb 8.8",
+            "12:40 - Teleshopping",
+            "13:10 - Toate pînzele sus! - Secretul epavei 1986 - Romania - Aventuri, Comedie Cu: Sebastian Papaiani, Ion Besoiu Nota: 8.9 / Imdb 8.5",
+            "14:50 - Toate pînzele sus! - Misterele mărilor 1987 - Romania - Aventuri Cu: Ion Besoiu, Ilarion Ciobanu Nota: 8.4 / Imdb -",
+            "16:20 - Toate pînzele sus! - Întâlnire în Atlantic 1987 - Romania - Aventuri Cu: Ilarion Ciobanu, Ion Besoiu Nota: 8.6 / Imdb -",
+            "18:00 - Amintiri din copilărie 1964 - Romania - Aventuri Cu: Ștefan Ciubotărașu, Ion Bocancea Nota: 8.7 / Imdb 8.0",
+            "19:32 - Pentru patrie 1978 - Romania - Istoric, Război Cu: Mircea Albulescu, Ilarion Ciobanu Nota: 8.0 / Imdb 7.7",
+            "22:55 - Otto Barbarul 2020 - Belgia, Romania - Dramă Cu: Marc Titieni, Iulian Postelnicu Nota: 5.6 / Imdb 6.0",
+            "00:50 - Ana se întoarce 2016 - Dramă Cu: Andrei Mateiu, Emilia Bebu Nota: - / Imdb -",
+            "01:20 - Probleme de familie 2013 - Romania - Familie Cu: Mădălina Anea, Ioana Flora Nota: - / Imdb 6.8",
+            "01:50 - Poarta Albă 2014 - Romania - Dramă Cu: Cristian Bota, Sergiu Bucur Nota: 7.1 / Imdb 6.7",
+            "03:45 - Portretul luptătorului la tinerețe 2010 - Romania - Acţiune, Dramă, Istoric Cu: Alexandru Potocean, Constantin Diță Nota: 8.0 / Imdb 7.8",
+            "06:45 - Păcatul 1992 - Romania - Dramă Cu: Remus Mărgineanu, Nicoleta Todoroi Nota: 6.9 / Imdb 6.8"
         ]
     },
     {
