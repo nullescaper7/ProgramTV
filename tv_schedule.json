@@ -544,59 +544,17 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": [
-            "07:00 - Zestrea muzicală",
-            "08:50 - Etnografica",
-            "09:00 - Muzica regiunilor",
-            "11:00 - Tezaur folcloric",
-            "12:00 - Scena românilor",
-            "14:00 - Cântec românesc",
-            "15:50 - Etnografica",
-            "16:00 - Mostenirea cantecului",
-            "18:00 - De la sate adunate",
-            "19:00 - Tezaur folcloric",
-            "20:00 - Ora de aur",
-            "21:00 - Scena românilor",
-            "22:50 - Etnografica",
-            "23:00 - Cu lăutarii după mine",
-            "00:00 - Muzică tradiţională",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 80,
         "tv_channel": "ETNO TV",
-        "tv_program": [
-            "07:30 - Cântece pentru cei dragi",
-            "08:30 - Matinali și populari",
-            "11:00 - Cântece pentru cei dragi / Teleshopping",
-            "14:00 - Bijuterii TV - Teleshopping",
-            "15:00 - Cantece pentru cei dragi / Teleshopping",
-            "16:00 - Sănătate înainte de toate",
-            "17:00 - Cântece pentru cei dragi",
-            "18:00 - Cântece pentru cei dragi",
-            "19:00 - Seară românească",
-            "22:00 - Petrecerea Artiștilor",
-            "01:30 - Seară Românească",
-            "04:00 - Matinali și populari",
-            "06:30 - Sănătate înainte de toate"
-        ]
+        "tv_program": []
     },
     {
         "id": 31,
         "tv_channel": "REALITATEA",
-        "tv_program": [
-            "07:00 - Plus Matinal",
-            "10:00 - Realitatea zilei",
-            "12:00 - Newsroom",
-            "14:00 - Raport de zi",
-            "16:00 - 100%",
-            "18:00 - Culisele statului paralel",
-            "20:50 - România suverană",
-            "00:00 - Culisele statului paralel",
-            "03:00 - 100%",
-            "04:00 - România suverană"
-        ]
+        "tv_program": []
     },
     {
         "id": 32,
