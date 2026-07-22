@@ -600,7 +600,23 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Proiect De Tara",
+            "- Prima News By Profit.Ro Raluca Al Haddad",
+            "- Viitor Pt Romania",
+            "- Prima News By Profit.Ro C-Tin Rudnitchi",
+            "- Profit Live",
+            "- Drumul Spre Succes",
+            "- Sistemul Medikal",
+            "- Focus 14",
+            "- Timp Pt Sanatate Sanda Gligu",
+            "- Romania Politica Cu Larisa Bernaschi",
+            "- Proiect De Tara: Romania! Cu Andrei Gheorghe",
+            "- Romania Politica",
+            "- Proiect De Tara :Romania!",
+            "- Focus 18 Inregistrat",
+            "- Romania Politica"
+        ]
     },
     {
         "id": 33,
