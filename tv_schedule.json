@@ -600,23 +600,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Proiect De Tara",
-            "- Prima News By Profit.Ro Raluca Al Haddad",
-            "- Viitor Pt Romania",
-            "- Prima News By Profit.Ro C-Tin Rudnitchi",
-            "- Profit Live",
-            "- Drumul Spre Succes",
-            "- Sistemul Medikal",
-            "- Focus 14",
-            "- Timp Pt Sanatate Sanda Gligu",
-            "- Romania Politica Cu Larisa Bernaschi",
-            "- Proiect De Tara: Romania! Cu Andrei Gheorghe",
-            "- Romania Politica",
-            "- Proiect De Tara :Romania!",
-            "- Focus 18 Inregistrat",
-            "- Romania Politica"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1330,7 +1314,7 @@
         "tv_channel": "HBO3",
         "tv_program": [
             "07:00 - The Divine Sarah Bernhardt 2024 - Belgia, Franta - Biografic, Dramă Cu: Sandrine Kiberlain, Laurent Lafitte Nota: - / Imdb 6.2",
-            "08:40 - Creatorul 2023 - SUA - Acţiune, Aventuri, Dramă Cu: Gemma Chan, Allison Janney Nota: 6.8 / Imdb 6.7",
+            "08:40 - Creatorul 2023 - SUA - Acţiune, Aventuri, Dramă Cu: Gemma Chan, Allison Janney Nota: 6.9 / Imdb 6.7",
             "10:50 - Părinți și copii • Sez.2, Ep.1 2020 - Marea Britanie - Comedie Cu: Martin Freeman, Daisy Haggard Nota: 7.3 / Imdb 7.6",
             "11:10 - Părinți și copii • Sez.2, Ep.2 2020 - Marea Britanie - Comedie Cu: Martin Freeman, Daisy Haggard Nota: 7.3 / Imdb 7.6",
             "11:35 - Sărbători și prieteni 2024 - Germania - Comedie, Dramă Cu: Laura Tonke, Jasmin Shakeri Nota: - / Imdb 6.7",
