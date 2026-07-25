@@ -143,10 +143,10 @@
             "17:00 - Miturile comunismului",
             "18:00 - Teleenciclopedia",
             "19:00 - Telejurnal",
-            "20:00 - Toti spun: Te iubesc! 1996 - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.2 / Imdb 6.7",
+            "20:00 - Toti spun: Te iubesc! 1996 - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.1 / Imdb 6.7",
             "22:05 - Rock Maniac",
             "23:05 - Profesioniştii... cu Eugenia Vodă",
-            "00:10 - Toti spun: Te iubesc! 1996 - (R) - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.2 / Imdb 6.7",
+            "00:10 - Toti spun: Te iubesc! 1996 - (R) - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.1 / Imdb 6.7",
             "02:15 - Parisul necunoscut",
             "02:30 - Zi de zi cu părintele Constantin Necula",
             "02:35 - Telejurnal",
@@ -506,7 +506,7 @@
             "01:05 - Seberg 2019 - Marea Britanie, SUA - Biografic, Dramă, Thriller Cu: Kristen Stewart, Zazie Beetz Nota: 6.6 / Imdb 6.0",
             "02:45 - Coarne 2013 - SUA - Dramă, Fantastic, Horror Cu: Daniel Radcliffe, Juno Temple Nota: 6.6 / Imdb 6.4",
             "04:40 - Fundamentalistul 2012 - SUA, Marea Britanie, Qatar - Thriller Cu: Kiefer Sutherland, Liev Schreiber Nota: 7.0 / Imdb 6.8",
-            "06:40 - Toti spun: Te iubesc! 1996 - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.2 / Imdb 6.7"
+            "06:40 - Toti spun: Te iubesc! 1996 - SUA - Comedie, Muzical, Romantic Cu: Julia Roberts, Drew Barrymore Nota: 7.1 / Imdb 6.7"
         ]
     },
     {
@@ -610,28 +610,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Sistemul Medikal",
-            "- Prima News Debate",
-            "- Iosif Pe Coclauri",
-            "- Profit Live",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Timp Pt Sanatate (R)",
-            "- Viitor Pt Romania Miercuri",
-            "- Podcast Cu Livia Graur Redifuzari",
-            "- Agronews",
-            "- Sanatate Cu Stil Redifuzari",
-            "- Viata Are Gust",
-            "- Podcast Cotidianul",
-            "- Medika Antidrog",
-            "- Povesti Sanatoase",
-            "- Focus 18",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Agronews",
-            "- Medika Antidrog",
-            "- Podcast Cu Livia Graur",
-            "- Viitor Pt Romania"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
