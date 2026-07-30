@@ -44,7 +44,18 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - News Pass",
+            "23:00 - Doctorul",
+            "00:00 - Bună, România!",
+            "01:50 - Politica zilei",
+            "03:40 - News Pass",
+            "06:10 - Doctorul"
+        ]
     },
     {
         "id": 7,
@@ -434,7 +445,26 @@
     {
         "id": 21,
         "tv_channel": "HBO_2",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Materialiștii 2025 - SUA, Finlanda - Comedie, Romantic Cu: Pedro Pascal, Chris Evans Nota: 6.7 / Imdb 6.3",
+            "08:55 - O călătorie însemnată, îndrăzneață, încântătoare 2025 - SUA, Irlanda - Aventuri, Dramă, Fantastic Cu: Colin Farrell, Margot Robbie Nota: 6.2 / Imdb 6.0",
+            "10:40 - Ia ghici, cine? 2005 - SUA - Comedie, Romantic, Dragoste Cu: Bernie Mac, Ashton Kutcher Nota: 7.1 / Imdb 5.9",
+            "12:20 - Jucătorii • Sez.1, Ep.7 2015 - SUA - Comedie, Dramă, Sport Cu: Dwayne Johnson, John David Washington Nota: 7.8 / Imdb 7.6",
+            "12:45 - Jucătorii • Sez.1, Ep.8 2015 - SUA - Comedie, Dramă, Sport Cu: Dwayne Johnson, John David Washington Nota: 7.8 / Imdb 7.6",
+            "13:15 - Pasagerii 2016 - SUA - Aventuri, Dramă, Romantic Cu: Jennifer Lawrence, Chris Pratt Nota: 7.8 / Imdb 7.0",
+            "15:05 - Kung Fu Panda: Secretele maeștrilor 2011 - SUA - Acţiune, Animaţie, Comedie Cu: Angelina Jolie, Dustin Hoffman Nota: - / Imdb 6.8",
+            "15:30 - Așteptându-l pe Dalí 2023 - Spania - Comedie, Dramă, Romantic Cu: Gal Soler, José Garcia Nota: 7.3 / Imdb 6.8",
+            "17:20 - Bani pentru aur 2024 - SUA - Dramă Cu: Deborah Puette, Farshad Farahat Nota: - / Imdb 7.4",
+            "18:50 - O zi lungă de joi 2024 - Finlanda - Comedie, Dramă Cu: Heikki Kinnunen, Jaana Saarinen Nota: - / Imdb 6.4",
+            "20:30 - Miami Vice | 2006 - SUA - Acţiune, Crimă, Dramă | Cu: Colin Farrell, Jamie Foxx | Nota: 6.3 / Imdb 6.1",
+            "22:35 - Primul Contact 2016 - SUA - Dramă, Mister, SF Cu: Michael Stuhlbarg, Jeremy Renner Nota: 7.8 / Imdb 7.9",
+            "00:30 - Cealaltă soră Bennet • Sez.1, Ep.6 2026 - Marea Britanie - Dramă Cu: Lucinda Dryzek, Sean Carlsen Nota: - / Imdb -",
+            "01:00 - The Pitt: Spitalul • Sez.2, Ep.2 2025 - SUA - Dramă Cu: Noah Wyle, Fiona Dourif Nota: 8.1 / Imdb 8.9",
+            "01:45 - Life, Larry and the Pursuit of Unhappiness: an Almost History of America • Sez.1, Ep.5 2026 - SUA - Comedie, Istoric Cu: Jon Hamm, Larry David Nota: - / Imdb -",
+            "02:15 - The Chair Company • Sez.1, Ep.4 2025 - SUA - Comedie Cu: Eileen Noonan, Simon Pearl Nota: - / Imdb 7.4",
+            "02:45 - Trenul asasinilor 2022 - SUA - Acţiune, Thriller Cu: Brad Pitt, Joey King Nota: 7.0 / Imdb 7.3",
+            "04:50 - Miami Vice 2006 - SUA - Acţiune, Crimă, Dramă Cu: Colin Farrell, Jamie Foxx Nota: 6.3 / Imdb 6.1"
+        ]
     },
     {
         "id": 356663382,
@@ -560,7 +590,21 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Proiect De Tara",
+            "- Prima News By Profit.Ro Prima News Cu Raluca Al Haddad",
+            "- Prima News By Profit.Ro",
+            "- C-Tin Rudnitchi",
+            "- Profit Live",
+            "- Sistemul Medikal",
+            "- Focus 14 Inregistrat",
+            "- Romania Politica Cu Larisa Bernaschi",
+            "- Proiect De Tara: Romania! Cu Andrei Gheorghe",
+            "- Romania Politica",
+            "- Proiect De Tara :Romania!",
+            "- Focus 18 Inregistrat",
+            "- Romania Politica"
+        ]
     },
     {
         "id": 33,
@@ -1292,7 +1336,26 @@
     {
         "id": 538722,
         "tv_channel": "HBO3",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Planeta Maimuțelor: Revoluție 2014 - SUA - Acţiune, Dramă, SF Cu: Andy Serkis, Gary Oldman Nota: 8.0 / Imdb 7.6",
+            "09:10 - Creatorul 2023 - SUA - Acţiune, Aventuri, Dramă Cu: Gemma Chan, Allison Janney Nota: 6.8 / Imdb 6.7",
+            "11:20 - Părinți și copii • Sez.3, Ep.3 2020 - Marea Britanie - Comedie Cu: Martin Freeman, Daisy Haggard Nota: 7.3 / Imdb 7.6",
+            "11:40 - Părinți și copii • Sez.3, Ep.4 2020 - Marea Britanie - Comedie Cu: Martin Freeman, Daisy Haggard Nota: 7.3 / Imdb 7.6",
+            "12:15 - The Divine Sarah Bernhardt 2024 - Belgia, Franta - Biografic, Dramă Cu: Sandrine Kiberlain, Laurent Lafitte Nota: - / Imdb 6.2",
+            "13:55 - Harry Potter și talismanele morții: Partea I 2010 - Marea Britanie, SUA - Aventuri, Fantastic, Mister Cu: Emma Watson, Rupert Grint Nota: 8.7 / Imdb 7.7",
+            "16:20 - Harry Potter și talismanele morții: Partea 2 2011 - SUA, Marea Britanie - Aventuri, Fantastic, Mister Cu: Daniel Radcliffe, Rupert Grint Nota: 8.9 / Imdb 8.1",
+            "18:30 - Blue Moon 2025 - SUA, Irlanda - Biografic, Comedie, Dramă Cu: Ethan Hawke, Margaret Qualley Nota: 6.5 / Imdb 6.9",
+            "20:10 - The White Lotus • Sez.2, Ep.4 | 2021 - SUA - Comedie, Dramă | Cu: Jennifer Coolidge, Amber Abara | Nota: 7.7 / Imdb 8.0",
+            "21:10 - Din • Sez.1, Ep.6 2022 - SUA - Dramă, Horror, Mister Cu: Eion Bailey, Harold Perrineau Nota: 8.0 / Imdb 7.8",
+            "22:00 - Știrile săptămânii cu John Oliver • Sez.13, Ep.18 2014 - SUA - Comedie, Talk show Cu: John Oliver, David Kaye Nota: 7.5 / Imdb 8.8",
+            "22:45 - Un bărbat decent • Sez.1, Ep.2 2025 - Polonia - Crimă, Dramă Cu: Krzysztof Czeczot, Jerzy Skolimowski Nota: - / Imdb 6.7",
+            "23:30 - Casa Dragonului • Sez.3, Ep.6 2022 - SUA - Acţiune, Aventuri, Dramă Cu: Paddy Considine, Olivia Cooke Nota: 7.8 / Imdb 8.3",
+            "00:35 - The Miniature Wife • Sez.1, Ep.6 2025 - SUA - Comedie, Dramă Cu: Shaun Majumder, Lucy Turnbull Nota: - / Imdb -",
+            "01:20 - Clipește de două ori 2024 - SUA - Crimă, Mister, Thriller Cu: Kyle MacLachlan, Geena Davis Nota: 6.3 / Imdb 6.5",
+            "03:00 - Vecini de coşmar 2 2016 - SUA - Comedie Cu: Rose Byrne, Zac Efron Nota: 6.0 / Imdb 5.7",
+            "04:35 - Știrile săptămânii cu John Oliver • Sez.13, Ep.18 2014 - SUA - Comedie, Talk show Cu: John Oliver, David Kaye Nota: 7.5 / Imdb 8.8",
+            "05:20 - Înspăimântător 2020 - SUA - Comedie, Horror, Thriller Cu: Kathryn Newton, Vince Vaughn Nota: 6.5 / Imdb 6.3"
+        ]
     },
     {
         "id": 26563,
