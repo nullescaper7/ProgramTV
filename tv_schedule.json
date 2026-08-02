@@ -614,7 +614,29 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Focus 18",
+            "- Life & Style",
+            "- Sanatate Cu Stil",
+            "- Iosif Pe Coclauri",
+            "- Legile Afacerilor",
+            "- Drumul Spre Succes",
+            "- Punctul Rosu In Sanatate Podcast Cotidianul",
+            "- Viitor Pt Romania Vineri",
+            "- Life & Style",
+            "- Viata Are Gust",
+            "- Zona De Conflict Cu Marius Saizu",
+            "- Agronews",
+            "- Podcast Cotidianul",
+            "- Povesti Sanatoase",
+            "- Zona De Conflict",
+            "- Focus 18",
+            "- Medika Antidrog",
+            "- Agronews",
+            "- Zona De Conflict",
+            "- Podcast Cu Livia Graur",
+            "- Iosif Pe Coclauri"
+        ]
     },
     {
         "id": 33,
