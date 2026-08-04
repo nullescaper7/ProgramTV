@@ -78,7 +78,7 @@
             "20:30 - Las fierbinți 2012 - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
             "21:30 - O luptă personală | 2006 - SUA - Acţiune, Dramă, Thriller | Cu: John Cena, Kelly Carlson | Nota: 6.1 / Imdb 4.8",
             "23:15 - Ştirile Pro Tv",
-            "23:45 - Nume de cod: Banshee 2022 - SUA - Acţiune, Thriller Cu: Antonio Banderas, Jaime King Nota: 6.0 / Imdb 3.8",
+            "23:45 - Nume de cod: Banshee 2022 - SUA - Acţiune, Thriller Cu: Antonio Banderas, Jaime King Nota: 6.1 / Imdb 3.8",
             "01:45 - Lecţii de viaţă",
             "02:30 - Superspeed",
             "03:00 - Vorbeşte lumea",
@@ -429,7 +429,7 @@
             "20:00 - The Pitt: Spitalul • Sez.2, Ep.3 | 2025 - SUA - Dramă | Cu: Noah Wyle, Fiona Dourif | Nota: 8.1 / Imdb 8.9",
             "20:45 - Cealaltă soră Bennet • Sez.1, Ep.7 2026 - Marea Britanie - Dramă Cu: Lucinda Dryzek, Sean Carlsen Nota: - / Imdb -",
             "21:20 - Viața, Larry și căutarea nefericirii • Sez.1, Ep.6 2026 - SUA - Comedie, Istoric Cu: Jon Hamm, Larry David Nota: - / Imdb -",
-            "21:50 - N-am avut de ales 2025 - Coreea de Sud - Comedie, Crimă, Dramă Cu: Lee Byung-hun, Ye-jin Son Nota: 7.4 / Imdb 7.6",
+            "21:50 - N-am avut de ales 2025 - Coreea de Sud - Comedie, Crimă, Dramă Cu: Lee Byung-hun, Ye-jin Son Nota: 7.3 / Imdb 7.6",
             "00:05 - Omul Pasăre sau Virtutea nesperată a ignoranței 2014 - SUA - Comedie, Dramă Cu: Michael Keaton, Zach Galifianakis Nota: 7.0 / Imdb 7.7",
             "02:00 - Roofman: Hoțul de pe acoperiș 2025 - SUA - Crimă, Dramă Cu: Channing Tatum, Juno Temple Nota: 7.2 / Imdb 7.0",
             "04:05 - Babygirl 2024 - Olanda, SUA - Crimă, Mister, Thriller Cu: Nicole Kidman, Harris Dickinson Nota: 5.8 / Imdb 5.8",
@@ -588,7 +588,22 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Proiect De Tara",
+            "- Prima News By Profit.Ro Raluca Al Haddad",
+            "- Educatie Cu Profit",
+            "- Prima News By Profit.Ro",
+            "- C-Tin Rudnitchi",
+            "- Profit Live",
+            "- Sistemul Medikal",
+            "- Focus 14 Inregistrat",
+            "- Romania Politica Cu Larisa Bernaschi",
+            "- Proiect De Tara: Romania! Cu Andrei Gheorghe",
+            "- Romania Politica",
+            "- Proiect De Tara :Romania!",
+            "- Focus 18 Inregistrat",
+            "- Romania Politica"
+        ]
     },
     {
         "id": 33,
@@ -613,7 +628,37 @@
     {
         "id": 34,
         "tv_channel": "CNN-LIVE",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - The Story Is: With Elex Michaelson",
+            "08:00 - The Story Is: With Elex Michaelson",
+            "09:00 - CNN Newsroom",
+            "10:00 - CNN Newsroom",
+            "11:00 - CNN Newsroom",
+            "12:00 - CNN Headline Express",
+            "13:00 - CNN This Morning",
+            "14:00 - CNN News Central",
+            "15:00 - CNN News Central",
+            "15:30 - World Sport",
+            "16:00 - Connect the World",
+            "16:45 - World Sport",
+            "17:00 - Connect the World",
+            "17:45 - Marketplace Asia",
+            "18:00 - One World",
+            "19:00 - One World",
+            "20:00 - Amanpour",
+            "21:00 - Isa Soares Tonight",
+            "22:00 - What We Know with Max Foster",
+            "23:00 - Quest Means Business",
+            "23:45 - Marketplace Asia",
+            "00:00 - The Lead with Jake Tapper",
+            "00:30 - World Sport",
+            "01:00 - The Brief with Jim Sciutto",
+            "02:00 - Erin Burnett OutFront",
+            "03:00 - Anderson Cooper 360",
+            "04:00 - The Source with Kaitlan Collins",
+            "05:00 - CNN NewsNight",
+            "06:00 - Laura Coates Live"
+        ]
     },
     {
         "id": 35,
