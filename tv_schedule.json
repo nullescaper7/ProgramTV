@@ -76,7 +76,7 @@
             "20:30 - Las fierbinți 2012 - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
             "21:30 - Ora de vârf | 1998 - SUA - Acţiune, Comedie, Crimă | Cu: Jackie Chan, Chris Tucker | Nota: 7.9 / Imdb 7.0",
             "23:30 - Ştirile Pro Tv",
-            "00:00 - Trăgătorul 2024 - SUA - Acţiune Cu: Morgan Freeman, Luke Hemsworth Nota: 5.6 / Imdb 3.2",
+            "00:00 - Trăgătorul 2024 - SUA - Acţiune Cu: Morgan Freeman, Luke Hemsworth Nota: 5.5 / Imdb 3.2",
             "02:15 - Lecţii de viaţă",
             "03:00 - Vorbeşte lumea",
             "05:00 - Ce spun românii",
@@ -602,24 +602,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Proiect De Tara",
-            "- Prima News By Profit.Ro Raluca Al Haddad",
-            "- Viitor Pt Romania",
-            "- Prima News By Profit.Ro",
-            "- C-Tin Rudnitchi",
-            "- Profit Live",
-            "- Drumul Spre Succes",
-            "- Sistemul Medikal",
-            "- Focus 14",
-            "- Timp Pt Sanatate Sanda Gligu",
-            "- Romania Politica Cu Larisa Bernaschi",
-            "- Proiect De Tara: Romania! Cu Andrei Gheorghe",
-            "- Romania Politica",
-            "- Proiect De Tara :Romania!",
-            "- Focus 18 Inregistrat",
-            "- Romania Politica"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1324,7 +1307,7 @@
             "22:26 - O fantomă utilă 2025 - Tailanda - Comedie, Dramă, Fantastic Cu: Davika Horne, Wisarut Himmarat Nota: - / Imdb 6.8",
             "00:36 - Lucia și păcatul 2025 - Croatia, Italia, Serbia, Slovenia - Dramă Cu: Natasa Burger, Jara Sofija Ostan Nota: - / Imdb 6.6",
             "02:06 - O revenire 2025 - Belgia - Dramă Cu: Veerle Baetens, Billie Vlegels Nota: - / Imdb 5.7",
-            "03:35 - Captura 2024 - Romania - Dramă Cu: Nicoleta Lefter, Marian Râlea Nota: 6.3 / Imdb 5.3",
+            "03:35 - Captura 2024 - Romania - Dramă Cu: Nicoleta Lefter, Marian Râlea Nota: 6.2 / Imdb 5.3",
             "04:55 - Acoperă-mi inima 2007 - SUA - Dramă Cu: Adam Sandler, Don Cheadle Nota: 8.1 / Imdb 7.4"
         ]
     },
