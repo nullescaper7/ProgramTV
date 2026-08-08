@@ -620,7 +620,28 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Sistemul Medikal",
+            "- Prima News Debate",
+            "- Iosif Pe Coclauri",
+            "- Profit Live",
+            "- Punctul Rosu In Sanatate Podcast Cotidianul",
+            "- Timp Pt Sanatate (R)",
+            "- Viitor Pt Romania Miercuri",
+            "- Podcast Cu Livia Graur Redifuzari",
+            "- Agronews",
+            "- Sanatate Cu Stil Redifuzari",
+            "- Viata Are Gust",
+            "- Podcast Cotidianul",
+            "- Medika Antidrog",
+            "- Povesti Sanatoase",
+            "- Focus 18",
+            "- Punctul Rosu In Sanatate Podcast Cotidianul",
+            "- Agronews",
+            "- Medika Antidrog",
+            "- Podcast Cu Livia Graur",
+            "- Viitor Pt Romania"
+        ]
     },
     {
         "id": 33,
