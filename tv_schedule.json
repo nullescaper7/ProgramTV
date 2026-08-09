@@ -88,14 +88,14 @@
         "tv_program": [
             "07:00 - Ştirile Pro Tv",
             "10:00 - Povestea delfinului 2 2014 - SUA - Dramă, Familie Cu: Morgan Freeman, Ashley Judd Nota: 7.3 / Imdb 6.4",
-            "12:15 - Dragoste în ofsaid 2005 - SUA - Comedie, Romantic, Dragoste Cu: Drew Barrymore, Jimmy Fallon Nota: 6.7 / Imdb 6.2",
+            "12:15 - Dragoste în ofsaid 2005 - SUA - Comedie, Romantic, Dragoste Cu: Drew Barrymore, Jimmy Fallon Nota: 6.8 / Imdb 6.2",
             "14:15 - Omul-Păianjen 2002 - SUA - Acţiune, Aventuri Cu: Tobey Maguire, Willem Dafoe Nota: 7.9 / Imdb 7.4",
             "16:45 - Soacra mea e o scorpie 2005 - SUA - Comedie, Romantic, Dragoste Cu: Jennifer Lopez, Jane Fonda Nota: 6.7 / Imdb 5.6",
             "19:00 - Ştirile Pro Tv",
             "20:00 - Băieți răi 2 | 2003 - SUA - Acţiune, Comedie | Cu: Will Smith, Martin Lawrence | Nota: 7.5 / Imdb 6.6",
             "23:00 - Lumea nu e de ajuns 1999 - SUA - Acţiune, Aventuri, Crimă Cu: Pierce Brosnan, Sophie Marceau Nota: 7.4 / Imdb 6.4",
             "01:30 - Soacra mea e o scorpie 2005 - (R) - SUA - Comedie, Romantic, Dragoste Cu: Jennifer Lopez, Jane Fonda Nota: 6.7 / Imdb 5.6",
-            "03:15 - Dragoste în ofsaid 2005 - (R) - SUA - Comedie, Romantic, Dragoste Cu: Drew Barrymore, Jimmy Fallon Nota: 6.7 / Imdb 6.2",
+            "03:15 - Dragoste în ofsaid 2005 - (R) - SUA - Comedie, Romantic, Dragoste Cu: Drew Barrymore, Jimmy Fallon Nota: 6.8 / Imdb 6.2",
             "05:00 - Ce spun românii",
             "06:00 - Ştirile Pro Tv"
         ]
@@ -599,29 +599,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Focus 18",
-            "- Life & Style",
-            "- Sanatate Cu Stil",
-            "- Iosif Pe Coclauri",
-            "- Legile Afacerilor",
-            "- Drumul Spre Succes",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania Vineri",
-            "- Life & Style",
-            "- Viata Are Gust",
-            "- Zona De Conflict Cu Marius Saizu",
-            "- Agronews",
-            "- Podcast Cotidianul",
-            "- Povesti Sanatoase",
-            "- Zona De Conflict",
-            "- Focus 18",
-            "- Medika Antidrog",
-            "- Agronews",
-            "- Zona De Conflict",
-            "- Podcast Cu Livia Graur",
-            "- Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1229,7 +1207,7 @@
             "15:35 - În timp 2011 - SUA - Crimă, SF, Thriller Cu: Amanda Seyfried, Justin Timberlake Nota: 8.1 / Imdb 6.7",
             "17:50 - Indiana Jones și căutătorii arcei pierdute 1981 - SUA - Aventuri Cu: Harrison Ford, John Rhys-Davies Nota: 8.4 / Imdb 8.4",
             "20:05 - Porțile întunericului | 2015 - SUA, Canada - Horror, Thriller | Cu: Sarah Wayne Callies, Nicolas Cage | Nota: 6.2 / Imdb 5.2",
-            "22:00 - Ciocanul zeilor 2013 - Marea Britanie - Acţiune Cu: Charlie Bewley, Clive Standen Nota: 6.1 / Imdb 4.5",
+            "22:00 - Ciocanul zeilor 2013 - Marea Britanie - Acţiune Cu: Charlie Bewley, Clive Standen Nota: 6.0 / Imdb 4.5",
             "00:15 - Anaconda 4: Drumul sângelui 2009 - Romania, SUA - Acţiune, Horror Cu: Crystal Allen, Călin Stanciu Nota: 5.2 / Imdb 2.9",
             "02:15 - Resident Evil: Dispariția 2007 - SUA - Acţiune, Horror, SF Cu: Milla Jovovich, Oded Fehr Nota: 7.1 / Imdb 6.2",
             "04:00 - The Walking Dead: Dead City • Ep.3 2023 - SUA - Aventuri, Horror, Thriller Cu: Jeffrey Dean Morgan, Lauren Cohan Nota: 7.5 / Imdb 7.0",
@@ -1275,7 +1253,7 @@
             "15:30 - Stagiarii 2013 - SUA - Comedie Cu: Owen Wilson, Vince Vaughn Nota: 7.0 / Imdb 6.3",
             "17:25 - Rătăciți printre cuvinte 2003 - SUA - Dramă Cu: Bill Murray, Scarlett Johansson Nota: 7.7 / Imdb 7.7",
             "19:10 - Dunkirk 2017 - Marea Britanie, Olanda, Franta, SUA - Acţiune, Dramă, Istoric Cu: Fionn Whitehead, Mark Rylance Nota: 7.6 / Imdb 7.8",
-            "21:00 - The Voyeurs 2021 - SUA - Dramă, Mister, Thriller Cu: Sydney Sweeney, Ben Hardy Nota: 7.3 / Imdb 6.1",
+            "21:00 - The Voyeurs 2021 - SUA - Dramă, Mister, Thriller Cu: Sydney Sweeney, Ben Hardy Nota: 7.2 / Imdb 6.1",
             "22:55 - Parfum de femeie 1992 - SUA - Dramă Cu: Al Pacino, Chris O'Donnell Nota: 9.0 / Imdb 8.0",
             "01:30 - Fargo • Sez.4, Ep.5 2014 - SUA - Crimă, Dramă Cu: Allison Tolman, Billy Bob Thornton Nota: 8.7 / Imdb 8.8",
             "02:25 - Fargo • Sez.4, Ep.6 2014 - SUA - Crimă, Dramă Cu: Allison Tolman, Billy Bob Thornton Nota: 8.7 / Imdb 8.8",
