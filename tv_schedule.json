@@ -594,27 +594,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Focus 18",
-            "- Proiect De Tara:",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania",
-            "- Podcast Cotidianul",
-            "- Prima News By Profit.Ro C-Tin Rudnitchi",
-            "- Profit Live",
-            "- Sistemul Medikal",
-            "- Focus 14 Inregistrat",
-            "- Medika Antidrog",
-            "- Podcasturi Cotidianul",
-            "- Proiect De Tara: Romania! Andrei Gheorghe",
-            "- Povesti Adevarate",
-            "- Sistemul Medikal",
-            "- Proiect De Tara :Romania!",
-            "- Podcasturi Cotidianul",
-            "- Medika Antidrog",
-            "- Focus 18 Inregistrat",
-            "- Povesti Adevarate"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
