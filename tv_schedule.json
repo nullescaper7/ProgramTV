@@ -372,7 +372,19 @@
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - Vacanţă de vedetă",
+            "10:00 - Visul Românesc – Succes International",
+            "11:00 - Meniu De Vedetă – Arome Min Maroc",
+            "13:00 - Summer Star – Emisiune Divertisment",
+            "19:00 - Poveste De Nuntă",
+            "21:30 - Sexy Harem Ada-Kaleh 2001 - SUA - Comedie Cu: Ștefan Bănică Jr., Jean Constantin Nota: 5.9 / Imdb 4.6",
+            "23:30 - Petrecem în Familie",
+            "02:00 - Vacanţă de vedetă",
+            "02:45 - Visul Românesc",
+            "03:30 - Summer Star",
+            "06:00 - Summer Star"
+        ]
     },
     {
         "id": 16,
@@ -540,7 +552,26 @@
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Zestrea muzicală",
+            "08:50 - Etnografica",
+            "09:00 - Simplu si rural cu Ana Maria Andrei",
+            "10:00 - Din arhiva TVR",
+            "11:00 - Tezaur folcloric",
+            "12:00 - Editie speciala-Concert de pricesne Sf.Maria",
+            "14:00 - Cântec românesc",
+            "15:50 - Etnografica",
+            "16:00 - PODCAST",
+            "17:00 - Din arhiva TVR",
+            "18:00 - Nestemate populare",
+            "19:00 - Tezaur folcloric",
+            "20:00 - Ora de aur",
+            "21:00 - Scena românilor",
+            "22:50 - Etnografica",
+            "23:00 - Cu lăutarii după mine",
+            "00:00 - Muzică tradiţională",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 80,
