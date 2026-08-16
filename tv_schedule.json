@@ -165,8 +165,8 @@
             "18:00 - Ora de ştiri",
             "18:55 - E vremea ta!",
             "19:05 - Comisarul Rex: aventuri la Viena • Ep.35 1994 - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
-            "20:05 - Clara | 2023 - Romania, Germania - Dramă | Cu: Olga Torok, Ovidiu Crișan | Nota: 6.8 / Imdb 6.9",
-            "21:45 - Omul de marmura 1977 - Polonia - Dramă Cu: Michal Tarkowski, Tadeusz Lomnicki Nota: 7.9 / Imdb 7.7",
+            "20:05 - Clara | 2023 - Romania, Germania - Dramă | Cu: Olga Torok, Ovidiu Crișan | Nota: 6.6 / Imdb 6.9",
+            "21:45 - Omul de marmura 1977 - Polonia - Dramă Cu: Michal Tarkowski, Tadeusz Lomnicki Nota: 8.0 / Imdb 7.7",
             "00:55 - Comisarul Rex: aventuri la Viena • Ep.35 1994 - (R) - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
             "01:55 - Mic dejun cu un campion",
             "02:45 - Ora de ştiri",
@@ -600,30 +600,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Sistemul Medical",
-            "- Focus 18",
-            "- Life & Style",
-            "- Sanatate Cu Stil",
-            "- Iosif Pe Coclauri",
-            "- Legile Afacerilor",
-            "- Drumul Spre Succes",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania Vineri",
-            "- Life & Style",
-            "- Viata Are Gust",
-            "- Zona De Conflict Cu Marius Saizu",
-            "- Agronews",
-            "- Podcast Cotidianul",
-            "- Povesti Sanatoase",
-            "- Zona De Conflict",
-            "- Focus 18",
-            "- Medika Antidrog",
-            "- Agronews",
-            "- Zona De Conflict",
-            "- Podcast Cu Livia Graur",
-            "- Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
