@@ -607,7 +607,29 @@
     {
         "id": 33,
         "tv_channel": "EURO-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Focus 18",
+            "08:00 - Sanatate Cu Stil",
+            "08:30 - Life & Style",
+            "09:00 - Zona De Conflict",
+            "10:00 - Punctul Rosu In Sanatate Podcast Cotidianul",
+            "11:00 - Povesti Sanatoase",
+            "12:00 - Podcast Cotidianul Sambata",
+            "13:00 - Prima News By Profit.Ro C-Tin Rudnitchi",
+            "14:00 - Profit Live",
+            "15:00 - Sistemul Medikal",
+            "16:00 - Focus 14 Inregistrat",
+            "18:00 - Medika Antidrog",
+            "19:00 - Podcasturi Cotidianul",
+            "20:00 - Proiect De Tara: Romania! Andrei Gheorghe",
+            "22:00 - Zona De Conflict",
+            "23:00 - Sistemul Medikal",
+            "00:00 - Proiect De Tara :Romania!",
+            "02:00 - Podcasturi Cotidianul",
+            "03:00 - Medika Antidrog",
+            "04:00 - Focus 18 Inregistrat",
+            "06:00 - Zona De Conflict"
+        ]
     },
     {
         "id": 34,
