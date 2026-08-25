@@ -601,26 +601,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Focus 18",
-            "- Proiect De Tara:",
-            "- Prima News By Profit.Ro Raluca Al Haddad",
-            "- Educatie Cu Profit",
-            "- Podcast Cu Livia Graur Redifuzari",
-            "- Profit Live",
-            "- Sistemul Medikal",
-            "- Focus 14 Inregistrat",
-            "- Medika Antidrog",
-            "- Podcasturi Cotidianul",
-            "- Proiect De Tara: Romania! C-Tin Rudnitchi",
-            "- Povesti Adevarate",
-            "- Sistemul Medikal",
-            "- Proiect De Tara :Romania!",
-            "- Podcasturi Cotidianul",
-            "- Medika Antidrog",
-            "- Focus 18 Inregistrat",
-            "- Povesti Adevarate"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
