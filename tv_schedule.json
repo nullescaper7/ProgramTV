@@ -72,10 +72,11 @@
             "18:00 - Batem palma?",
             "19:00 - Ştirile Pro Tv",
             "20:30 - Las fierbinți 2012 - Romania - Comedie Cu: Mihai Bobonete, Gheorghe Ifrim Nota: 8.2 / Imdb 8.7",
-            "21:30 - Cartelul ucigaș | 2015 - SUA - Acţiune, Crimă | Cu: Scott Adkins, Nick Chinlund | Nota: 6.3 / Imdb 5.1",
-            "23:45 - Ştirile Pro Tv",
-            "00:15 - Omul legii 2022 - SUA - Acţiune, Crimă, Dramă Cu: Antonio Banderas, Mojean Aria Nota: 6.2 / Imdb 5.3",
-            "02:00 - Lecţii de viaţă",
+            "21:30 - Glonț în cap | 2012 - SUA - Acţiune, Crimă, Thriller | Cu: Sylvester Stallone, Weronika Rosati | Nota: 6.6 / Imdb 5.7",
+            "23:15 - Ştirile Pro Tv",
+            "23:45 - Omul legii 2022 - SUA - Acţiune, Crimă, Dramă Cu: Antonio Banderas, Mojean Aria Nota: 6.2 / Imdb 5.3",
+            "01:30 - Lecţii de viaţă",
+            "02:30 - Superspeed",
             "03:00 - Vorbeşte lumea",
             "05:00 - Batem palma?",
             "06:00 - Ştirile Pro Tv"
@@ -586,7 +587,25 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": []
+        "tv_program": [
+            "- Focus 18",
+            "- Proiect De Tara:",
+            "- Prima News By Profit.Ro Prima News Cu Raluca Al Haddad",
+            "- Podcast Cu Livia Graur Redifuzari",
+            "- Profit Live",
+            "- Sistemul Medikal",
+            "- Focus 14 Inregistrat",
+            "- Medika Antidrog",
+            "- Podcasturi Cotidianul",
+            "- Proiect De Tara: Romania! C-Tin Rudnitchi",
+            "- Povesti Adevarate",
+            "- Sistemul Medikal",
+            "- Proiect De Tara :Romania!",
+            "- Podcasturi Cotidianul",
+            "- Medika Antidrog",
+            "- Focus 18 Inregistrat",
+            "- Povesti Adevarate"
+        ]
     },
     {
         "id": 33,
@@ -594,7 +613,9 @@
         "tv_program": [
             "07:00 - Focus 18",
             "08:00 - Proiect De Tara:",
-            "10:00 - Prima News By Profit.Ro Prima News Cu Raluca Al Haddad",
+            "10:00 - Punctul Rosu In Sanatate Podcast Cotidianul Sambata",
+            "11:00 - Viitor Pt Romania",
+            "12:00 - Timp Pt Sanatate Sanda Gligu",
             "13:00 - Podcast Cu Livia Graur Redifuzari",
             "14:00 - Profit Live",
             "15:00 - Sistemul Medikal",
