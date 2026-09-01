@@ -2,7 +2,23 @@
     {
         "id": 1,
         "tv_channel": "DIGI24 HD",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Știrile dimineții",
+            "12:00 - Știrile amiezii",
+            "14:00 - Studio politic",
+            "15:00 - Știrile amiezii",
+            "16:00 - Știrile zilei",
+            "18:00 - Ediție specială",
+            "18:30 - Business Club",
+            "19:00 - Ediție specială",
+            "20:00 - Jurnalul de seară",
+            "23:00 - Audiență națională",
+            "00:00 - Știrile serii",
+            "01:00 - Jurnalul de seară",
+            "04:00 - Studio politic",
+            "05:00 - Ediție specială",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 2,
@@ -33,7 +49,18 @@
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Bună dimineața, România!",
+            "12:00 - Talk B1",
+            "15:00 - Politica zilei",
+            "18:00 - Bună, România!",
+            "20:00 - News Pass",
+            "23:00 - Doctorul",
+            "00:00 - Bună, România!",
+            "01:50 - Politica zilei",
+            "03:40 - News Pass",
+            "06:10 - Doctorul"
+        ]
     },
     {
         "id": 7,
@@ -132,7 +159,7 @@
             "18:50 - E vremea ta!",
             "19:05 - Comisarul Rex: aventuri la Viena • Ep.51 1994 - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
             "20:05 - Destine ca-n filme",
-            "21:05 - Prin ochii lui Johnny Depp",
+            "21:05 - Remix 381: portret Nicolas Simion",
             "22:05 - Tonomatul de pe 2",
             "23:35 - Magazin Deutsche Welle",
             "00:10 - Comisarul Rex: aventuri la Viena • Ep.51 1994 - (R) - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
@@ -229,12 +256,65 @@
     {
         "id": 12,
         "tv_channel": "TVR International",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Telejurnal matinal",
+            "07:50 - România face bine",
+            "08:00 - Telejurnal matinal",
+            "08:50 - Vorbeşte corect!",
+            "09:00 - Telejurnal matinal",
+            "09:50 - Vedeta familiei",
+            "11:05 - Duminica Limbii Române",
+            "12:00 - Info Diaspora",
+            "13:00 - Care pe care",
+            "14:00 - Telejurnal",
+            "14:50 - Discover Romania",
+            "15:00 - Lecţia de istorie",
+            "16:00 - Banii, azi",
+            "17:00 - Gala Umorului",
+            "17:45 - România... în bucate",
+            "18:10 - Reţeaua de idoli",
+            "19:00 - Telejurnal",
+            "19:55 - Zi de zi cu părintele Constantin Necula",
+            "20:00 - Investiţi în România!",
+            "21:00 - Pulsul zilei",
+            "22:00 - Jurnal Cultural",
+            "22:50 - România face bine",
+            "23:00 - 35 de ani. Lungul drum către democraţie",
+            "23:55 - Vorbeşte corect!",
+            "00:00 - Telejurnal Moldova",
+            "00:45 - Europa Azi",
+            "01:00 - Gala Umorului",
+            "01:50 - Discover Romania",
+            "02:00 - Lumea de aproape",
+            "02:30 - România... în bucate",
+            "03:00 - Telejurnal",
+            "03:55 - Zi de zi cu părintele Constantin Necula",
+            "04:00 - Investiţi în România!",
+            "05:00 - Lecţia de istorie",
+            "06:00 - Reţeaua de idoli",
+            "06:55 - Imnul României"
+        ]
     },
     {
         "id": 13,
         "tv_channel": "Digi 24",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Știrile dimineții",
+            "12:00 - Știrile amiezii",
+            "14:00 - Studio politic",
+            "15:00 - Știrile amiezii",
+            "16:00 - Știrile zilei",
+            "18:00 - Ediție specială",
+            "18:30 - Business Club",
+            "19:00 - Ediție specială",
+            "20:00 - Jurnalul de seară",
+            "23:00 - Audiență națională",
+            "00:00 - Știrile serii",
+            "01:00 - Jurnalul de seară",
+            "04:00 - Studio politic",
+            "05:00 - Ediție specială",
+            "06:00 - Știrile dimineții"
+        ]
     },
     {
         "id": 14,
@@ -358,12 +438,42 @@
     {
         "id": 21,
         "tv_channel": "HBO_2",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Labirintul: Evadarea 2014 - SUA - Mister, SF, Thriller Cu: Ki Hong Lee, Dylan O'Brien Nota: 7.9 / Imdb 6.8",
+            "08:50 - Labirintul: Încercările focului 2015 - SUA - Acţiune, SF, Thriller Cu: Thomas Brodie-Sangster, Dylan O'Brien Nota: 7.6 / Imdb 6.3",
+            "10:58 - Labirintul: Tratament letal 2018 - SUA - Acţiune, SF, Thriller Cu: Thomas Brodie-Sangster, Dylan O'Brien Nota: 7.7 / Imdb 6.3",
+            "13:16 - Rooster • Sez.1, Ep.3 2026 - SUA - Comedie Cu: Steve Carell, Scott MacArthur Nota: 7.2 / Imdb 7.2",
+            "13:47 - Cel mai frumos spectacol de Crăciun 2024 - Canada - Aventuri, Dramă, Fantastic Cu: Judy Greer, Lauren Graham Nota: 6.9 / Imdb 6.8",
+            "15:25 - Jane Eyre 2011 - Marea Britanie, SUA - Dramă, Romantic, Dragoste Cu: Michael Fassbender, Mia Wasikowska Nota: 8.2 / Imdb 7.3",
+            "17:21 - Pinguinii din Madagascar 2014 - SUA - Animaţie, Aventuri, Comedie Cu: Tom McGrath, Chris Miller Nota: 7.5 / Imdb 6.6",
+            "18:52 - Așa am ajuns la tine 2023 - SUA - Romantic, Dragoste Cu: Lucy Hale, Nat Wolff Nota: 6.6 / Imdb 5.6",
+            "20:30 - Cât de bine poți | 2025 - SUA - Comedie, Dramă, Romantic | Cu: Kevin Bacon, Kyra Sedgwick | Nota: 7.0 / Imdb 6.2",
+            "22:10 - Amurg 2008 - SUA - Dramă, Fantastic, Romantic Cu: Kristen Stewart, Robert Pattinson Nota: 7.3 / Imdb 5.3",
+            "00:10 - Tokyo Vice • Sez.1, Ep.8 2022 - SUA - Crimă, Dramă, Thriller Cu: Ansel Elgort, Ella Rumpf Nota: 7.6 / Imdb 8.1",
+            "01:16 - Luptă prin întuneric 2023 - SUA - Thriller Cu: Bella Thorne, Aaron Eckhart Nota: 6.2 / Imdb 5.5",
+            "03:09 - Trăind printre demoni: Ultima spovedanie 2025 - Marea Britanie, SUA - Horror, Mister, Thriller Cu: Vera Farmiga, Patrick Wilson Nota: 7.2 / Imdb 6.2",
+            "05:22 - Așa am ajuns la tine 2023 - SUA - Romantic, Dragoste Cu: Lucy Hale, Nat Wolff Nota: 6.6 / Imdb 5.6"
+        ]
     },
     {
         "id": 356663382,
         "tv_channel": "FilmNow",
-        "tv_program": []
+        "tv_program": [
+            "07:15 - O zi perfectă 2015 - Spania - Dramă Cu: Benicio Del Toro, Tim Robbins Nota: 6.9 / Imdb 6.8",
+            "09:00 - Impact nimicitor 1998 - SUA - Acţiune, SF Cu: Robert Duvall, Téa Leoni Nota: 7.0 / Imdb 6.3",
+            "10:55 - Bridget Jones însărcinată 2016 - Irlanda, Marea Britanie, Franta, SUA - Comedie, Romantic, Dragoste Cu: Renée Zellweger, Jim Broadbent Nota: 7.1 / Imdb 6.4",
+            "12:50 - Acvila legiunii a IX-a 2011 - SUA - Acţiune, Aventuri, Dramă Cu: Mark Strong, Jamie Bell Nota: 7.4 / Imdb 6.2",
+            "14:35 - Dna. Harris cucerește Parisul 2022 - Marea Britanie, Ungaria - Comedie, Dramă Cu: Isabelle Huppert, Lesley Manville Nota: 7.4 / Imdb 7.1",
+            "16:25 - Vânătorii de fantome: Moștenirea 2021 - Canada, SUA - Aventuri, Comedie, Fantastic Cu: Carrie Coon, Mckenna Grace Nota: 6.7 / Imdb 7.0",
+            "18:25 - Băieții răi 2022 - SUA - Acţiune, Animaţie, Comedie Cu: Sam Rockwell, Marc Maron Nota: 7.5 / Imdb 6.9",
+            "20:00 - Poţi să păstrezi un secret? | 2019 - SUA - Comedie, Romantic, Dragoste | Cu: Alexandra Daddario, Tyler Hoechlin | Nota: 6.5 / Imdb 5.4",
+            "21:35 - Contratimp 2003 - SUA - Dramă, Thriller Cu: Denzel Washington, Sanaa Lathan Nota: 7.4 / Imdb 6.5",
+            "23:20 - Orașul nelegiuiților 2020 - Franta - Acţiune, Crimă, Dramă Cu: Jean Reno, Stanislas Merhar Nota: 6.7 / Imdb 6.1",
+            "01:10 - Urma scapă turma 2014 - SUA - Comedie, Western Cu: Amanda Seyfried, Charlize Theron Nota: 6.6 / Imdb 6.1",
+            "03:00 - The Mustang 2019 - Franta, SUA - Dramă Cu: Matthias Schoenaerts, Connie Britton Nota: 6.8 / Imdb 6.8",
+            "04:35 - Dominique 2024 - SUA, Columbia - Acţiune, Thriller Cu: Maurice Compte, Oksana Orlan Nota: 7.3 / Imdb 5.3",
+            "06:15 - Poţi să păstrezi un secret? 2019 - SUA - Comedie, Romantic, Dragoste Cu: Alexandra Daddario, Tyler Hoechlin Nota: 6.5 / Imdb 5.4"
+        ]
     },
     {
         "id": 27,
@@ -560,16 +670,14 @@
             "20:00 - Fotbal Show",
             "21:00 - FC U Cluj – Petrolul",
             "23:00 - Fotbal Show",
-            "00:30 - Ştirile Prima Sport",
-            "00:45 - Fotbal Show",
-            "01:45 - Ştirile Prima Sport",
-            "02:00 - Fotbal Show",
-            "03:30 - Ştirile Prima Sport",
-            "03:45 - Fotbal Show",
-            "04:45 - Ştirile Prima Sport",
-            "05:00 - Fotbal Show",
-            "06:30 - Ştirile Prima Sport",
-            "06:45 - Fotbal Show"
+            "00:00 - Ştirile Prima Sport",
+            "00:15 - Fotbal Show",
+            "01:15 - Ştirile Prima Sport",
+            "01:30 - ACS Sepsi OSK Sf. Ghoerghe – FC CFR Cluj",
+            "03:30 - FC U Cluj – Petrolul",
+            "05:30 - Ştirile Prima Sport",
+            "05:45 - Fotbal Show",
+            "06:45 - Ştirile Prima Sport"
         ]
     },
     {
@@ -603,7 +711,7 @@
             "00:15 - Real Madrid – Malaga",
             "02:15 - Ştirile Prima Sport",
             "02:30 - Rezumate Superliga",
-            "03:00 - FC U Cluj – Petrolul",
+            "03:00 - Barcelona – Rayo Vallecano",
             "05:00 - Rezumate Superliga",
             "05:15 - Ştirile Prima Sport",
             "05:30 - Rezumate Superliga",
@@ -769,7 +877,35 @@
     {
         "id": 44,
         "tv_channel": "DISCOVERY-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - O nouă șansă în sălbăticie • Sez.1, Ep.6",
+            "08:00 - Cum se fabrică ? • Sez.9, Ep.7",
+            "08:30 - Cum se fabrică ? • Sez.9, Ep.8",
+            "09:00 - Izolați de civilizație • Sez.1, Ep.1",
+            "10:00 - Test de supravieţuire în doi • Sez.6, Ep.3",
+            "11:00 - Comori restaurate • Sez.5, Ep.10",
+            "12:00 - Maşini pe alese • Sez.12, Ep.5",
+            "13:00 - Atelierul lui Richard Hammond • Sez.2, Ep.6",
+            "14:00 - Test de supravieţuire în doi • Sez.1, Ep.1",
+            "15:00 - Test de supravieţuire în doi • Sez.1, Ep.2",
+            "16:00 - Comori arhitecturale recuperate • Sez.8, Ep.7",
+            "17:00 - Comori arhitecturale recuperate • Sez.8, Ep.8",
+            "18:00 - Maşini pe alese • Sez.7, Ep.2",
+            "19:00 - Cum se fabrică ? • Sez.4, Ep.47",
+            "19:30 - Cum se fabrică ? • Sez.4, Ep.48",
+            "20:00 - Grănicerii Suediei • Sez.3, Ep.14",
+            "21:00 - Apărătorii dreptății • Sez.1, Ep.1",
+            "22:00 - Test de supravieţuire în doi • Sez.2, Ep.30",
+            "23:00 - Test de supraviețuire: Naufragiați pe o insulă • Sez.1, Ep.1",
+            "00:00 - Crime înregistrate • Sez.3, Ep.6",
+            "01:00 - Crime înregistrate • Sez.3, Ep.7",
+            "02:00 - Grănicerii Suediei • Sez.3, Ep.14",
+            "02:48 - Apărătorii dreptății • Sez.1, Ep.1",
+            "03:36 - Test de supravieţuire în doi • Sez.2, Ep.30",
+            "04:24 - Maşini pe alese • Sez.12, Ep.11",
+            "05:12 - Comori arhitecturale recuperate • Sez.12, Ep.4",
+            "06:00 - Maşini pe alese • Sez.17, Ep.3"
+        ]
     },
     {
         "id": 44,
@@ -835,7 +971,30 @@
     {
         "id": 47,
         "tv_channel": "BBC-EARTH",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Curiozitățile naturale ale lui David Attenborough • Sez.2, Ep.6",
+            "07:30 - Sub zero grade • Sez.9, Ep.9",
+            "08:35 - Pământul • Sez.1, Ep.1",
+            "09:55 - Explorarea vulcanilor • Sez.1, Ep.6",
+            "10:55 - CIVILIZAȚII: ASCENSIUNI ȘI DECLIN • Sez.1, Ep.3",
+            "12:15 - În interiorul fabricii • Sez.7, Ep.6",
+            "13:20 - Pământul • Sez.1, Ep.2",
+            "14:40 - Vreme nimicitoare • Sez.5, Ep.10",
+            "15:45 - Vreme nimicitoare • Sez.5, Ep.11",
+            "16:50 - Explorarea vulcanilor • Sez.1, Ep.7",
+            "17:45 - CIVILIZAȚII: ASCENSIUNI ȘI DECLIN • Sez.1, Ep.3",
+            "19:00 - Sub zero grade • Sez.5, Ep.9",
+            "20:00 - Sub zero grade • Sez.5, Ep.10",
+            "21:00 - Ben Fogle: Întoarcere în sălbăticie • Sez.3, Ep.6",
+            "22:00 - CIVILIZAȚII: ASCENSIUNI ȘI DECLIN • Sez.1, Ep.4",
+            "23:20 - Universul • Sez.1, Ep.2",
+            "00:50 - Amazonul sălbatic • Sez.1, Ep.1",
+            "01:50 - Sub zero grade • Sez.5, Ep.9",
+            "02:50 - Sub zero grade • Sez.5, Ep.10",
+            "03:50 - Ben Fogle: Întoarcere în sălbăticie • Sez.3, Ep.6",
+            "04:50 - Vreme nimicitoare • Sez.5, Ep.10",
+            "05:55 - Vreme nimicitoare • Sez.5, Ep.11"
+        ]
     },
     {
         "id": 50,
@@ -1086,7 +1245,7 @@
             "19:15 - Premiera La Liga: Rezumat Etapa 3",
             "20:15 - Premiera Serie A: Rezumat Etapa 2",
             "21:15 - Stirile Digi Sport",
-            "21:45 - Live Cupa Germaniei: Hamburg-Borussia Dortmund Turul 1",
+            "21:45 - Live Cupa Germaniei: HEBC Hamburg-Borussia Dortmund Turul 1",
             "23:45 - Stirile Digi Sport",
             "00:00 - etapa 1 Cupa Romaniei: Sepsi Sfantu Gheorghe-CFR Cluj Grupe",
             "01:45 - La Liga: Real Madrid-Malaga Etapa 3",
@@ -1137,7 +1296,37 @@
     {
         "id": 99935,
         "tv_channel": "Viasat-Nature",
-        "tv_program": []
+        "tv_program": [
+            "07:20 - Salvatorii aligatorilor din Texas • Sez.1, Ep.1",
+            "07:40 - Monştrii apelor • Sez.7, Ep.1",
+            "08:30 - Evoluții • Sez.1, Ep.2",
+            "09:25 - Păduri minunate și secretele lor • Sez.1, Ep.2",
+            "10:15 - Lumea extremelor • Sez.1, Ep.2",
+            "11:05 - Monştrii apelor • Sez.7, Ep.2",
+            "11:55 - Viața sub zero grade • Sez.4, Ep.11",
+            "12:40 - Un an pe planeta Pământ • Sez.1, Ep.2",
+            "13:25 - Tribul leilor • Sez.1, Ep.2",
+            "14:20 - Viața sub zero grade • Sez.4, Ep.11",
+            "15:05 - Fenomene meteo mortale • Sez.2, Ep.7",
+            "15:55 - Monştrii apelor • Sez.7, Ep.2",
+            "16:45 - Viața sub zero grade • Sez.4, Ep.11",
+            "17:30 - Păduri minunate și secretele lor • Sez.1, Ep.2",
+            "18:20 - Lumea extremelor • Sez.1, Ep.2",
+            "19:10 - Monştrii apelor • Sez.7, Ep.2",
+            "20:00 - Viața sub zero grade • Sez.4, Ep.12",
+            "20:45 - Un an pe planeta Pământ • Sez.1, Ep.2",
+            "21:40 - Tribul leilor • Sez.1, Ep.2",
+            "22:30 - Viața sub zero grade • Sez.4, Ep.12",
+            "23:15 - Fenomene meteo mortale • Sez.2, Ep.7",
+            "00:05 - Monştrii apelor • Sez.7, Ep.2",
+            "01:00 - Păduri minunate și secretele lor • Sez.1, Ep.2",
+            "01:50 - Tribul leilor • Sez.1, Ep.2",
+            "02:40 - Un an pe planeta Pământ • Sez.1, Ep.2",
+            "03:25 - Fenomene meteo mortale • Sez.2, Ep.7",
+            "04:15 - Evoluții • Sez.1, Ep.2",
+            "05:10 - Monştrii apelor • Sez.7, Ep.2",
+            "06:00 - Tribul leilor • Sez.1, Ep.2"
+        ]
     },
     {
         "id": 538722,
@@ -1221,6 +1410,21 @@
     {
         "id": 1468,
         "tv_channel": "Cinewow",
-        "tv_program": []
+        "tv_program": [
+            "08:40 - Strada Speranţei 2016 - Romania - Animaţie Cu: Alex Bordeanu, Ionuț Grama Nota: 7.7 / Imdb 7.4",
+            "10:25 - Vară sentimentală 1986 - Romania - Dramă Cu: Marin Moraru, Emil Hossu Nota: 7.3 / Imdb 6.9",
+            "12:10 - 1cu1tras1",
+            "13:15 - Cardinalul 2019 - Romania - Biografic, Dramă, Istoric Cu: Cristian Iacob, Maria Ploae Nota: 8.1 / Imdb 7.7",
+            "15:35 - Parașutiștii 1972 - SUA - Acţiune Cu: Ileana Buhaci-Gurgulescu, Silviu Stănculescu Nota: 7.2 / Imdb 6.8",
+            "17:40 - Ea si cu mine 1952 - Comedie Cu: Jean Carmet, Louis de Funès Nota: - / Imdb 5.4",
+            "20:00 - Ambitiosul 1953 - Dramă Cu: Danièle Delorme, Louis de Funès Nota: - / Imdb 5.9",
+            "22:25 - Imperiul noptii 1962 - Franta - Comedie Cu: Dominique Zardi, Michel de R Nota: - / Imdb 5.1",
+            "00:30 - Crima in Aveyron 2014 - Franta - Crimă Cu: Florence Pernel, Vincent Winterhalter Nota: - / Imdb 6.7",
+            "02:35 - Și caii sunt verzi pe pereți 2012 - Romania - Comedie, Dramă Cu: Anca Florescu, Adrian Titieni Nota: 6.7 / Imdb 7.0",
+            "05:00 - Transalpina - Drumul Regilor 2016 - Romania - Documentar, Scurt metraj Nota: - / Imdb 7.8",
+            "06:00 - Miriam 2021 - Romania - Animaţie, Scurt metraj Cu: Anca Bartos Nota: - / Imdb -",
+            "06:10 - Valea regilor 2024 - Romania - Animaţie Nota: - / Imdb -",
+            "06:30 - Misterul lui Herodot 1976 - Romania - Aventuri Cu: Mihai Mereuță, Ovidiu Iuliu Moldovan Nota: 7.1 / Imdb 6.8"
+        ]
     }
 ]
