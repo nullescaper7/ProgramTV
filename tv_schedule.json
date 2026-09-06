@@ -345,9 +345,9 @@
             "13:45 - Hai să cântăm! 2016 - SUA - Animaţie, Comedie, Dramă Cu: Tori Kelly, Matthew McConaughey Nota: 7.8 / Imdb 7.1",
             "16:00 - Primul sărut 1991 - SUA - Comedie, Dramă, Romantic Cu: Dan Aykroyd, Jamie Lee Curtis Nota: 7.9 / Imdb 6.9",
             "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "20:30 - Cavalerul | 2022 - SUA - Biografic, Dramă, Istoric | Cu: Samara Weaving, Lucy Boynton | Nota: 6.8 / Imdb 6.5",
+            "20:30 - Cavalerul | 2022 - SUA - Biografic, Dramă, Istoric | Cu: Samara Weaving, Lucy Boynton | Nota: 6.7 / Imdb 6.5",
             "22:45 - Fata cu un dragon tatuat 2011 - SUA, Suedia, Marea Britanie, Germania - Acţiune, Dramă, Mister Cu: Daniel Craig, Rooney Mara Nota: 8.2 / Imdb 7.8",
-            "02:00 - Cavalerul 2022 - (R) - SUA - Biografic, Dramă, Istoric Cu: Samara Weaving, Lucy Boynton Nota: 6.8 / Imdb 6.5",
+            "02:00 - Cavalerul 2022 - (R) - SUA - Biografic, Dramă, Istoric Cu: Samara Weaving, Lucy Boynton Nota: 6.7 / Imdb 6.5",
             "04:00 - Apropo Tv",
             "05:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
             "06:00 - Livada cu speranță 2013 - (R) - Canada - Comedie, Romantic Cu: Jen Lilley, Ryan Paevey Nota: 7.2 / Imdb 6.3"
@@ -606,30 +606,7 @@
     {
         "id": 32,
         "tv_channel": "PRIMA-NEWS",
-        "tv_program": [
-            "- Sistemul Medical",
-            "- Focus 18",
-            "- Life & Style",
-            "- Sanatate Cu Stil",
-            "- Iosif Pe Coclauri",
-            "- Legile Afacerilor",
-            "- Drumul Spre Succes",
-            "- Punctul Rosu In Sanatate Podcast Cotidianul",
-            "- Viitor Pt Romania Vineri",
-            "- Life & Style",
-            "- Viata Are Gust",
-            "- Zona De Conflict Cu Marius Saizu",
-            "- Agronews",
-            "- Podcast Cotidianul",
-            "- Povesti Sanatoase",
-            "- Zona De Conflict",
-            "- Focus 18",
-            "- Medika Antidrog",
-            "- Agronews",
-            "- Zona De Conflict",
-            "- Podcast Cu Livia Graur",
-            "- Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 33,
@@ -1394,9 +1371,11 @@
             "13:00 - Cascadorii râsului",
             "14:30 - Pariziana",
             "16:00 - Mâna lui dreaptă",
-            "18:00 - Fantoma de la operă",
-            "20:00 - Printre măslini",
-            "22:00 - Păcăleală de 1 aprilie"
+            "18:00 - Domnul Verdoux",
+            "20:00 - Fantoma de la operă",
+            "22:00 - Norii negri",
+            "00:00 - Decalogul",
+            "03:00 - Festivalul de la Amara"
         ]
     },
     {
