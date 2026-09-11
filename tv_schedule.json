@@ -23,45 +23,12 @@
     {
         "id": 2,
         "tv_channel": "ANTENA3",
-        "tv_program": [
-            "07:00 - Ştiri",
-            "08:00 - Știrile dimineții",
-            "10:00 - Stiri cu Ana Iorga",
-            "11:00 - NewsRoom cu Madalina Mihalache",
-            "12:00 - Ştiri",
-            "13:00 - NewsRoom",
-            "14:00 - Ştiri",
-            "15:00 - Decisiv",
-            "16:00 - Stiri cu Sabrina Preda si Sergiu Cora",
-            "16:30 - Romania Inteligenta cu Adrian Ursu",
-            "17:00 - Romania 360 cu Ana Roman si Robert Kiss",
-            "18:00 - News Hour with CNN",
-            "19:00 - Decisiv Prime Time cu Catalina Porumbel",
-            "21:00 - Exces de putere",
-            "23:00 - Ştiri",
-            "00:00 - Ştiri",
-            "01:00 - Decisiv cu Catalina Porumbel , reluare",
-            "02:30 - Exces de putere",
-            "04:00 - Romania 360 cu Ana Roman si Robert Kiss, reluare",
-            "05:00 - News Hour with CNN",
-            "06:00 - Știrile dimineții"
-        ]
+        "tv_program": []
     },
     {
         "id": 3,
         "tv_channel": "B1",
-        "tv_program": [
-            "08:00 - Bună dimineața, România!",
-            "12:00 - Talk B1",
-            "15:00 - Politica zilei",
-            "18:00 - Bună, România!",
-            "20:00 - Special B1",
-            "23:00 - Fărădelege",
-            "00:00 - Bună, România!",
-            "01:50 - Politica zilei",
-            "03:30 - Fărădelege",
-            "04:10 - Special B1"
-        ]
+        "tv_program": []
     },
     {
         "id": 7,
@@ -86,215 +53,37 @@
     {
         "id": 8,
         "tv_channel": "ANTENA1",
-        "tv_program": [
-            "08:00 - Neatza cu Răzvan şi Dani",
-            "12:00 - Observator",
-            "14:00 - Mireasa – Regatul inimii",
-            "16:00 - Observator",
-            "17:00 - Furnicuțele",
-            "19:00 - Observator",
-            "20:30 - Temptation Island - Insula iubirii",
-            "00:00 - Asia Express - Drumul Mătăsii",
-            "03:00 - Observator",
-            "04:00 - Furnicuțele",
-            "06:00 - Observator"
-        ]
+        "tv_program": []
     },
     {
         "id": 4,
         "tv_channel": "TVR1",
-        "tv_program": [
-            "07:00 - Gala Umorului",
-            "07:55 - Vorbeşte corect!",
-            "08:00 - Români universali",
-            "08:30 - Exclusiv în România",
-            "09:30 - Rock Maniac",
-            "10:30 - Portret de secol",
-            "11:30 - Zi de zi cu părintele Constantin Necula",
-            "11:40 - Tezaur folcloric",
-            "12:40 - Zeul războiului • Ep.8 2012 - (R) - Coreea de Sud - Istoric Cu: Ju-hyuk Kim, Gyu-ri Kim Nota: 8.4 / Imdb -",
-            "14:00 - Telejurnal",
-            "15:00 - Opre Roma",
-            "15:50 - Etnicity",
-            "16:40 - Gala Umorului",
-            "17:40 - Zeul războiului • Ep.9 2012 - Coreea de Sud - Istoric Cu: Ju-hyuk Kim, Gyu-ri Kim Nota: 8.4 / Imdb -",
-            "19:00 - Telejurnal",
-            "20:00 - Presupus nevinovat | 2024 - Franta - Dramă | Cu: Daniel Auteuil, Grégory Gadebois | Nota: 7.1 / Imdb 6.6",
-            "22:15 - Anul Nadia",
-            "23:00 - Telejurnal",
-            "00:00 - Turul României 2026",
-            "00:40 - Presupus nevinovat 2024 - (R) - Franta - Dramă Cu: Daniel Auteuil, Grégory Gadebois Nota: 7.1 / Imdb 6.6",
-            "02:55 - Vorbeşte corect!",
-            "03:05 - Zi de zi cu părintele Constantin Necula",
-            "03:10 - Telejurnal",
-            "04:00 - Gulag - o istorie",
-            "05:00 - Tezaur folcloric",
-            "05:55 - Imnul României",
-            "06:00 - Telejurnal"
-        ]
+        "tv_program": []
     },
     {
         "id": 5,
         "tv_channel": "TVR2",
-        "tv_program": [
-            "07:00 - Teleshopping",
-            "07:15 - Filler",
-            "07:30 - Vis sau realitate",
-            "08:00 - Documentar 360° Geo",
-            "09:00 - AI idee?!",
-            "09:30 - Tonomatul de pe 2",
-            "11:00 - Teleshopping",
-            "11:15 - Filler",
-            "11:30 - România... în bucate",
-            "12:00 - Telejurnal TVR 2",
-            "13:00 - Cultura minorităţilor",
-            "13:30 - Magazin Deutsche Welle",
-            "14:00 - Documentar 360° Geo",
-            "15:00 - Daniel Day Lewis: geniul de la Hollywood",
-            "16:00 - AI idee?!",
-            "16:30 - Istorii de bun gust",
-            "17:30 - România... în bucate",
-            "18:00 - Ora de ştiri",
-            "18:50 - E vremea ta!",
-            "19:05 - Comisarul Rex: aventuri la Viena • Ep.61 1994 - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
-            "20:05 - Inimi • Sez.2, Ep.9-10 2021 - Italia - Dramă Cu: Marco Bonini, Carola Stagnaro Nota: 8.3 / Imdb 7.7",
-            "22:15 - Romania face bine",
-            "23:15 - Levintza prezintă",
-            "23:50 - Magazin Deutsche Welle",
-            "00:25 - Comisarul Rex: aventuri la Viena • Ep.61 1994 - (R) - Austria, Germania - Acţiune, Crimă, Mister Cu: Tobias Moretti, Reginald von Ravenhorst Nota: 8.7 / Imdb 7.2",
-            "01:25 - Delta Bucureștiului 2020 - Franta - Documentar Cu: Eva Pervolovici, Ileana Samoilă Nota: - / Imdb 5.7",
-            "03:05 - Ora de ştiri",
-            "03:50 - E vremea ta!",
-            "04:05 - Documentar 360° Geo",
-            "05:00 - Istorii de bun gust",
-            "05:50 - România... în bucate",
-            "06:15 - E vremea ta!",
-            "06:30 - Generaţia Fit",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 9,
         "tv_channel": "Kanal D",
-        "tv_program": [
-            "07:00 - Fata de la fereastră 2021 - Turcia - Dramă Cu: Burcu Biricik, Selma Ergeç Nota: 6.6 / Imdb 5.5",
-            "08:00 - Follow us",
-            "10:00 - Casa iubirii",
-            "12:00 - Știrile Kanal D",
-            "13:00 - În căutarea adevărului",
-            "15:00 - Jocul cuvintelor cu Dan Negru",
-            "16:30 - Casa iubirii",
-            "19:00 - Știrile Kanal D",
-            "20:00 - O dragoste 2022 - Turcia - Dramă, Romantic Cu: Baris Kilic, Evrim Alasya Nota: 7.5 / Imdb 5.4",
-            "23:00 - Destăinuiri 2020 - (R) - Turcia - Dramă Cu: Binnur Kaya, Gulcin Kultur Sahin Nota: 8.0 / Imdb 7.3",
-            "02:00 - Casa iubirii",
-            "05:15 - Follow us",
-            "06:30 - Apel la consilier"
-        ]
+        "tv_program": []
     },
     {
         "id": 10,
         "tv_channel": "Prima TV",
-        "tv_program": [
-            "07:00 - Exclusiv VIP",
-            "09:00 - Iubiri secrete 2011 - Romania - Dragoste Cu: Alin Brancu, George Simion Nota: 6.2 / Imdb 4.8",
-            "10:00 - Elisa 2003 - Italia - Dramă, Romantic, Dragoste Cu: Vittoria Puccini, Alessandro Preziosi Nota: 8.9 / Imdb 7.5",
-            "11:00 - Teleshopping",
-            "13:00 - Focus",
-            "14:50 - Exclusiv VIP",
-            "16:45 - Elisa 2003 - Italia - Dramă, Romantic, Dragoste Cu: Vittoria Puccini, Alessandro Preziosi Nota: 8.9 / Imdb 7.5",
-            "17:50 - Focus sport",
-            "18:00 - Focus 18",
-            "19:15 - Papiland: prieteni pe viata",
-            "20:00 - Misterele Bucureștilor 1983 - Romania - Documentar Cu: Florin Piersic, Marga Barbu Nota: 7.7 / Imdb 7.2",
-            "22:30 - Ultima noapte de dragoste 1980 - Romania - Dramă, Război Cu: Joanna Pacula, Vladimir Găitan Nota: 7.6 / Imdb 7.4",
-            "00:30 - Exclusiv VIP",
-            "02:30 - Caracatița 1984 - (R) - Italia - Crimă, Dramă, Familie Cu: Michele Placido, Patricia Millardet Nota: 8.8 / Imdb 8.4",
-            "05:00 - Elisa 2003 - (R) - Italia - Dramă, Romantic, Dragoste Cu: Vittoria Puccini, Alessandro Preziosi Nota: 8.9 / Imdb 7.5",
-            "06:00 - Focus"
-        ]
+        "tv_program": []
     },
     {
         "id": 11,
         "tv_channel": "TVR3",
-        "tv_program": [
-            "07:00 - Telematinal",
-            "07:55 - Maşina timpului",
-            "08:00 - Telematinal",
-            "09:00 - Telematinal",
-            "10:00 - Vară pentru voi",
-            "10:55 - Memoria tiparului",
-            "11:00 - Toţi împreună",
-            "12:50 - Teleshopping",
-            "13:05 - Toţi împreună",
-            "13:30 - Schiţe urbane",
-            "14:00 - Tableta de sănătate",
-            "14:55 - Art pass",
-            "15:00 - Cântec şi poveste",
-            "15:55 - Povestea zilei",
-            "16:00 - Care pe care",
-            "16:55 - Maşina timpului",
-            "17:00 - Telejurnal regional",
-            "17:30 - Lumea de aproape",
-            "18:00 - Handbal Liga Zimbrilor",
-            "19:30 - Ţăst şow",
-            "20:00 - Cântec şi poveste",
-            "20:55 - Memoria tiparului",
-            "21:00 - TV Retro",
-            "21:29 - TV Retro",
-            "22:00 - TV Retro",
-            "22:30 - Selfie",
-            "22:55 - Memoria tiparului",
-            "23:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
-            "01:00 - Telejurnal regional",
-            "01:30 - Lumea de aproape",
-            "02:00 - Selfie",
-            "02:30 - Ţăst şow",
-            "03:00 - Cântec şi poveste",
-            "03:50 - Memoria tiparului",
-            "04:00 - Toţi împreună",
-            "05:55 - Art pass",
-            "06:00 - Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 12,
         "tv_channel": "TVR International",
-        "tv_program": [
-            "07:00 - Telejurnal matinal",
-            "07:50 - România face bine",
-            "08:00 - Telejurnal matinal",
-            "08:50 - Vorbeşte corect!",
-            "09:00 - Telejurnal matinal",
-            "09:50 - Drag de România mea!",
-            "11:30 - Lumea de aproape",
-            "12:00 - România în lume",
-            "13:00 - Care pe care",
-            "14:00 - Telejurnal",
-            "14:50 - Discover Romania",
-            "15:00 - Istorii cu tâlc",
-            "16:00 - Banii, azi",
-            "17:00 - Gala Umorului",
-            "17:45 - România... în bucate",
-            "18:10 - Istorii de bun gust",
-            "19:00 - Telejurnal",
-            "19:55 - Zi de zi cu părintele Constantin Necula",
-            "20:00 - România face bine",
-            "20:50 - Concert TVR Cultural",
-            "22:20 - Dosar România",
-            "00:00 - Telejurnal Moldova",
-            "00:45 - Europa Azi",
-            "01:00 - Gala Umorului",
-            "01:45 - Festivalul Internaţional de Foloclor \"Cântecele Munţilor, 2025\"",
-            "03:00 - Telejurnal",
-            "03:55 - Zi de zi cu părintele Constantin Necula",
-            "04:00 - Un doctor pentru dumneavoastră",
-            "04:30 - România... în bucate",
-            "05:00 - Concert TVR Cultural",
-            "06:30 - Lumea de aproape",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 13,
@@ -320,20 +109,7 @@
     {
         "id": 14,
         "tv_channel": "PROCINEMA",
-        "tv_program": [
-            "08:15 - Haina magicianului 2024 - (R) - SUA - Aventuri, Familie, Fantastic Cu: Ashton Leigh, Bryson Robinson Nota: 6.8 / Imdb 5.0",
-            "10:15 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "12:30 - Dacă-i bal, bal să fie!",
-            "14:30 - Dragostea pas cu pas 2016 - Canada - Comedie, Dramă, Romantic Cu: Jonathan Scarfe, Kristoffer Polaha Nota: 6.8 / Imdb 5.7",
-            "16:30 - Maestrul despărțirilor 2004 - SUA - Comedie, Romantic, Dragoste Cu: Jamie Foxx, Gabrielle Union Nota: 6.3 / Imdb 5.6",
-            "18:15 - La bloc 2002 - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "20:30 - Edge of Tomorrow: Prizonier în timp | 2014 - SUA - Acţiune, SF | Cu: Tom Cruise, Emily Blunt | Nota: 8.0 / Imdb 7.9",
-            "22:45 - Șefa 2016 - SUA - Comedie Cu: Peter Dinklage, Melissa McCarthy Nota: 6.3 / Imdb 5.4",
-            "00:45 - Edge of Tomorrow: Prizonier în timp 2014 - (R) - SUA - Acţiune, SF Cu: Tom Cruise, Emily Blunt Nota: 8.0 / Imdb 7.9",
-            "03:00 - Apropo Tv",
-            "04:00 - La bloc 2002 - (R) - Romania - Comedie Cu: Dragos Mostenescu, Dana Rogoz Nota: 8.4 / Imdb 6.2",
-            "05:30 - Batem palma?"
-        ]
+        "tv_program": []
     },
     {
         "id": 15,
@@ -419,63 +195,17 @@
     {
         "id": 20,
         "tv_channel": "HBO",
-        "tv_program": [
-            "08:15 - Batman Azteca: Choque De Imperios 2025 - SUA - Acţiune, Animaţie, Aventuri Cu: Álvaro Morte, Omar Chaparro Nota: - / Imdb 5.4",
-            "09:45 - Labirintul: Evadarea 2014 - SUA - Mister, SF, Thriller Cu: Ki Hong Lee, Dylan O'Brien Nota: 7.9 / Imdb 6.8",
-            "11:35 - Secretul aurarului 2025 - Spania - Dramă, Romantic Cu: Mario Casas, Michelle Jenner Nota: 7.0 / Imdb 6.1",
-            "13:10 - Pe platourile de filmare • Sez.23, Ep.37",
-            "13:40 - Cascadorul 2024 - SUA - Acţiune, Dramă Cu: Aaron Taylor-Johnson, Ryan Gosling Nota: 6.5 / Imdb 6.8",
-            "15:45 - The Pitt: Spitalul • Sez.2, Ep.8 2025 - SUA - Dramă Cu: Noah Wyle, Fiona Dourif Nota: 8.1 / Imdb 8.9",
-            "16:30 - Wildcat 2023 - SUA - Biografic, Dramă Cu: Maya Hawke, Laura Linney Nota: - / Imdb 5.8",
-            "18:15 - Ce se întâmplă mai târziu 2023 - SUA - Comedie, Romantic, Dragoste Cu: Meg Ryan, David Duchovny Nota: 5.9 / Imdb 4.9",
-            "20:00 - Marea mahmureală | 2009 - SUA - Comedie | Cu: Ed Helms, Zach Galifianakis | Nota: 8.3 / Imdb 7.7",
-            "21:40 - Clown in a Cornfield 2025 - SUA - Horror Cu: Katie Douglas, Carson MacCormac Nota: 6.2 / Imdb 5.6",
-            "23:15 - Înspăimântător 2020 - SUA - Comedie, Horror, Thriller Cu: Kathryn Newton, Vince Vaughn Nota: 6.5 / Imdb 6.3",
-            "00:55 - Trenul asasinilor 2022 - SUA - Acţiune, Thriller Cu: Brad Pitt, Joey King Nota: 7.0 / Imdb 7.3",
-            "03:00 - Gaucho Gaucho 2024 - SUA - Documentar Nota: - / Imdb 7.0",
-            "04:20 - Marea mahmureală 2009 - SUA - Comedie Cu: Ed Helms, Zach Galifianakis Nota: 8.3 / Imdb 7.7",
-            "06:00 - Wildcat 2023 - SUA - Biografic, Dramă Cu: Maya Hawke, Laura Linney Nota: - / Imdb 5.8"
-        ]
+        "tv_program": []
     },
     {
         "id": 21,
         "tv_channel": "HBO_2",
-        "tv_program": [
-            "07:00 - Focus 2015 - SUA - Comedie, Crimă, Dramă Cu: Margot Robbie, Will Smith Nota: 7.7 / Imdb 6.6",
-            "08:40 - Vulpea și iepurașul salvează pădurea 2024 - Olanda, Belgia, Luxemburg - Animaţie, Aventuri, Comedie Cu: Teresa Gallagher, Sarah Madigan Nota: - / Imdb 5.9",
-            "09:50 - Oamenii Gnu 2016 - Noua Zeelanda - Aventuri, Comedie, Dramă Cu: Sam Neill, Julian Dennison Nota: 7.1 / Imdb 7.8",
-            "11:25 - Tabăra Gheară de urs 2025 - Portugalia, Spania - Aventuri, Comedie, Familie Cu: Júlia Raya, Martín Abelló Sevillano Nota: - / Imdb 5.5",
-            "13:05 - Divorț • Sez.1, Ep.1 2016 - SUA - Comedie Cu: Dean Winters, Steven Pasquale Nota: 7.0 / Imdb 6.8",
-            "13:40 - Uimitorul Om-Păianjen 2 2014 - SUA - Acţiune, Aventuri, Fantastic Cu: Jamie Foxx, Emma Stone Nota: 7.6 / Imdb 6.6",
-            "15:55 - Corul 2025 - Marea Britanie, SUA - Dramă, Istoric, Romantic Cu: Ralph Fiennes, Mark Addy Nota: 6.9 / Imdb 6.4",
-            "17:45 - Hobbitul: O călătorie neașteptată 2012 - SUA - Aventuri, Fantastic Cu: Ian McKellen, Martin Freeman Nota: 8.6 / Imdb 7.8",
-            "20:30 - Cel mai tare din parcare | 2026 - SUA - Animaţie, Aventuri, Comedie | Cu: David Harbour, Patton Oswalt | Nota: 7.4 / Imdb 6.9",
-            "22:05 - Vacanța de iarnă 2023 - SUA - Comedie, Dramă Cu: Paul Giamatti, Tate Donovan Nota: 7.7 / Imdb 7.9",
-            "00:15 - Monștrii lui Dumnezeu • Sez.1, Ep.2",
-            "01:10 - La drum cu Conan O’Brien • Sez.3, Ep.3",
-            "01:50 - După 28 de ani: Templul oaselor 2026 - Marea Britanie, SUA - Horror Cu: Ralph Fiennes, Emma Laird Nota: 6.4 / Imdb 7.4",
-            "03:35 - Birth/Rebirth 2023 - SUA - Horror, Thriller Cu: Judy Reyes, Marin Ireland Nota: 6.2 / Imdb 6.2",
-            "05:15 - Focus 2015 - SUA - Comedie, Crimă, Dramă Cu: Margot Robbie, Will Smith Nota: 7.7 / Imdb 6.6"
-        ]
+        "tv_program": []
     },
     {
         "id": 356663382,
         "tv_channel": "FilmNow",
-        "tv_program": [
-            "08:00 - Conspirație la Cairo 2022 - Suedia, Franta, Finlanda, Danemarca - Dramă, Thriller Cu: Tawfeek Barhom, Fares Fares Nota: 7.2 / Imdb 6.9",
-            "09:55 - Honey 2003 - SUA - Aventuri, Muzical, Romantic Cu: Jessica Alba, Romeo Miller Nota: 6.7 / Imdb 5.3",
-            "11:30 - Yes Man - Un cuvânt poate schimba totul 2008 - SUA - Comedie Cu: Zooey Deschanel, Jim Carrey Nota: 7.8 / Imdb 6.8",
-            "13:10 - Greu de pensionat 2 2013 - SUA - Acţiune, Comedie, Crimă Cu: Bruce Willis, Helen Mirren Nota: 7.6 / Imdb 6.6",
-            "14:55 - BlackBerry 2023 - Canada - Biografic, Comedie, Dramă Cu: Jay Baruchel, Glenn Howerton Nota: 7.2 / Imdb 7.3",
-            "16:50 - Lupul și leul: O prietenie ca-n povești 2021 - Franta - Aventuri, Familie Cu: Graham Greene, Charlie Carrick Nota: 7.4 / Imdb 6.2",
-            "18:30 - Blind Date 2015 - Franta - Comedie, Romantic, Dragoste Cu: Stefan Godin, Sophie Le Tellier Nota: 7.4 / Imdb 6.6",
-            "20:00 - Profu' de spionaj: Orașul etern | 2024 - SUA - Acţiune, Comedie | Cu: Dave Bautista, Chloe Coleman | Nota: 6.5 / Imdb 5.7",
-            "21:45 - Orfani in Brooklyn 2019 - SUA - Crimă, Dramă, Mister Cu: Edward Norton, Bruce Willis Nota: 6.8 / Imdb 6.8",
-            "00:05 - Starsky și Hutch 2004 - SUA - Acţiune, Aventuri, Comedie Cu: Ben Stiller, Owen Wilson Nota: 6.8 / Imdb 6.1",
-            "01:40 - Infiltrarea lui Rick 2018 - SUA - Crimă, Dramă Cu: Jennifer Jason Leigh, Matthew McConaughey Nota: 6.6 / Imdb 6.5",
-            "03:25 - Mascarada 2022 - Franta - Crimă, Dramă Cu: Pierre Niney, Isabelle Adjani Nota: 6.5 / Imdb 6.4",
-            "05:35 - Toate numele lui Dumnezeu 2023 - Spania - Acţiune, Aventuri, Dramă Cu: Luis Tosar, Inma Cuesta Nota: - / Imdb 5.8"
-        ]
+        "tv_program": []
     },
     {
         "id": 27,
@@ -511,37 +241,12 @@
     {
         "id": 29,
         "tv_channel": "KISS-TV",
-        "tv_program": [
-            "10:00 - Kiss Alert",
-            "13:00 - Kiss After School",
-            "16:00 - Hits For Hours",
-            "19:00 - Kiss Alert",
-            "21:00 - Big Beats",
-            "02:00 - Kiss By Night",
-            "06:00 - Rise & Kiss"
-        ]
+        "tv_program": []
     },
     {
         "id": 30,
         "tv_channel": "TVR Folclor",
-        "tv_program": [
-            "07:00 - Zestrea muzicală",
-            "08:50 - Etnografica",
-            "09:00 - Muzica regiunilor",
-            "11:00 - Tezaur folcloric",
-            "12:00 - Scena românilor",
-            "14:00 - Cântec românesc",
-            "15:50 - Etnografica",
-            "16:00 - Mostenirea cantecului",
-            "18:00 - De la sate adunate",
-            "19:00 - Tezaur folcloric",
-            "20:00 - Ora de aur",
-            "21:00 - Scena românilor",
-            "22:50 - Etnografica",
-            "23:00 - Cu lăutarii după mine",
-            "00:00 - Muzică tradiţională",
-            "06:55 - Imnul României"
-        ]
+        "tv_program": []
     },
     {
         "id": 80,
@@ -562,22 +267,7 @@
     {
         "id": 31,
         "tv_channel": "REALITATEA",
-        "tv_program": [
-            "07:00 - Plus Matinal",
-            "10:00 - Realitatea zilei",
-            "12:00 - Newsroom",
-            "14:00 - Raport de zi",
-            "16:00 - Deschide lumea",
-            "17:00 - Day time news",
-            "18:00 - Ediție specială",
-            "20:00 - Primetime news",
-            "22:00 - Ediție specială",
-            "23:00 - Jurnal",
-            "00:00 - Ediție specială",
-            "02:00 - Primetime news",
-            "03:00 - Raport de zi",
-            "05:00 - Jurnal"
-        ]
+        "tv_program": []
     },
     {
         "id": 32,
@@ -598,51 +288,12 @@
     {
         "id": 33,
         "tv_channel": "EURO-NEWS",
-        "tv_program": [
-            "07:00 - Focus 18",
-            "08:00 - Proiect De Tara:",
-            "10:00 - Viitor Pt Romania Live Cu Nicoleta Calugareanu",
-            "18:00 - Prima News Special Cu Denisa Marin",
-            "20:00 - Focus 18 Inregistrat",
-            "22:00 - Cu Iosif Pe Coclauri",
-            "00:00 - Viitor Pt Romania",
-            "02:00 - Prima News Debate",
-            "04:00 - Focus 18",
-            "05:00 - Cu Iosif Pe Coclauri"
-        ]
+        "tv_program": []
     },
     {
         "id": 34,
         "tv_channel": "CNN-LIVE",
-        "tv_program": [
-            "07:00 - The Story Is: With Elex Michaelson",
-            "08:00 - The Story Is: With Elex Michaelson",
-            "09:00 - CNN Newsroom",
-            "10:00 - CNN Newsroom",
-            "11:00 - CNN Newsroom",
-            "12:00 - CNN Headline Express",
-            "13:00 - CNN This Morning",
-            "14:00 - CNN News Central",
-            "15:00 - CNN News Central",
-            "15:30 - World Sport",
-            "16:00 - Connect the World",
-            "16:45 - World Sport",
-            "17:00 - Connect the World",
-            "18:00 - One World",
-            "19:00 - One World",
-            "20:00 - Amanpour",
-            "21:00 - Isa Soares Tonight",
-            "22:00 - What We Know with Max Foster",
-            "23:00 - Quest Means Business",
-            "00:00 - The Lead with Jake Tapper",
-            "00:30 - World Sport",
-            "01:00 - The Brief with Jim Sciutto",
-            "02:00 - Erin Burnett OutFront",
-            "03:00 - Anderson Cooper 360",
-            "04:00 - The Source with Kaitlan Collins",
-            "05:00 - CNN NewsNight",
-            "06:00 - Laura Coates Live"
-        ]
+        "tv_program": []
     },
     {
         "id": 35,
@@ -652,70 +303,12 @@
     {
         "id": 38,
         "tv_channel": "PRS-1",
-        "tv_program": [
-            "07:00 - Ştirile Prima Sport",
-            "07:15 - Fotbal Show",
-            "08:15 - Ştirile Prima Sport",
-            "08:30 - Rezumate UEFA Champions League",
-            "09:30 - Ştirile Prima Sport",
-            "09:45 - Fotbal Show",
-            "10:45 - Teleshopping",
-            "11:15 - Ştirile Prima Sport",
-            "11:30 - Teleshopping",
-            "12:00 - Ştirile Prima Sport",
-            "12:15 - Teleshopping",
-            "12:45 - Fotbal Show",
-            "13:45 - Rezumate UEFA Champions League",
-            "14:45 - Ştirile Prima Sport",
-            "15:00 - Teleshopping",
-            "15:30 - Ştirile Prima Sport",
-            "15:45 - Rezumate UEFA Champions League",
-            "16:45 - Ştirile Prima Sport",
-            "17:00 - Fotbal Show",
-            "18:00 - Farul Constanța – UTA Arad",
-            "20:00 - Fotbal Show",
-            "21:00 - Csickszereda – Dinamo",
-            "23:00 - Fotbal Show",
-            "00:30 - Ştirile Prima Sport",
-            "00:45 - Fotbal Show",
-            "01:45 - Ştirile Prima Sport",
-            "02:00 - Fotbal Show",
-            "03:30 - Ştirile Prima Sport",
-            "03:45 - Csickszereda – Dinamo",
-            "05:45 - Ştirile Prima Sport",
-            "06:00 - Fotbal Show"
-        ]
+        "tv_program": []
     },
     {
         "id": 39,
         "tv_channel": "PRS-2",
-        "tv_program": [
-            "07:00 - Rezumate UEFA Champions League",
-            "08:00 - Ştirile Prima Sport",
-            "08:15 - Rezumate Superliga",
-            "08:45 - Ştirile Prima Sport",
-            "09:00 - Teleshopping",
-            "10:00 - MOTO GP: MARELE PREMIU DIN SAN MARINO",
-            "12:45 - Teleshopping",
-            "13:15 - Ştirile Prima Sport",
-            "13:30 - Teleshopping",
-            "14:00 - Ştirile Prima Sport",
-            "14:15 - MOTO GP: MARELE PREMIU DIN SAN MARINO",
-            "17:15 - Rezumate UEFA Champions League",
-            "18:15 - Ştirile Prima Sport",
-            "18:30 - Rezumate UEFA Champions League",
-            "19:30 - Nurenberg – Hanovra",
-            "21:30 - Ştirile Prima Sport",
-            "21:45 - Venezia – Fiorentina",
-            "23:45 - Rezumate UEFA Champions League",
-            "00:45 - Csickszereda – Dinamo",
-            "02:45 - Ştirile Prima Sport",
-            "03:00 - Sevilla – Valencia",
-            "05:00 - Ştirile Prima Sport",
-            "05:15 - Rezumate UEFA Champions League",
-            "06:15 - Ştirile Prima Sport",
-            "06:30 - Venezia – Fiorentina"
-        ]
+        "tv_program": []
     },
     {
         "id": 40,
@@ -1194,7 +787,7 @@
             "08:20 - Muschetarul 2001 - SUA - Acţiune, Dramă Cu: Catherine Deneuve, Mena Suvari Nota: 5.0 / Imdb 4.8",
             "10:25 - Sf. Vincent 2014 - SUA - Comedie Cu: Melissa McCarthy, Naomi Watts Nota: 7.7 / Imdb 7.2",
             "12:25 - Mythica: Tărâmul zeilor 2016 - SUA - Acţiune, Aventuri, Fantastic Cu: Adam Johnson, Matthew Mercer Nota: 6.4 / Imdb 5.6",
-            "14:55 - Un geniu, doi asociaţi şi un idiot 1975 - Italia - Comedie, Western Cu: Terence Hill, Miou-Miou Nota: 7.4 / Imdb 6.2",
+            "14:55 - Un geniu, doi asociaţi şi un idiot 1975 - Italia - Comedie, Western Cu: Terence Hill, Miou-Miou Nota: 7.3 / Imdb 6.2",
             "17:45 - Legenda lui Zorro 2005 - SUA - Acţiune, Aventuri, Dramă Cu: Antonio Banderas, Catherine Zeta-Jones Nota: 7.1 / Imdb 6.0",
             "20:15 - Din adâncuri | 2016 - SUA - Dramă, Thriller | Cu: Blake Lively, Óscar Jaenada | Nota: 6.9 / Imdb 6.3",
             "22:00 - Vârcolacii 2006 - SUA - Acţiune, Horror, SF Cu: Jason Behr, Elias Koteas Nota: 6.5 / Imdb 4.5",
