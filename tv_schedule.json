@@ -1367,7 +1367,23 @@
     {
         "id": 3536663382,
         "tv_channel": "Nostalgia TV",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Concert Marcel Pavel",
+            "10:00 - Desene animate",
+            "10:30 - Cascadorii râsului",
+            "11:00 - Pariziana",
+            "12:30 - Concert Mircea Baniciu",
+            "13:30 - Cascadorii râsului",
+            "14:00 - Mica prințesă",
+            "15:30 - Melo",
+            "16:30 - Cascadorii râsului",
+            "17:30 - Minele regelui Solomon",
+            "19:00 - Cascadorii râsului",
+            "20:00 - Arta seducției",
+            "22:00 - Decalogul",
+            "01:30 - Cascadorii râsului",
+            "03:00 - Festivalul de la Amara"
+        ]
     },
     {
         "id": 1468,
